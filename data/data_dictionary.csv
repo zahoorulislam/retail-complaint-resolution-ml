@@ -1,0 +1,17 @@
+field,description,data_type,role,treatment_notes
+date_received,Date CFPB received the complaint,date,control/trend,Convert to year quarter and month
+product,Financial product selected by consumer,categorical,predictor,Filter to retail banking products and encode
+sub_product,Detailed product category,categorical,predictor,Use where coverage is sufficient
+issue,Main complaint issue,categorical,predictor,Standardize and encode
+sub_issue,Detailed complaint issue,categorical,predictor,Use if not too sparse
+consumer_complaint_narrative,Published complaint text,text,NLP predictor,Clean text TF-IDF LDA topic features and text length
+company_public_response,Public-facing company response,text/context,post-response context,Exclude from intake-stage prediction to prevent leakage
+company,Company named in complaint,categorical,predictor/control,Limit to companies with sufficient volume
+state,Consumer state,categorical,predictor/control,Use as state control with population caveat
+zip_code,Published ZIP code or partial ZIP,text,optional geography,Use only at aggregated level
+submitted_via,Complaint submission channel,categorical,predictor,Encode web phone referral postal mail or other
+date_sent_to_company,Date CFPB sent complaint to company,date,process variable,Use only if known at prediction point otherwise process analysis only
+company_response_to_consumer,Company response category,categorical,target/outcome,Use as multiclass outcome or collapse categories
+timely_response,Whether company responded timely,binary,target/outcome,Use as binary classification target
+consumer_disputed,Whether consumer disputed response,categorical,optional outcome,Availability may vary by period
+complaint_id,Unique complaint identifier,identifier,key,Remove from model predictors

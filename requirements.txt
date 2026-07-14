@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+imbalanced-learn
+nltk
+spacy
+textblob
+gensim
+shap
+jupyter
+notebook
