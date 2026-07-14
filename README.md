@@ -48,5 +48,3 @@ Primary data source: CFPB Consumer Complaint Database
 Official website: https://www.consumerfinance.gov/data-research/consumer-complaints/  
 API field reference: https://cfpb.github.io/api/ccdb/fields.html  
 
-## Reproducibility Note
-If the raw dataset is too large for GitHub, keep the extraction script in the repository and store only small samples or processed outputs.
