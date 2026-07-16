@@ -1,0 +1,31 @@
+feature,coefficient,absolute_coefficient
+cat__sub_issue_You never received your bill or did not know a payment was due,3.85946030500481,3.85946030500481
+cat__sub_product_Conventional adjustable mortgage (ARM),3.1231138184526874,3.1231138184526874
+cat__sub_product_Manufactured home loan,3.114827430254369,3.114827430254369
+cat__sub_issue_Problem with paying off the loan,3.018931011422228,3.018931011422228
+cat__sub_issue_Problem using the card to withdraw money from an ATM,3.001192981448801,3.001192981448801
+cat__company_grouped_U.S. BANCORP,2.882531612467083,2.882531612467083
+cat__state_grouped_SD,2.859468477399997,2.859468477399997
+cat__sub_issue_Changes in terms mid-deal or after closing,2.8586038716461477,2.8586038716461477
+cat__sub_product_Home equity loan or line of credit,2.77137405496323,2.77137405496323
+cat__issue_Credit monitoring or identity theft protection services,2.685512349317739,2.685512349317739
+cat__sub_issue_Problem with customer service,2.673862498797968,2.673862498797968
+cat__issue_Unable to get your credit report or credit score,2.6622019148343163,2.6622019148343163
+cat__sub_issue_Voluntary repossession,2.651328243569237,2.651328243569237
+cat__company_grouped_PNC Bank N.A.,2.631506244704222,2.631506244704222
+cat__company_grouped_TD BANK US HOLDING COMPANY,2.6190554294647264,2.6190554294647264
+cat__sub_issue_Problem with direct deposit,2.5440484060193325,2.5440484060193325
+cat__company_grouped_NAVY FEDERAL CREDIT UNION,2.454737207112322,2.454737207112322
+cat__company_grouped_DISCOVER BANK,2.4536333803981347,2.4536333803981347
+cat__issue_Identity theft / Fraud / Embezzlement,2.449405656077049,2.449405656077049
+cat__sub_issue_Problem with balance transfer,2.3714411077348627,2.3714411077348627
+cat__sub_issue_Foreclosure,2.354559263682209,2.354559263682209
+cat__sub_issue_Don't want a card provided by your employer or the government,2.3168525366844075,2.3168525366844075
+cat__sub_issue_Notice to repossess,2.314878087545323,2.314878087545323
+cat__sub_issue_Changes in loan terms during or after closing,2.293765159347485,2.293765159347485
+"cat__company_grouped_TRANSUNION INTERMEDIATE HOLDINGS, INC.",2.28371027118938,2.28371027118938
+cat__company_grouped_BARCLAYS BANK DELAWARE,2.209171920391749,2.209171920391749
+cat__state_grouped_PR,2.175681625546853,2.175681625546853
+cat__company_grouped_Experian Information Solutions Inc.,2.1669943189879564,2.1669943189879564
+cat__company_grouped_UNITED SERVICES AUTOMOBILE ASSOCIATION,2.150004978155917,2.150004978155917
+cat__sub_issue_Difficulty submitting a dispute or getting information about a dispute over the phone,2.1236762361598656,2.1236762361598656

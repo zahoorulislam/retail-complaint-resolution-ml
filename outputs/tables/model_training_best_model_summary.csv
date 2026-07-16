@@ -1,0 +1,2 @@
+selection_metric,best_model,roc_auc,f1,recall,precision,average_precision
+roc_auc,Structured random forest,0.8748,0.8802,0.7881,0.9966,0.9978

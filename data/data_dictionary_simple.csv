@@ -1,0 +1,20 @@
+field,simple_definition,role_in_study
+date_received,Date and time CFPB received the complaint.,Time control and trend variable.
+date_received_raw,Original unparsed date_received text from the raw file.,Audit/debug field; not used for modeling.
+product,Financial product selected by the consumer.,Main predictor for RQ1 and product filtering.
+sub_product,More detailed product category.,Optional predictor if coverage is sufficient.
+issue,Main complaint issue selected by the consumer.,Main predictor for RQ2.
+sub_issue,More detailed complaint issue.,Optional predictor if not too sparse.
+consumer_complaint_narrative,Text description written by the consumer when consent was provided and CFPB published the text.,NLP feature for RQ3.
+company_public_response,Optional public-facing company response.,Post-response contextual field; avoid as predictor in intake-stage models.
+company,Company named in the complaint.,Company-level predictor/control for RQ4.
+state,Consumer state.,Geographic predictor/control for RQ4.
+submitted_via,"Complaint submission channel such as web, phone, referral, or mail.",Predictor/control variable.
+date_sent_to_company,Date CFPB sent the complaint to the company.,Process variable; use carefully to avoid leakage.
+company_response_to_consumer,Company response category.,Possible target variable for response outcome prediction.
+timely_response,Whether the company responded in a timely manner.,Main binary target variable.
+timely_response_binary,Numeric version of timely_response where Yes = 1 and No = 0.,Binary classification target.
+has_narrative,Indicates whether a published complaint narrative is available.,Narrative availability indicator for RQ3.
+narrative_length,Character length of the complaint narrative.,Simple NLP feature for RQ3.
+received_to_sent_lag_days,Days between CFPB receipt and sending the complaint to the company.,Process analysis only unless available at prediction point.
+complaint_id,Unique complaint record identifier.,Record key only; not used as model predictor.

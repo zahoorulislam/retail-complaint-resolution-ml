@@ -1,0 +1,5 @@
+phase,focus,activities,owner,risk_control
+Phase 1,Analytical validation,"Validate model results, review feature interpretation, check subgroup performance, confirm business relevance.",Analytics team with complaint operations,"Document assumptions, limitations, and leakage exclusions."
+Phase 2,Pilot dashboard,"Create a complaint-risk dashboard showing predicted risk, product, issue, company group, and state-level monitoring.",Operations analytics and complaint management,"Use predictions as decision support only, with human review."
+Phase 3,Workflow integration,"Route high-risk complaints for earlier review, escalation, or specialist handling.",Complaint operations and technology,Monitor false positives and false negatives before scaling.
+Phase 4,Governance and monitoring,"Monitor drift, subgroup performance, complaints by product and issue, and model performance over time.","Model governance, risk, compliance, and business owners",Set retraining schedule and approval process.

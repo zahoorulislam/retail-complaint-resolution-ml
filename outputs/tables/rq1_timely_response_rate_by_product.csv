@@ -1,0 +1,15 @@
+product,total_records,timely_records,timely_rate,timely_rate_percent
+Virtual currency,3,3,1.0,100.0
+Credit card,194996,194335,0.9966101868756282,99.66
+Checking or savings account,333982,330627,0.9899545484487188,99.0
+Credit card or prepaid card,206357,203925,0.988214598971685,98.82
+Mortgage,221283,218042,0.9853535969776259,98.54
+"Money transfer, virtual currency, or money service",164638,162007,0.9840194851735322,98.4
+Vehicle loan or lease,85430,83846,0.981458504038394,98.15
+"Payday loan, title loan, personal loan, or advance loan",24745,23734,0.959143261264902,95.91
+"Payday loan, title loan, or personal loan",30622,29039,0.9483051400953563,94.83
+Prepaid card,15540,14718,0.9471042471042471,94.71
+Consumer Loan,3543,3341,0.9429861699125035,94.3
+Money transfers,440,414,0.9409090909090909,94.09
+Bank account or service,6955,6436,0.9253774263120057,92.54
+Payday loan,493,435,0.8823529411764706,88.24

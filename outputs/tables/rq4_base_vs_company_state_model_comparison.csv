@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+Base: complaint characteristics,0.285,0.992,0.277,0.4331,0.648
+Extended: plus company and state,0.6692,0.9953,0.6677,0.7992,0.7836
+Difference: extended minus base,0.3842,0.0033,0.3907,0.3661,0.1356

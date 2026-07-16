@@ -1,0 +1,23 @@
+{
+  "project": "retail-complaint-resolution-ml",
+  "notebook": "01_data_extraction_fixed_colab_csv.ipynb",
+  "source_file": "/content/drive/MyDrive/retail-complaint-resolution-ml/data/raw/complaints.csv",
+  "source_file_size_gb": 8.31,
+  "start_date": "2017-01-01",
+  "end_date_exclusive": "2026-01-01",
+  "chunk_size": 200000,
+  "total_rows_read": 16545376,
+  "rows_with_valid_date": 16545376,
+  "rows_with_invalid_date_received": 0,
+  "rows_after_date_filter": 11987128,
+  "rows_after_product_filter_before_dedup": 1289027,
+  "rows_final_after_dedup": 1289027,
+  "columns_final": 25,
+  "records_with_narrative": 686744,
+  "narrative_share": 0.5327615325357808,
+  "minimum_date_received": "2017-01-01 00:00:00+00:00",
+  "maximum_date_received": "2025-12-31 22:08:00+00:00",
+  "created_at": "2026-07-16T21:21:14",
+  "leakage_note": "company_response_to_consumer should not be used as a predictor when predicting response outcome. received_to_sent_lag_days is a process variable and should not be used in intake-stage prediction unless available at the prediction point.",
+  "github_note": "Do not upload the full raw or processed dataset to GitHub. Upload the notebook, small sample, metadata, summary tables, and figures."
+}

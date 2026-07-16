@@ -1,0 +1,6 @@
+submitted_via,total_records,actual_timely_rate_percent,predicted_timely_rate_percent,accuracy,balanced_accuracy,precision,recall,f1
+Referral,4013,98.68,78.97,0.7974,0.795,0.9965,0.7975,0.886
+Web,36946,98.6,78.07,0.7892,0.7959,0.9965,0.789,0.8807
+Postal mail,749,99.2,76.64,0.7717,0.8023,0.9983,0.7712,0.8702
+Phone,3181,98.27,75.76,0.7718,0.8392,0.9979,0.7694,0.8689
+Fax,111,98.2,76.58,0.7838,0.8899,1.0,0.7798,0.8763

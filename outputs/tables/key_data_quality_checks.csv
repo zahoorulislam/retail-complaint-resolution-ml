@@ -1,0 +1,10 @@
+check,value
+final_rows,1289027
+final_columns,25
+unique_complaint_ids,1289027
+duplicate_complaint_ids,0
+unique_products,14
+unique_issues,141
+unique_companies,4617
+records_with_timely_response_missing,0
+records_with_company_response_missing,61

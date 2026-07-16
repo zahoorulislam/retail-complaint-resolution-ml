@@ -1,0 +1,5 @@
+prediction_result,count,percent
+True Positive,34964,77.7
+False Negative,9403,20.9
+True Negative,514,1.14
+False Positive,119,0.26

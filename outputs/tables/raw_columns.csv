@@ -1,0 +1,17 @@
+column_number,raw_column_name
+1,Date received
+2,Product
+3,Sub-product
+4,Issue
+5,Sub-issue
+6,Consumer complaint narrative
+7,Company public response
+8,Company
+9,State
+10,ZIP code
+11,Tags
+12,Submitted via
+13,Date sent to company
+14,Company response to consumer
+15,Timely response?
+16,Complaint ID

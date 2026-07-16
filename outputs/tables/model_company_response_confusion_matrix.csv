@@ -1,0 +1,5 @@
+actual,Predicted Closed with explanation,Predicted In progress,Predicted Other response,Predicted Relief provided
+Actual Closed with explanation,19994,11,4698,11549
+Actual In progress,1,0,0,0
+Actual Other response,19,0,77,3
+Actual Relief provided,1733,5,332,6578

@@ -1,0 +1,11 @@
+metric,value
+total_rows,1289027
+total_columns,25
+minimum_date_received,2017-01-01 00:00:00+00:00
+maximum_date_received,2025-12-31 22:08:00+00:00
+missing_date_received,0
+duplicate_complaint_ids,0
+missing_timely_response,0
+missing_company_response,61
+records_with_narrative,686744
+narrative_share_percent,53.28

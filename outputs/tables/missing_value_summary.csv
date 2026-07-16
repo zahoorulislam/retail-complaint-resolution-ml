@@ -1,0 +1,26 @@
+column,missing_count,missing_percent,data_type
+tags,1069670,82.98,object
+company_public_response,731646,56.76,object
+consumer_complaint_narrative,602283,46.72,object
+sub_issue,400657,31.08,object
+state,28399,2.2,object
+sub_product,7762,0.6,object
+date_received,0,0.0,"datetime64[ns, UTC]"
+issue,5,0.0,object
+product,0,0.0,object
+company,0,0.0,object
+zip_code,1,0.0,object
+submitted_via,0,0.0,object
+date_sent_to_company,14,0.0,"datetime64[ns, UTC]"
+company_response_to_consumer,61,0.0,object
+timely_response,0,0.0,object
+complaint_id,0,0.0,object
+date_received_raw,0,0.0,object
+date_sent_to_company_raw,14,0.0,object
+year_received,0,0.0,int32
+month_received,0,0.0,object
+quarter_received,0,0.0,object
+timely_response_binary,0,0.0,int64
+has_narrative,0,0.0,int64
+narrative_length,0,0.0,int64
+received_to_sent_lag_days,14,0.0,float64

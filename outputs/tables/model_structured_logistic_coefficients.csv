@@ -1,0 +1,363 @@
+feature,coefficient,absolute_coefficient
+cat__company_grouped_Other,-4.591128528371081,4.591128528371081
+"cat__company_grouped_BANK OF AMERICA, NATIONAL ASSOCIATION",-3.868396771932502,3.868396771932502
+cat__sub_issue_You never received your bill or did not know a payment was due,3.8594603050048106,3.8594603050048106
+"cat__company_grouped_Shellpoint Partners, LLC",-3.72402029018302,3.72402029018302
+cat__company_grouped_Netspend Corporation,-3.6675721330301654,3.6675721330301654
+cat__company_grouped_TRUIST FINANCIAL CORPORATION,-3.4147743683000975,3.4147743683000975
+"cat__company_grouped_Block, Inc.",-3.3861599664230755,3.3861599664230755
+cat__company_grouped_WELLS FARGO & COMPANY,-3.3708343256530986,3.3708343256530986
+"cat__company_grouped_LoanCare, LLC",-3.339668777816217,3.339668777816217
+cat__sub_product_Conventional adjustable mortgage (ARM),3.1231138184526874,3.1231138184526874
+cat__sub_product_Manufactured home loan,3.114827430254369,3.114827430254369
+cat__sub_issue_Problem with paying off the loan,3.018931011422228,3.018931011422228
+cat__sub_issue_Problem using the card to withdraw money from an ATM,3.001192981448801,3.001192981448801
+cat__company_grouped_U.S. BANCORP,2.882531612467083,2.882531612467083
+cat__state_grouped_SD,2.859468477399997,2.859468477399997
+cat__sub_issue_Changes in terms mid-deal or after closing,2.8586038716461473,2.8586038716461473
+cat__sub_product_Home equity loan or line of credit,2.77137405496323,2.77137405496323
+cat__issue_Credit monitoring or identity theft protection services,2.685512349317739,2.685512349317739
+cat__sub_issue_Problem with customer service,2.673862498797968,2.673862498797968
+cat__issue_Unable to get your credit report or credit score,2.6622019148343163,2.6622019148343163
+cat__sub_issue_Voluntary repossession,2.651328243569237,2.651328243569237
+cat__company_grouped_PNC Bank N.A.,2.631506244704222,2.631506244704222
+cat__company_grouped_TD BANK US HOLDING COMPANY,2.6190554294647264,2.6190554294647264
+cat__sub_issue_Late or other fees,-2.5873033332205577,2.5873033332205577
+"cat__sub_issue_Excess mileage, damage, or wear fees, or other problem after the lease is finished",-2.5775838826226782,2.5775838826226782
+cat__sub_issue_Problem with direct deposit,2.5440484060193325,2.5440484060193325
+cat__company_grouped_NAVY FEDERAL CREDIT UNION,2.454737207112322,2.454737207112322
+cat__company_grouped_DISCOVER BANK,2.4536333803981347,2.4536333803981347
+cat__issue_Identity theft / Fraud / Embezzlement,2.449405656077049,2.449405656077049
+cat__sub_issue_Problem with balance transfer,2.3714411077348627,2.3714411077348627
+cat__sub_issue_Foreclosure,2.3545592636822095,2.3545592636822095
+cat__sub_issue_Don't want a card provided by your employer or the government,2.3168525366844075,2.3168525366844075
+cat__sub_issue_Notice to repossess,2.314878087545323,2.314878087545323
+cat__sub_issue_Changes in loan terms during or after closing,2.2937651593474855,2.2937651593474855
+"cat__company_grouped_TRANSUNION INTERMEDIATE HOLDINGS, INC.",2.28371027118938,2.28371027118938
+cat__sub_product_Virtual currency,-2.213449034486411,2.213449034486411
+cat__company_grouped_BARCLAYS BANK DELAWARE,2.209171920391749,2.209171920391749
+cat__sub_product_Debt settlement,-2.2051890613318688,2.2051890613318688
+cat__state_grouped_PR,2.175681625546853,2.175681625546853
+cat__company_grouped_Experian Information Solutions Inc.,2.1669943189879564,2.1669943189879564
+cat__sub_issue_Problem related to refinancing,-2.1534447046899996,2.1534447046899996
+cat__company_grouped_UNITED SERVICES AUTOMOBILE ASSOCIATION,2.150004978155917,2.150004978155917
+cat__company_grouped_Freedom Mortgage Company,-2.132156314449744,2.132156314449744
+cat__sub_issue_Difficulty submitting a dispute or getting information about a dispute over the phone,2.1236762361598656,2.1236762361598656
+cat__sub_issue_Bounced checks or returned payments,2.1119580842081995,2.1119580842081995
+cat__sub_issue_Paying off the loan,2.106753282892907,2.106753282892907
+"cat__product_Money transfer, virtual currency, or money service",2.0999598370287194,2.0999598370287194
+cat__sub_issue_Trying to communicate with the company to fix an issue with the loan closing,-2.0811147054211054,2.0811147054211054
+cat__sub_issue_Delays in the application process,2.0634201589870016,2.0634201589870016
+cat__sub_issue_Privacy issues,-2.0375352450788755,2.0375352450788755
+cat__sub_issue_Fees charged,2.026136111457294,2.026136111457294
+cat__company_grouped_Specialized Loan Servicing Holdings LLC,-2.0165579581989816,2.0165579581989816
+cat__company_grouped_ALLY FINANCIAL INC.,2.0053024884849933,2.0053024884849933
+cat__sub_issue_Delays with the closing process,1.9901950988071249,1.9901950988071249
+"cat__company_grouped_CITIZENS FINANCIAL GROUP, INC.",1.9656081782152377,1.9656081782152377
+cat__issue_Trouble accessing funds in your mobile or digital wallet,-1.941784808509213,1.941784808509213
+cat__state_grouped_NH,1.8940733201534898,1.8940733201534898
+cat__sub_issue_Termination fees or other problem when ending the lease early,-1.8935428501983251,1.8935428501983251
+"cat__sub_issue_Applying for or obtaining a modification, forbearance plan, short sale, or deed-in-lieu",-1.8546271999198154,1.8546271999198154
+cat__product_Checking or savings account,1.800708784691262,1.800708784691262
+cat__company_grouped_REGIONS FINANCIAL CORPORATION,1.7782446422979297,1.7782446422979297
+cat__company_grouped_Mr. Cooper Group Inc.,1.7654489717326072,1.7654489717326072
+"cat__sub_issue_An existing modification, forbearance plan, short sale, or other loss mitigation relief",1.759829744749888,1.759829744749888
+cat__sub_product_International money transfer,-1.7465394340139102,1.7465394340139102
+"cat__company_grouped_HUNTINGTON NATIONAL BANK, THE",1.736656016012453,1.736656016012453
+cat__company_grouped_Santander Consumer USA Holdings Inc.,1.736601355347435,1.736601355347435
+cat__sub_product_Money order,-1.718722121452698,1.718722121452698
+cat__company_grouped_KEYCORP,1.7002210780615283,1.7002210780615283
+cat__company_grouped_M&T BANK CORPORATION,1.6924986493006544,1.6924986493006544
+cat__company_grouped_Ocwen Financial Corporation,1.6781427259165815,1.6781427259165815
+"cat__company_grouped_SELECT PORTFOLIO SERVICING, INC.",-1.673119867381354,1.673119867381354
+cat__sub_product_Conventional fixed mortgage,1.6589314302637135,1.6589314302637135
+cat__company_grouped_Chime Financial Inc,-1.6086037189251912,1.6086037189251912
+cat__company_grouped_HSBC NORTH AMERICA HOLDINGS INC.,-1.5867243161713611,1.5867243161713611
+cat__sub_issue_Unable to receive car title or other problem after the loan is paid off,-1.582440437730995,1.582440437730995
+cat__sub_issue_Loan sold or transferred to another company,-1.5769158933113199,1.5769158933113199
+cat__sub_product_Mobile or digital wallet,-1.5734522365279329,1.5734522365279329
+"cat__tags_Older American, Servicemember",1.5554210533540218,1.5554210533540218
+cat__sub_issue_Trying to communicate with the company to fix an issue while managing or servicing your loan,-1.535819427160698,1.535819427160698
+cat__product_infrequent_sklearn,1.5033715925003595,1.5033715925003595
+cat__sub_product_Payroll card,1.483814130871764,1.483814130871764
+cat__state_grouped_ME,1.4702826465433863,1.4702826465433863
+cat__company_grouped_BMO BANK NATIONAL ASSOCIATION,1.4309491931560514,1.4309491931560514
+cat__product_Prepaid card,-1.4219207298695538,1.4219207298695538
+"cat__company_grouped_Westlake Services, LLC",1.4160545152289736,1.4160545152289736
+"cat__sub_issue_Trouble getting, activating, or registering a card",-1.407461349318527,1.407461349318527
+cat__sub_issue_Deposits or withdrawals,1.4073441552615193,1.4073441552615193
+cat__company_grouped_JPMORGAN CHASE & CO.,1.38954882086102,1.38954882086102
+cat__issue_Problem with customer service,-1.3667250957639805,1.3667250957639805
+cat__submitted_via_Postal mail,1.3646564704678232,1.3646564704678232
+cat__tags_Servicemember,1.329415259975684,1.329415259975684
+cat__issue_Problems at the end of the loan or lease,1.3055823152498403,1.3055823152498403
+cat__company_grouped_CREDIT ACCEPTANCE CORPORATION,1.3027168272511767,1.3027168272511767
+cat__year_received_2024,1.2984336331353026,1.2984336331353026
+cat__issue_Other,1.2902234058759816,1.2902234058759816
+"cat__company_grouped_Early Warning Services, LLC",-1.2889698752157768,1.2889698752157768
+"cat__company_grouped_SANTANDER HOLDINGS USA, INC.",1.2863213283739332,1.2863213283739332
+cat__sub_issue_Add-on products and services,1.2480928409227832,1.2480928409227832
+cat__tags_Unknown,1.2223712038565713,1.2223712038565713
+cat__sub_product_FHA mortgage,1.207915742693247,1.207915742693247
+cat__company_grouped_AMERICAN EXPRESS COMPANY,-1.2006725225125636,1.2006725225125636
+"cat__company_grouped_Rocket Mortgage, LLC",1.1908071997903469,1.1908071997903469
+cat__sub_issue_Was not notified of investigation status or results,-1.1839763748164176,1.1839763748164176
+"cat__company_grouped_SOFI TECHNOLOGIES, INC.",1.1776800543069368,1.1776800543069368
+cat__company_grouped_FIFTH THIRD FINANCIAL CORPORATION,-1.170909758975401,1.170909758975401
+"cat__issue_Managing, opening, or closing your mobile wallet account",-1.1701613125406212,1.1701613125406212
+cat__submitted_via_Referral,1.1673377302372074,1.1673377302372074
+"cat__company_grouped_CITIBANK, N.A.",1.150743189607335,1.150743189607335
+cat__sub_issue_Problem with additional products or services purchased with the loan,-1.1465228955236304,1.1465228955236304
+cat__tags_Older American,1.1299484480721576,1.1299484480721576
+cat__year_received_2025,1.1114896279638005,1.1114896279638005
+cat__sub_issue_Confusing or missing disclosures,-1.1104219930190635,1.1104219930190635
+cat__sub_issue_Private mortgage insurance (PMI),-1.109118128642284,1.109118128642284
+cat__issue_Opening an account,-1.1070120127234904,1.1070120127234904
+cat__sub_product_Unknown,-1.0962958927099753,1.0962958927099753
+"cat__issue_Loan servicing, payments, escrow account",1.0829760921289475,1.0829760921289475
+cat__company_grouped_GOLDMAN SACHS BANK USA,-1.0657352302116332,1.0657352302116332
+cat__sub_product_Conventional home mortgage,1.0646923002738515,1.0646923002738515
+cat__year_received_2023,1.0550811372878937,1.0550811372878937
+"cat__company_grouped_CARRINGTON MORTGAGE SERVICES, LLC",1.052259272738245,1.052259272738245
+cat__company_grouped_CAPITAL ONE FINANCIAL CORPORATION,1.0506626124063594,1.0506626124063594
+cat__submitted_via_Phone,1.0498650676371208,1.0498650676371208
+"cat__issue_Loan modification,collection,foreclosure",1.0475423670637711,1.0475423670637711
+cat__sub_issue_Loan opened without my consent or knowledge,-1.0285041494114189,1.0285041494114189
+cat__sub_product_Check cashing service,-1.023389508018958,1.023389508018958
+cat__issue_Struggling to pay mortgage,1.0130040887534704,1.0130040887534704
+cat__issue_Confusing or misleading advertising or marketing,-0.994546621735623,0.994546621735623
+cat__sub_issue_Credit inquiries on your report that you don't recognize,-0.9702269295288466,0.9702269295288466
+cat__sub_issue_Payment process,-0.9635626825374815,0.9635626825374815
+cat__sub_issue_Problem with rewards from credit card,-0.9571651346841772,0.9571651346841772
+cat__sub_product_Other type of mortgage,0.9343641515282758,0.9343641515282758
+cat__company_grouped_SYNCHRONY FINANCIAL,-0.9311968727766715,0.9311968727766715
+cat__sub_issue_Trying to communicate with the company to fix an issue with the application process,-0.9240550137438024,0.9240550137438024
+cat__issue_Confusing or missing disclosures,-0.9240288395959295,0.9240288395959295
+cat__submitted_via_Web,0.9214848863253244,0.9214848863253244
+cat__state_grouped_VT,-0.917543235815728,0.917543235815728
+cat__sub_product_VA mortgage,0.9132457425185792,0.9132457425185792
+cat__sub_issue_Confusing or misleading advertising or marketing,-0.9091557843818413,0.9091557843818413
+cat__sub_issue_Card company isn't resolving a dispute about a purchase or transfer,0.9085931204390857,0.9085931204390857
+"cat__product_Payday loan, title loan, or personal loan",0.9003197073004182,0.9003197073004182
+cat__sub_product_Home equity loan or line of credit (HELOC),0.8983833375459505,0.8983833375459505
+cat__product_Bank account or service,-0.894416213535919,0.894416213535919
+"cat__sub_issue_Escrow, taxes, or insurance",-0.8891914049043182,0.8891914049043182
+cat__sub_issue_Closing disclosure or other related disclosures,-0.8795067709663481,0.8795067709663481
+cat__issue_Can't stop withdrawals from your bank account,-0.8715737866863887,0.8715737866863887
+cat__sub_issue_Billing dispute for services,0.8711313652528265,0.8711313652528265
+cat__product_Vehicle loan or lease,0.8646419053818122,0.8646419053818122
+cat__sub_issue_Problem using a debit or ATM card,-0.8520647364980812,0.8520647364980812
+cat__sub_issue_Banking errors,-0.8472972985797036,0.8472972985797036
+cat__sub_issue_Problem with fees charged,-0.8267995402551721,0.8267995402551721
+cat__sub_issue_Funds not handled or disbursed as instructed,-0.8258015369267804,0.8258015369267804
+cat__sub_issue_Information is missing that should be on the report,-0.8051110294608289,0.8051110294608289
+cat__sub_issue_Trouble using the card to spend money in a store or online,-0.7999134895635084,0.7999134895635084
+cat__issue_Other service problem,-0.7989881085455317,0.7989881085455317
+cat__issue_Struggling to pay your bill,-0.7857884455980978,0.7857884455980978
+cat__issue_Vehicle was repossessed or sold the vehicle,0.7831189044980484,0.7831189044980484
+cat__sub_product_infrequent_sklearn,-0.7661110057389787,0.7661110057389787
+cat__issue_Managing the loan or lease,0.748053309184968,0.748053309184968
+cat__state_grouped_NM,-0.745733136134093,0.745733136134093
+cat__issue_Improper use of your report,0.7254556910043808,0.7254556910043808
+cat__issue_Problem with additional add-on products or services,-0.6889893297040951,0.6889893297040951
+cat__state_grouped_DC,-0.6826281584536604,0.6826281584536604
+cat__issue_Can't contact lender or servicer,-0.6716130683991012,0.6716130683991012
+cat__sub_issue_Fee problem,-0.6639627221917972,0.6639627221917972
+cat__sub_product_Other banking product or service,-0.6624081452063123,0.6624081452063123
+cat__issue_Trouble during payment process,0.6581831999227493,0.6581831999227493
+cat__issue_Problem when making payments,-0.639100623548762,0.639100623548762
+cat__sub_product_Other mortgage,0.6380440707026137,0.6380440707026137
+cat__sub_product_Domestic (US) money transfer,-0.6289549532213368,0.6289549532213368
+"cat__issue_Other features, terms, or problems",0.6244411007770798,0.6244411007770798
+cat__sub_issue_Problem getting a working replacement card,-0.6182255491695859,0.6182255491695859
+cat__sub_issue_Billing problem,-0.6175133353704887,0.6175133353704887
+cat__issue_Money was not available when promised,-0.6118152609123357,0.6118152609123357
+"cat__company_grouped_Paypal Holdings, Inc",-0.596239304558854,0.596239304558854
+cat__sub_issue_Problem while selling or giving up the vehicle,-0.5929841264233429,0.5929841264233429
+cat__state_grouped_AR,0.591051742543301,0.591051742543301
+cat__sub_product_Checking account,-0.590605804567331,0.590605804567331
+cat__issue_Closing an account,-0.5799055139766235,0.5799055139766235
+cat__sub_issue_Transaction was not authorized,-0.5789051733032478,0.5789051733032478
+cat__issue_Problem with a purchase or transfer,-0.5755330688880884,0.5755330688880884
+cat__sub_issue_Denied request to lower payments,0.5747080657989603,0.5747080657989603
+cat__state_grouped_WI,-0.5742240586599674,0.5742240586599674
+cat__sub_issue_Trouble getting information about the card,-0.569024354204811,0.569024354204811
+cat__sub_issue_Can't use card to make purchases,-0.5621697540281936,0.5621697540281936
+cat__sub_issue_Other problem,-0.5615180522936988,0.5615180522936988
+cat__issue_Problem with a company's investigation into an existing problem,0.5545232931696473,0.5545232931696473
+cat__sub_product_General-purpose prepaid card,0.554430364426355,0.554430364426355
+cat__sub_issue_Deposits and withdrawals,-0.5441675222498135,0.5441675222498135
+cat__issue_Loan payment wasn't credited to your account,-0.5439078182084659,0.5439078182084659
+cat__state_grouped_HI,0.5433471217657199,0.5433471217657199
+cat__sub_issue_Application denials,-0.5335706095482672,0.5335706095482672
+cat__issue_Lost or stolen money order,0.5037352043998339,0.5037352043998339
+cat__sub_issue_Problem during payment process,0.5017102839826638,0.5017102839826638
+"cat__product_Payday loan, title loan, personal loan, or advance loan",0.49730637484559936,0.49730637484559936
+cat__issue_Closing your account,0.4962618840087174,0.4962618840087174
+cat__state_grouped_IA,0.4873548399392083,0.4873548399392083
+cat__sub_issue_Damage caused or loss of personal items in vehicle during the actual repossession,-0.4844347523588171,0.4844347523588171
+cat__sub_product_Foreign currency exchange,0.47753596256780295,0.47753596256780295
+cat__issue_Fraud or scam,-0.4761858061124438,0.4761858061124438
+cat__state_grouped_NE,0.47618135510889475,0.47618135510889475
+cat__sub_issue_Didn't receive advertised or promotional terms,0.47600233750044807,0.47600233750044807
+cat__year_received_2022,0.47475124128479945,0.47475124128479945
+cat__sub_issue_Credit card company won't work with you while you're going through financial hardship,0.4717248328115793,0.4717248328115793
+cat__sub_issue_infrequent_sklearn,-0.4693329293076158,0.4693329293076158
+cat__sub_product_CD (Certificate of Deposit),0.4674253102928922,0.4674253102928922
+cat__sub_issue_Trouble closing card,-0.46335803205708787,0.46335803205708787
+cat__issue_Deposits and withdrawals,-0.4624836276577694,0.4624836276577694
+cat__sub_issue_Charged for a purchase or transfer you did not make with the card,0.4605416613099971,0.4605416613099971
+cat__sub_issue_Old information reappears or never goes away,-0.4582104776405417,0.4582104776405417
+cat__sub_issue_Cashing a check,-0.4562779873083258,0.4562779873083258
+cat__issue_Unauthorized transactions or other transaction problem,-0.449782933447862,0.449782933447862
+cat__product_Consumer Loan,-0.44958746541383326,0.44958746541383326
+cat__issue_Settlement process and costs,0.4484655213898395,0.4484655213898395
+cat__sub_product_General-purpose credit card or charge card,0.4455166428469931,0.4455166428469931
+cat__issue_Getting a line of credit,-0.43881322030397985,0.43881322030397985
+cat__sub_issue_Money was taken from your account on the wrong day or for the wrong amount,0.4334159634807691,0.4334159634807691
+cat__sub_issue_Lender trying to repossess or disable the vehicle,-0.42956188413881585,0.42956188413881585
+cat__issue_Trouble using your card,0.4273049898519183,0.4273049898519183
+cat__sub_issue_Deficiency balance after repossession,-0.4217910556164158,0.4217910556164158
+cat__sub_issue_Account information incorrect,0.42120707869300633,0.42120707869300633
+cat__issue_Problems when you are unable to pay,0.40785667604937975,0.40785667604937975
+cat__submitted_via_infrequent_sklearn,0.40616568616508697,0.40616568616508697
+cat__state_grouped_LA,-0.3999855162409264,0.3999855162409264
+cat__sub_product_Other bank product/service,-0.3987115117935675,0.3987115117935675
+cat__sub_issue_Investigation took more than 30 days,-0.38172612283492185,0.38172612283492185
+cat__issue_Charged fees or interest you didn't expect,-0.3783910425019048,0.3783910425019048
+cat__issue_Problem with the payoff process at the end of the loan,-0.3769064974517024,0.3769064974517024
+cat__sub_issue_Non-sufficient funds and associated fees,0.3760385988993987,0.3760385988993987
+cat__sub_issue_Confusing or misleading advertising about the credit card,-0.371857406391152,0.371857406391152
+cat__issue_Getting the loan,0.3665661244693237,0.3665661244693237
+cat__state_grouped_WV,-0.36563440947837794,0.36563440947837794
+"cat__company_grouped_EQUIFAX, INC.",-0.3524115574128436,0.3524115574128436
+cat__sub_issue_Credit denial,-0.35084755162704845,0.35084755162704845
+cat__sub_issue_Problem making or receiving payments,-0.3502219582931694,0.3502219582931694
+cat__state_grouped_MI,-0.3481301813664692,0.3481301813664692
+cat__issue_Other transaction problem,0.3424340139658633,0.3424340139658633
+cat__sub_issue_Account opened as a result of fraud,-0.34216263348933107,0.34216263348933107
+cat__issue_Trouble using the card,0.3419654368843672,0.3419654368843672
+cat__product_Credit card,0.33992065362008284,0.33992065362008284
+"cat__sub_issue_Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure",-0.33901326995735054,0.33901326995735054
+cat__issue_Billing disputes,0.33618164121605754,0.33618164121605754
+cat__submitted_via_Fax,0.32764612442777363,0.32764612442777363
+cat__sub_issue_Overcharged for something you did purchase with the card,-0.3240763090795165,0.3240763090795165
+cat__sub_product_Loan,-0.32276958386829774,0.32276958386829774
+cat__year_received_2018,0.31797863825878353,0.31797863825878353
+cat__state_grouped_MO,0.31614461300153995,0.31614461300153995
+cat__sub_issue_Problem with personal statement of dispute,0.3158716435053579,0.3158716435053579
+cat__issue_Problem with a lender or other company charging your account,-0.3150386520073649,0.3150386520073649
+cat__sub_issue_Reporting company used your report improperly,-0.3149438065662154,0.3149438065662154
+cat__year_received_2019,0.31243997093506004,0.31243997093506004
+cat__state_grouped_KY,-0.30183853462507576,0.30183853462507576
+cat__company_grouped_Comerica,-0.3006411691973538,0.3006411691973538
+cat__state_grouped_VA,-0.29860446254678596,0.29860446254678596
+cat__state_grouped_AZ,0.29226304684268456,0.29226304684268456
+cat__year_received_2021,0.28891476007214667,0.28891476007214667
+cat__issue_Repossession,0.2880902415728128,0.2880902415728128
+cat__sub_issue_Sent card you never applied for,0.2847083679061262,0.2847083679061262
+cat__sub_issue_Didn't receive terms that were advertised,0.2697242642481495,0.2697242642481495
+cat__state_grouped_NJ,-0.266696552728362,0.266696552728362
+cat__state_grouped_PA,0.26588199843710875,0.26588199843710875
+cat__sub_issue_Problem with signing the paperwork,-0.2654466061642147,0.2654466061642147
+cat__issue_Problem with a purchase shown on your statement,-0.2635270161827182,0.2635270161827182
+cat__sub_issue_Credit card company isn't resolving a dispute about a purchase on your statement,0.26317992962343706,0.26317992962343706
+cat__sub_issue_Problem accessing account,0.25890027311538555,0.25890027311538555
+cat__sub_issue_Account reinstatement or redemption after repossession,0.2582507517606268,0.2582507517606268
+cat__sub_product_Government benefit card,-0.24773924003918538,0.24773924003918538
+cat__issue_Getting a loan or lease,0.2474587547287351,0.2474587547287351
+cat__state_grouped_TN,-0.2459484766525862,0.2459484766525862
+cat__year_received_2020,0.24540582741908534,0.24540582741908534
+cat__sub_issue_Trouble getting a working replacement card,-0.23278009008222877,0.23278009008222877
+cat__sub_product_Gift card,0.23157106658128102,0.23157106658128102
+cat__sub_product_Vehicle loan,0.23005264556651528,0.23005264556651528
+cat__sub_issue_Unknown,-0.22918019975851056,0.22918019975851056
+cat__sub_product_Lease,0.2287533507335824,0.2287533507335824
+cat__state_grouped_OK,-0.22758899623450848,0.22758899623450848
+cat__state_grouped_ID,-0.22491836953161276,0.22491836953161276
+cat__state_grouped_IN,0.22061476833468774,0.22061476833468774
+cat__sub_issue_Fraudulent loan,-0.21745183941932802,0.21745183941932802
+cat__sub_issue_Overdrafts and overdraft fees,0.2141425744840441,0.2141425744840441
+cat__issue_Problem getting a card or closing an account,0.2132530652265274,0.2132530652265274
+cat__sub_product_Reverse mortgage,0.20325868007344064,0.20325868007344064
+cat__sub_issue_Card was charged for something you did not purchase with the card,-0.20263063672628978,0.20263063672628978
+cat__sub_issue_Their investigation did not fix an error on your report,-0.19780220856967923,0.19780220856967923
+cat__issue_Incorrect information on your report,-0.19729217527782242,0.19729217527782242
+cat__sub_issue_Unexpected increase in interest rate,-0.18943564659500092,0.18943564659500092
+cat__sub_issue_Application denied,0.18335737505370198,0.18335737505370198
+cat__sub_issue_Charged too much interest,0.1782575649155999,0.1782575649155999
+cat__sub_product_Title loan,-0.17535330872392868,0.17535330872392868
+"cat__issue_Account opening, closing, or management",0.17323612657169618,0.17323612657169618
+cat__sub_issue_Can't stop withdrawals from your account,-0.1695494421847669,0.1695494421847669
+cat__state_grouped_GA,-0.16894349038235246,0.16894349038235246
+cat__sub_issue_Credit card company won't increase or decrease your credit limit,-0.16830065024021604,0.16830065024021604
+cat__state_grouped_DE,0.16298483930217042,0.16298483930217042
+cat__sub_issue_Information belongs to someone else,0.15996086474528118,0.15996086474528118
+cat__sub_issue_Account opened without my consent or knowledge,0.15669114310650414,0.15669114310650414
+cat__state_grouped_FL,-0.14744871397925116,0.14744871397925116
+cat__sub_issue_Problem with the interest rate,0.13997534100519288,0.13997534100519288
+cat__state_grouped_OH,-0.1382732545734273,0.1382732545734273
+"cat__issue_Application, originator, mortgage broker",0.13551573274293585,0.13551573274293585
+cat__state_grouped_CO,0.13460407908923921,0.13460407908923921
+cat__state_grouped_KS,-0.1330304919552086,0.1330304919552086
+cat__year_received_2017,0.13266112890217435,0.13266112890217435
+cat__state_grouped_NC,-0.13024194186985252,0.13024194186985252
+cat__sub_product_Installment loan,-0.12682137300610116,0.12682137300610116
+cat__issue_Problem with a credit reporting company's investigation into an existing problem,0.12151988027460628,0.12151988027460628
+cat__state_grouped_AK,0.11872412842359249,0.11872412842359249
+cat__sub_issue_Account status incorrect,0.11745322035110431,0.11745322035110431
+cat__issue_Problem caused by your funds being low,0.11483592437111793,0.11483592437111793
+cat__sub_product_Payday loan,-0.11453524808663139,0.11453524808663139
+cat__issue_Fees or interest,-0.11306050366297991,0.11306050366297991
+cat__sub_product_Store credit card,0.11164391715109484,0.11164391715109484
+cat__issue_Received a loan you didn't apply for,0.11093583287896686,0.11093583287896686
+cat__sub_issue_Fees charged for closing account,-0.10772253054027091,0.10772253054027091
+cat__state_grouped_MN,0.1075092416308898,0.1075092416308898
+cat__issue_Unexpected or other fees,0.10480770097288905,0.10480770097288905
+"cat__issue_Advertising and marketing, including promotional offers",0.10414493110931518,0.10414493110931518
+cat__sub_issue_Problem with fees,-0.10188242198362646,0.10188242198362646
+cat__state_grouped_TX,-0.09996864022063486,0.09996864022063486
+cat__issue_infrequent_sklearn,0.09985162602040527,0.09985162602040527
+"cat__company_grouped_Bread Financial Holdings, Inc.",0.09398627183216958,0.09398627183216958
+cat__issue_Managing an account,-0.09352180774725989,0.09352180774725989
+cat__sub_issue_Unable to open an account,-0.08084279356987652,0.08084279356987652
+num__narrative_length,-0.07791279745589741,0.07791279745589741
+cat__issue_Getting a credit card,-0.07421851582823771,0.07421851582823771
+"cat__company_grouped_Coinbase, Inc.",0.07185083916496485,0.07185083916496485
+cat__issue_Struggling to pay your loan,0.07118063012698869,0.07118063012698869
+cat__issue_Problem adding money,0.06952914227242177,0.06952914227242177
+cat__state_grouped_AL,-0.06762917663400243,0.06762917663400243
+cat__state_grouped_SC,-0.06253693200662043,0.06253693200662043
+cat__state_grouped_CA,-0.059272334356800356,0.059272334356800356
+num__has_narrative,0.058114276413448754,0.058114276413448754
+cat__state_grouped_OR,-0.05407200603148253,0.05407200603148253
+cat__sub_product_Traveler's check or cashier's check,0.05299783755088386,0.05299783755088386
+cat__sub_issue_Delay in processing application,0.0528130606031501,0.0528130606031501
+cat__sub_issue_Can't close your account,0.052599826510706764,0.052599826510706764
+cat__state_grouped_MT,-0.050752132180533246,0.050752132180533246
+cat__sub_product_Personal line of credit,-0.04921211586863803,0.04921211586863803
+cat__state_grouped_CT,-0.04771800728082915,0.04771800728082915
+cat__issue_Problems caused by my funds being low,0.04635997025689009,0.04635997025689009
+"cat__sub_product_Money order, traveler's check or cashier's check",0.04530504893742599,0.04530504893742599
+cat__state_grouped_NY,-0.04185926709093124,0.04185926709093124
+cat__state_grouped_Other,-0.04120200247166024,0.04120200247166024
+cat__product_Mortgage,-0.041118500205113484,0.041118500205113484
+cat__sub_product_Savings account,0.04021850712453259,0.04021850712453259
+cat__product_Credit card or prepaid card,0.03797001891654931,0.03797001891654931
+cat__issue_Closing on a mortgage,-0.03185154294002943,0.03185154294002943
+cat__state_grouped_RI,-0.02896829982262535,0.02896829982262535
+cat__state_grouped_MS,0.027281325912157043,0.027281325912157043
+cat__sub_issue_Funds not received from closed account,-0.02638692401154917,0.02638692401154917
+cat__sub_issue_Card opened without my consent or knowledge,0.026326476816015146,0.026326476816015146
+cat__state_grouped_MD,-0.02544621702885022,0.02544621702885022
+cat__sub_issue_Loan balance remaining after the vehicle is repossessed and sold,0.02432632936704022,0.02432632936704022
+cat__state_grouped_MA,-0.02343031271076161,0.02343031271076161
+cat__state_grouped_NV,0.02119440723177632,0.02119440723177632
+"cat__issue_Making/receiving payments, sending money",-0.01754898357848743,0.01754898357848743
+cat__state_grouped_UT,-0.012193960955361358,0.012193960955361358
+cat__state_grouped_WA,0.005731009628000691,0.005731009628000691
+cat__issue_Wrong amount charged or received,-0.005533326723239975,0.005533326723239975
+cat__sub_issue_Card opened as result of identity theft or fraud,-0.0031982470376682543,0.0031982470376682543
+cat__sub_issue_Company closed your account,-0.0021340019271448435,0.0021340019271448435
+cat__issue_Applying for a mortgage or refinancing an existing mortgage,0.0010705927998630443,0.0010705927998630443
+cat__state_grouped_IL,-0.0007573515561345841,0.0007573515561345841

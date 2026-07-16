@@ -1,0 +1,7 @@
+limitation,meaning,mitigation
+Public complaint data is not the full customer population.,"The dataset contains complaints submitted to the CFPB, not all customers or all complaints received directly by companies.",Avoid using results as market-share or company-quality rankings.
+Observational data does not prove causation.,"The models identify associations and predictive patterns, not causal effects.","Use language such as associated with, predictive of, or correlated with."
+Class imbalance may affect model behavior.,"If timely responses dominate the dataset, accuracy can be misleading.","Use recall, F1, ROC-AUC, average precision, and balanced accuracy."
+Narrative availability depends on consumer consent.,"Not every complaint has a narrative, so text analysis is based on a subset of records.","Use has_narrative and narrative_length carefully, and report narrative coverage."
+Company and state fields need careful interpretation.,"Complaint volume may be influenced by customer base, geography, product mix, and reporting behavior.",Do not interpret raw complaint counts as performance rankings.
+Possible data leakage must be controlled.,Fields created after company response should not be used for intake-stage prediction.,Exclude company_response_to_consumer and company_public_response from timely-response prediction.

@@ -1,0 +1,7 @@
+section,summary
+Objective,The project used CFPB consumer complaint data to examine and predict complaint resolution outcomes in retail banking.
+Data,"The processed dataset contained 1,289,027 records and 26 columns after filtering for relevant products and the 2017-2025 period."
+Best model,"The selected model was Structured random forest, with ROC-AUC 0.8748 and F1 0.8802 on the test set."
+Interpretation,"The model results suggest that product type, issue category, company group, state group, submission channel, and narrative features can help identify response-risk patterns."
+Business value,"The analysis can support complaint triage, early-warning dashboards, product-level monitoring, issue-level operational review, and governance reporting."
+Governance,"The model should be used as decision support with human oversight, not as a fully automated decision system."

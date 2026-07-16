@@ -1,0 +1,8 @@
+area,observation
+Dataset size,"The processed dataset contains 1,289,027 rows and 25 columns."
+Date coverage,The dataset covers complaints from 2017-01-01 00:00:00+00:00 to 2025-12-31 22:08:00+00:00.
+Product concentration,"The largest product category is 'Checking or savings account', representing 25.91% of filtered records."
+Issue concentration,"The largest issue category is 'Managing an account', representing 15.15% of filtered records."
+Target balance: timely response,"The most common timely-response class is 'Yes', representing 98.59% of records."
+Target balance: company response,"The most common company response is 'Closed with explanation', representing 80.56% of records."
+Narrative availability,53.28% of records have a published complaint narrative.

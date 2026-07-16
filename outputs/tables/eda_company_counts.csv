@@ -1,0 +1,4618 @@
+company,count,percent
+JPMORGAN CHASE & CO.,92441,7.17
+WELLS FARGO & COMPANY,87155,6.76
+"BANK OF AMERICA, NATIONAL ASSOCIATION",85088,6.6
+CAPITAL ONE FINANCIAL CORPORATION,70529,5.47
+"CITIBANK, N.A.",66000,5.12
+"Block, Inc.",59072,4.58
+SYNCHRONY FINANCIAL,33533,2.6
+AMERICAN EXPRESS COMPANY,30731,2.38
+"Paypal Holdings, Inc",28600,2.22
+U.S. BANCORP,27497,2.13
+NAVY FEDERAL CREDIT UNION,27306,2.12
+"Early Warning Services, LLC",23693,1.84
+"EQUIFAX, INC.",20527,1.59
+"Bread Financial Holdings, Inc.",19421,1.51
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",19292,1.5
+PNC Bank N.A.,18915,1.47
+Chime Financial Inc,18913,1.47
+Experian Information Solutions Inc.,18339,1.42
+TD BANK US HOLDING COMPANY,17843,1.38
+DISCOVER BANK,17734,1.38
+TRUIST FINANCIAL CORPORATION,15088,1.17
+"Shellpoint Partners, LLC",13510,1.05
+BARCLAYS BANK DELAWARE,13113,1.02
+Mr. Cooper Group Inc.,12936,1.0
+Ocwen Financial Corporation,11991,0.93
+ALLY FINANCIAL INC.,11837,0.92
+GOLDMAN SACHS BANK USA,11193,0.87
+UNITED SERVICES AUTOMOBILE ASSOCIATION,11067,0.86
+"CITIZENS FINANCIAL GROUP, INC.",10556,0.82
+"SELECT PORTFOLIO SERVICING, INC.",9140,0.71
+"Coinbase, Inc.",8913,0.69
+FIFTH THIRD FINANCIAL CORPORATION,8422,0.65
+Freedom Mortgage Company,6902,0.54
+Comerica,6457,0.5
+"LoanCare, LLC",5826,0.45
+REGIONS FINANCIAL CORPORATION,5640,0.44
+"SANTANDER HOLDINGS USA, INC.",5426,0.42
+"HUNTINGTON NATIONAL BANK, THE",5355,0.42
+M&T BANK CORPORATION,5343,0.41
+Specialized Loan Servicing Holdings LLC,5301,0.41
+KEYCORP,5097,0.4
+Santander Consumer USA Holdings Inc.,4786,0.37
+CREDIT ACCEPTANCE CORPORATION,4746,0.37
+Netspend Corporation,4691,0.36
+BMO BANK NATIONAL ASSOCIATION,4642,0.36
+"Westlake Services, LLC",4555,0.35
+"CARRINGTON MORTGAGE SERVICES, LLC",4112,0.32
+"SOFI TECHNOLOGIES, INC.",4068,0.32
+HSBC NORTH AMERICA HOLDINGS INC.,3963,0.31
+"Rocket Mortgage, LLC",3862,0.3
+Ditech Financial LLC,3649,0.28
+NATIONSTAR MORTGAGE LLC,3599,0.28
+ROBINHOOD MARKETS INC.,3550,0.28
+HYUNDAI CAPITAL AMERICA,3538,0.27
+BBVA FINANCIAL CORPORATION,3481,0.27
+"SUNTRUST BANKS, INC.",3423,0.27
+"PENNYMAC LOAN SERVICES, LLC.",3392,0.26
+PENTAGON FEDERAL CREDIT UNION,3377,0.26
+OneMain Finance Corporation,3327,0.26
+TOYOTA MOTOR CREDIT CORPORATION,3176,0.25
+"Affirm Holdings, Inc",3149,0.24
+"CLGF Holdco 1, LLC",3148,0.24
+Incomm Holdings Inc.,2985,0.23
+"WESTERN UNION COMPANY, THE",2973,0.23
+"Fay Servicing, LLC",2961,0.23
+"General Motors Financial Company, Inc.",2866,0.22
+RUSHMORE LOAN MANAGEMENT SERVICES LLC,2618,0.2
+Bridgecrest Acceptance Corporation,2472,0.19
+"LAKEVIEW LOAN SERVICING, LLC",2387,0.19
+"Caliber Home Loans, Inc.",2295,0.18
+Atlanticus Services Corporation,2241,0.17
+Selene Holdings LLC,2222,0.17
+"Flagstar Bank, N.A.",2190,0.17
+"Exeter Finance, LLC.",2119,0.16
+FIRST NATIONAL BANK OF OMAHA,2076,0.16
+"LD Holdings Group, LLC",2046,0.16
+"Community Loan Servicing, LLC (formerly known as Bayview Loan Servicing, LLC)",2007,0.16
+Conduent Incorporated,2000,0.16
+BB&T CORPORATION,1980,0.15
+NISSAN MOTOR ACCEPTANCE COMPANY LLC,1926,0.15
+"ENOVA INTERNATIONAL, INC.",1919,0.15
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,1897,0.15
+Synovus Bank,1863,0.14
+RoundPoint Mortgage Servicing LLC,1860,0.14
+"SANTANDER BANK, NATIONAL ASSOCIATION",1852,0.14
+"Credit Karma, LLC",1835,0.14
+AMERICAN HONDA FINANCE CORP,1828,0.14
+FISERV FINXACT CORE,1744,0.14
+"Dovenmuehle Mortgage, Inc.",1727,0.13
+TransferWise Ltd,1668,0.13
+MoneyLion Inc.,1641,0.13
+"AmeriHome Mortgage Company, LLC",1594,0.12
+"Fidelity National Information Services, Inc. (FNIS)",1575,0.12
+"UPGRADE, INC.",1543,0.12
+BANK OF THE WEST,1540,0.12
+"United Shore Financial Services, LLC",1531,0.12
+NEW YORK COMMUNITY BANCORP INC,1483,0.12
+MIDFIRST BANK,1405,0.11
+FinCo Services Inc DBA Current,1382,0.11
+Self Financial Inc.,1364,0.11
+"Avant Holding Company, Inc.",1335,0.1
+Winklevoss Exchange LLC,1286,0.1
+AMERISAVE MORTGAGE CORPORATION,1285,0.1
+"American Credit Acceptance, LLC",1284,0.1
+"BSI Financial Holdings, Inc.",1232,0.1
+"PLANET HOME LENDING, LLC",1162,0.09
+"Continental Finance Company, LLC",1149,0.09
+CCF Intermediate Holdings LLC,1140,0.09
+"WEBSTER BANK, NATIONAL ASSOCIATION",1130,0.09
+TCF NATIONAL BANK,1117,0.09
+FORD MOTOR CREDIT CO.,1093,0.08
+Mercedes Benz Financial Services,1086,0.08
+"FIRST CITIZENS BANCSHARES, INC.",1035,0.08
+BANCO POPULAR DE PUERTO RICO,1021,0.08
+"BMW Financial Services NA, LLC",1013,0.08
+CrossCountry Mortgage LLC,1002,0.08
+"CarMax, Inc.",1000,0.08
+Blackhawk Network Holdings Inc.,999,0.08
+Global Lending Services LLC,990,0.08
+"CHARLES SCHWAB CORPORATION, THE",981,0.08
+VW Credit,964,0.07
+"Foris DAX, Inc.",963,0.07
+Google Compare Credit Cards Inc.,958,0.07
+FC HoldCo LLC,951,0.07
+"ARVEST BANK GROUP, INC.",942,0.07
+"AXOS FINANCIAL, INC.",939,0.07
+FIRST HORIZON BANK,913,0.07
+"Seterus, Inc.",904,0.07
+Klarna AB,904,0.07
+ENCORE CAPITAL GROUP INC.,845,0.07
+ALLIANT CREDIT UNION,845,0.07
+"Paramount GR Holdings, LLC",840,0.07
+TMX Finance LLC,827,0.06
+"Remitly, Inc.",797,0.06
+BAM Management US Holdings Inc.,796,0.06
+"Upstart Holdings, Inc.",783,0.06
+"MONEY SOURCE, INC., THE",760,0.06
+CURO Intermediate Holdings,753,0.06
+Resurgent Capital Services L.P.,751,0.06
+"Carvana Group, LLC",732,0.06
+"ONEMAIN FINANCIAL HOLDINGS, LLC.",731,0.06
+FIRST NATIONAL BANK OF PENNSYLVANIA,730,0.06
+Home Point Financial Corporation,721,0.06
+Selene Finance LP,719,0.06
+SN SERVICING CORPORATION,719,0.06
+"BANK OF NEW YORK MELLON CORPORATION, THE",717,0.06
+"OPTUM BANK, INC.",715,0.06
+"LDF Holdings, LLC",715,0.06
+STATE EMPLOYEES CREDIT UNION,715,0.06
+"ACIMA CREDIT, LLC",710,0.06
+"Consumer Portfolio Services, Inc.",702,0.05
+"EVERBANK, NATIONAL ASSOCIATION",699,0.05
+ADP Inc.,689,0.05
+PHH Mortgage Services Corporation,681,0.05
+Lending Club Corp,680,0.05
+"Prosper Marketplace, Inc.",673,0.05
+"MARINER FINANCE, LLC",664,0.05
+VYSTAR CREDIT UNION,657,0.05
+First Technology Federal Credit Union,629,0.05
+ZIONS BANCORPORATION,621,0.05
+Lendmark Financial Services,615,0.05
+"Social Finance, Inc.",606,0.05
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",605,0.05
+BOEING EMPLOYEES' CREDIT UNION,605,0.05
+GUARANTEED RATE INC.,589,0.05
+"Big Picture Loans, LLC",586,0.05
+COMMERCE BANK,586,0.05
+World Omni Financial Corp.,581,0.05
+"CARDINAL FINANCIAL COMPANY, LIMITED PARTNERSHIP",577,0.04
+MORGAN STANLEY & CO. LLC,576,0.04
+"BROKER SOLUTIONS, INC.",567,0.04
+21ST MORTGAGE CORP.,561,0.04
+Albert Corporation,558,0.04
+"GOLDEN 1 CREDIT UNION, THE",549,0.04
+"CMG Financial Services, Inc.",548,0.04
+SUNCOAST CREDIT UNION,546,0.04
+AMERICA FIRST FEDERAL CREDIT UNION,546,0.04
+Village Capital & Investment LLC,535,0.04
+ASSOCIATED BANC-CORP,528,0.04
+CNG FINANCIAL CORPORATION,519,0.04
+"Byrider Franchising, LLC",505,0.04
+World Acceptance Corporation,505,0.04
+"Portfolio Recovery Associates, LLC",505,0.04
+"CIT BANK, NATIONAL ASSOCIATION",482,0.04
+"PEOPLE'S UNITED BANK, NATIONAL ASSOCIATION",476,0.04
+OPORTUN FINANCIAL CORPORATION,476,0.04
+AMERIS BANCORP,473,0.04
+"Colony Brands, Inc.",472,0.04
+FIRSTBANK PUERTO RICO,471,0.04
+Payward Ventures Inc. dba Kraken,467,0.04
+Army and Air Force Exchange Service,465,0.04
+"Opportunity Financial, LLC",463,0.04
+"Dave Operating, LLC",461,0.04
+"Tower Loan of Mississippi, Inc.",458,0.04
+UMB FINANCIAL CORPORATION,454,0.04
+"GVA Holdings, LLC",454,0.04
+FIRST PORTFOLIO SERVICING INC,452,0.04
+BOK FINANCIAL CORP,451,0.03
+BlueChip Financial,448,0.03
+Kikoff Inc.,431,0.03
+Solar Mosaic LLC,429,0.03
+"Peer Advisors, LLC",422,0.03
+"Marlette Funding, LLC",420,0.03
+WLCC,420,0.03
+"Tesla, Inc.",417,0.03
+"Mortgage Research Center, LLC",413,0.03
+Guild Holdings Company,406,0.03
+Aspen Yo LLC,404,0.03
+"Skrill USA, Inc.",403,0.03
+"Harpeth Financial Services, LLC",401,0.03
+United PanAm Financial Corp.,400,0.03
+VALLEY NATIONAL BANCORP,400,0.03
+MUFG AMERICAS HOLDINGS CORPORATION,398,0.03
+OLD NATIONAL BANCORP,393,0.03
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,392,0.03
+Statebridge Company,392,0.03
+"VANDERBILT MORTGAGE & FINANCE, INC",386,0.03
+"Advance America, Cash Advance Centers, Inc.",385,0.03
+Rosebud Economic Development Corporation,384,0.03
+U.S. BANK NATIONAL ASSOCIATION - SAN FRANCISCO MAIN BRANCH,384,0.03
+CARD Corporation,378,0.03
+Movement Mortgage LLC,378,0.03
+"GreenSky, LLC",378,0.03
+"WHEELS FINANCIAL GROUP, LLC.",377,0.03
+"CULLEN/FROST BANKERS, INC.",377,0.03
+WSFS FINANCIAL CORPORATION,376,0.03
+"Ria Envia, LLC",376,0.03
+"Servis One, Inc., Titusville, PA Branch",371,0.03
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,367,0.03
+FULTON FINANCIAL CORPORATION,365,0.03
+"American First Finance, Inc.",363,0.03
+Regional Management Corporation,359,0.03
+"STATE FARM BANK, FSB",358,0.03
+FourLeaf Federal Credit Union,351,0.03
+EAST WEST BANK,350,0.03
+Revolut Technologies Inc.,349,0.03
+CL Holdings LLC,346,0.03
+"Conn's, Inc.",343,0.03
+SECURITY FINANCE CORP,339,0.03
+"Better Mortgage, Inc.",337,0.03
+SCHOOLSFIRST FEDERAL CREDIT UNION,331,0.03
+SOUTHSTATE BANK CORPORATION,305,0.02
+Thaxton Investment Corporation,302,0.02
+Alorica Inc.,301,0.02
+"Aqua Finance, Inc.",298,0.02
+"AMA Advisors, LLC.",298,0.02
+Newport Intermediate Inc.,296,0.02
+HANCOCK WHITNEY BANK,295,0.02
+"Blockchain.com, Inc.",289,0.02
+"Real Time Group, Inc.",288,0.02
+"SERVICEMAC, LLC",287,0.02
+"Grain Technology, Inc.",284,0.02
+"Tribal Lending Enterprise, Inc.",282,0.02
+POPULAR BANK,278,0.02
+DriveTime,278,0.02
+Payfare International Inc.,278,0.02
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,276,0.02
+"COMMUNITY CHOICE FINANCIAL, INC.",276,0.02
+FCI Lender Services Inc.,272,0.02
+Sezzle Inc.,272,0.02
+AMERICAN ADVISORS GROUP,272,0.02
+PRESTIGE FINANCIAL SERVICES INC,271,0.02
+LendingPoint Holdings LLC,270,0.02
+Stellantis Financial Services US Corp.,268,0.02
+Avant Credit Corporation,266,0.02
+First Data Corporation,266,0.02
+MECHANICS BANK,265,0.02
+SIMMONS FIRST NATIONAL CORPORATION,264,0.02
+"Duvera Billing Services, LLC",256,0.02
+"RFNA, LP",255,0.02
+Sigue Corp.,250,0.02
+"Reverse Mortgage Solutions, Inc.",249,0.02
+Data Mortgage Inc.,249,0.02
+WorldRemit Corp.,248,0.02
+"Mobiloans, LLC",245,0.02
+CADENCE BANK,244,0.02
+Fairway Independent Mortgage Corporation,244,0.02
+LOBEL FINANCIAL CORPORATION,243,0.02
+Chime Inc.,242,0.02
+UMPQUA HOLDINGS CORPORATION,242,0.02
+"BANKMOBILE TECHNOLOGIES, INC",241,0.02
+"Home Loan Center, Inc.",239,0.02
+XOOM CORPORATION,239,0.02
+"Bliksum, LLC",234,0.02
+CapitalJ Inc. dba Juno,233,0.02
+Credit Fresh Holdings Inc,230,0.02
+Finance of America Holdings LLC,229,0.02
+"Select Management Resources, LLC",227,0.02
+Possible Financial Inc,226,0.02
+"Uprova Credit, LLC",226,0.02
+BANK OZK,226,0.02
+"Valon Technologies, Inc.",225,0.02
+Westcreek Financial,221,0.02
+"PROSPERITY BANCSHARES, INC.",221,0.02
+Harley Davidson Financial Services Inc,219,0.02
+Activehours,218,0.02
+BANK OF HAWAII CORPORATION,218,0.02
+"COLUMBIA BANKING SYSTEM, INC.",217,0.02
+TRUSTMARK CORPORATION,216,0.02
+"Risecredit, LLC",214,0.02
+Wolf River Development Company,210,0.02
+Idaho Housing And Finance Association,210,0.02
+Kashia Services,208,0.02
+Larry H. Miller Group of Companies,207,0.02
+"STERLING JEWELERS, INC.",206,0.02
+"SUN WEST MORTGAGE COMPANY, INC.",205,0.02
+Crow Creek Sioux Tribe,202,0.02
+FREEDOM FINANCIAL NETWORK,202,0.02
+STERLING BANCORP,201,0.02
+"PLAZA HOME MORTGAGE, INC.",201,0.02
+"Lennar Financial Services, LLC",200,0.02
+PARAMOUNT RESIDENTIAL MORTGAGE GROUP,198,0.02
+TFS FINANCIAL CORPORATION,196,0.02
+"NOVAD Management Consulting, LLC",195,0.02
+"Branch Messenger, Inc.",190,0.01
+"Mercury Technologies, Inc.",189,0.01
+Zip Co US Inc.,189,0.01
+"Pacific Union Financial, LLC",189,0.01
+"Securus J Holdings, LLC",188,0.01
+American Financial Network Inc.,188,0.01
+"Atlantic Union Bankshares, Inc.",186,0.01
+PRIMARY RESIDENTIAL MORTGAGE,185,0.01
+MidAmerica Mortgage Inc,183,0.01
+"Americas Car-Mart, Inc.",181,0.01
+SLM CORPORATION,180,0.01
+NORTHWEST BANCSHARES INC,180,0.01
+"Certegy Holdings, LLC",179,0.01
+WAFD BANK,178,0.01
+"UNITED BANKSHARES, INC.",176,0.01
+BlockFi Inc,176,0.01
+PROVIDENT FUNDING ASSOCIATES,175,0.01
+"FIRST INTERSTATE BANCSYSTEM, INC.",174,0.01
+"Relay Financial (US), Corp.",174,0.01
+"Volvo Car Financial Services U.S., LLC",173,0.01
+"FIRST HAWAIIAN, INC.",173,0.01
+FIRSTBANK,173,0.01
+LAND HOME FINANCIAL SERVICES,171,0.01
+Union Home Mortgage Corp,169,0.01
+"GREENSKY OPERATIONS, LLC",169,0.01
+"EGL US, LLC",168,0.01
+GATEWAY FIRST BANK,168,0.01
+CITY NATIONAL BANK,168,0.01
+Yamaha Motor Finance Corporation USA,167,0.01
+Chrysalis Holdings LLC,165,0.01
+"Skopos Financial, LLC",164,0.01
+"COMMUNITY FINANCIAL SYSTEM, INC.",162,0.01
+"Stearns Ventures, LLC",162,0.01
+"Total Card, Inc.",162,0.01
+BANKERS HEALTHCARE GROUP LLC,162,0.01
+"Fidelity National Financial, Inc",161,0.01
+"National Credit Adjusters, LLC",160,0.01
+Sunlight Financial LLC,158,0.01
+"Veros Credit, LLC",158,0.01
+"Sunbit, Inc.",157,0.01
+"PLS GROUP, INC",157,0.01
+"WESBANCO BANK, INC.",156,0.01
+"APPLE FINANCIAL HOLDINGS, INC.",156,0.01
+"DailyPay, Inc",156,0.01
+ONEMAIN FINANCE CORPORATION,155,0.01
+RENASANT CORPORATION,155,0.01
+Minto Financial dba Minto Money,155,0.01
+CIG FINANCIAL LLC,154,0.01
+"CUSTOMERS BANCORP, INC",154,0.01
+CHECK INTO CASH INC.,154,0.01
+"FIRST MIDWEST BANCORP, INC.",153,0.01
+Monterey Financial Services LLC,151,0.01
+2288984 Ontario Inc.,151,0.01
+1st Franklin Financial Corporation,151,0.01
+SECURITY SERVICE FEDERAL CREDIT UNION,148,0.01
+GLOBAL CREDIT UNION,147,0.01
+Southwest Business Corporation,146,0.01
+"Applied Data Finance, LLC",145,0.01
+MORTGAGE SOLUTIONS OF COLORADO,141,0.01
+"HILLTOP HOLDINGS, INC",141,0.01
+Driveway Finance Corporation,137,0.01
+DHI Mortgage Company,134,0.01
+"Nations Direct Mortgage, LLC",134,0.01
+"Braviant Holdings, LLC",134,0.01
+BANNER CORPORATION,131,0.01
+Ad Astra Recovery Services Inc,131,0.01
+Meta Payments Inc.,131,0.01
+"TEXAS CAPITAL BANCSHARES, INC.",131,0.01
+Alabama Housing Finance Authority,130,0.01
+"MUTUAL OF OMAHA MORTGAGE, LLC",127,0.01
+SUN LOAN COMPANY INC.,127,0.01
+"CreditNinja Lending, LLC",126,0.01
+UNITED COMMUNITY BANK,126,0.01
+CORELOGIC INC,126,0.01
+"Brightfunders, LLC",126,0.01
+FIRST HORIZON BANK - WEST CONGRESS STREET BRANCH,125,0.01
+SoLo Funds Inc.,124,0.01
+NBT BANCORP INC.,124,0.01
+FIRST AMERICAN FINANCIAL CORPORATION,124,0.01
+NVR INC.,123,0.01
+INVESTORS BANK,123,0.01
+Cornerstone Home Lending Inc.,121,0.01
+UNIVERSAL ACCEPTANCE CORPORATION (NE),121,0.01
+Supreme Lending,121,0.01
+BANCORPSOUTH BANK,120,0.01
+"Mid-Atlantic Finance Co., Inc.",119,0.01
+"Happy Money, Inc.",119,0.01
+"TIDEWATER FINANCE COMPANY, INC.",118,0.01
+Novo Platform Inc.,117,0.01
+BEACON FINANCIAL CORPORATION,117,0.01
+REVERSE MORTGAGE INVESTMENT TR,116,0.01
+"HOME BANCSHARES, INC.",116,0.01
+FIRST MERCHANTS CORPORATION,115,0.01
+TomoCredit Inc.,115,0.01
+Transform Credit Inc.,115,0.01
+E*TRADE BANK,115,0.01
+TCF FINANCIAL CORPORATION,114,0.01
+"Ingo Money, Inc.",114,0.01
+"PRIMELENDING, A PLAINSCAPITAL COMPANY",113,0.01
+HEARTLAND PAYMENT SYSTEMS INC,112,0.01
+Mercury Financial Intermediate LLC,110,0.01
+FIRST REPUBLIC BANK,109,0.01
+"IMPAC MORTGAGE HOLDINGS, INC.",108,0.01
+Franklin Credit Management Corporation,108,0.01
+SAN DIEGO COUNTY CREDIT UNION,108,0.01
+AMERICAN INTERNET MORTGAGE,107,0.01
+CATHAY BANK,106,0.01
+FIRST FINANCIAL BANCORP,106,0.01
+"TRIAD FINANCIAL SERVICES, INC.",106,0.01
+"John C. Heath, Attorney at Law, PLLC",105,0.01
+NCB Management Services Inc.,105,0.01
+Siggi LLC,104,0.01
+Academy Mortgage Corporation,104,0.01
+CNG HOLDINGS INC,104,0.01
+"AC AutoPay LLC, Denver, CO Branch",103,0.01
+COLORADO HOUSING AND FINANCE AUTHORITY,102,0.01
+"MB FINANCIAL, INC.",102,0.01
+The J. G. Wentworth Company,102,0.01
+"PulteGroup, Inc.",101,0.01
+AmeriCash Holding LLC,100,0.01
+"LCO Financial Services, LLC",100,0.01
+"Bridge IT, Inc.",99,0.01
+"Flagstar Bank, National Association",98,0.01
+"BANKUNITED, NATIONAL ASSOCIATION",97,0.01
+AMERICAN PACIFIC MORTGAGE,97,0.01
+Cottonwood Financial Ltd.,97,0.01
+"Tilt Finance, Inc.",97,0.01
+Western-Shamrock Corporation,97,0.01
+"CASHCALL, INC.",96,0.01
+Quality Loan Service Corporation,95,0.01
+DOLLAR MUTUAL BANCORP,95,0.01
+SIERRA PACIFIC MORTGAGE,95,0.01
+"Neighborhood Assistance Corporation of America (""NACA"")",95,0.01
+Deutsche Bank,94,0.01
+Amscot Corporation,94,0.01
+Lendbuzz Inc.,94,0.01
+Indie Technology DBA Found,94,0.01
+EASTERN BANKSHARES INC,94,0.01
+"CENTRAL BANCOMPANY, INC",93,0.01
+CHERRY TECHNOLOGIES INC.,93,0.01
+eToro USA LLC,93,0.01
+"GFS II, LLC",92,0.01
+LendUp Loans LLC,92,0.01
+"Innovate Managed Holdings, LLC",91,0.01
+"Nelnet, Inc.",91,0.01
+"Figure Technologies, Inc",91,0.01
+"Porsche Financial Services, Inc.",91,0.01
+Healthcare Finance Direct LLC.,91,0.01
+"Uetsa Tsakits, Inc. d/b/a MaxLend",90,0.01
+Glacier Bancorp Inc.,90,0.01
+"Click n' Close, Inc.",90,0.01
+"American Financial Resources, Inc.",90,0.01
+"Spring Oaks Capital, LLC",89,0.01
+N26 Inc.,89,0.01
+LAKE MICHIGAN CREDIT UNION,89,0.01
+"Acra Intermediate Holdings, LLC",88,0.01
+"AAA Auto Title Loans, LLC",88,0.01
+QC HOLDINGS INC,88,0.01
+"Bepensa Capital, Inc.",88,0.01
+Southern Auto Finance Co,88,0.01
+EQUITY LOANS LLC,87,0.01
+U.S. Auto Sales Inc.,87,0.01
+"Payactiv, Inc.",87,0.01
+WESTERN ALLIANCE BANCORPORATION,86,0.01
+AUTOMOTIVE CREDIT CORPORATION,86,0.01
+"DApps Platform, Inc.",85,0.01
+Abra,84,0.01
+FIRST HOME MORTGAGE CORPORATION,84,0.01
+ATLANTIC BAY MORTGAGE GROUP LLC,83,0.01
+"First Investors Servicing Corporation, Atlanta, GA Branch",83,0.01
+"Mercari, Inc.",83,0.01
+FIRST UNITED BANK AND TRUST COMPANY,82,0.01
+INDEPENDENT BANK CORP.,81,0.01
+TapTap Send Inc.,81,0.01
+Betterment LLC,81,0.01
+Mortgage Lenders Investment Trading Corp,81,0.01
+LendingUSA,80,0.01
+NATIONS LENDING CORPORATION,79,0.01
+Post Lake Lending Inc.,79,0.01
+Circle Internet Financial,79,0.01
+FRANKLIN AMERICAN MORTGAGE CO.,78,0.01
+"BILL.COM, LLC",78,0.01
+TRANSWORLD SYSTEMS INC,78,0.01
+"HOPE BANCORP, INC.",78,0.01
+"Deinde Online Services, LLC",78,0.01
+UBS BANK USA,77,0.01
+"Cash Express, LLC",77,0.01
+CIBC BANCORP USA INC.,76,0.01
+"Northern Trust Company, The",76,0.01
+"Service Finance Holdings, LLC",76,0.01
+INTERCONTINENTAL CAPITAL GROUP,76,0.01
+"Midwest Loan Services, Inc.",74,0.01
+"Empowerment Ventures, LLC",74,0.01
+"Capital Markets Cooporative, LLC",74,0.01
+"Ava Finance, Inc",74,0.01
+AMERICAN NEIGHBORHOOD MORTGAGE,73,0.01
+"Uplift, Inc",72,0.01
+"Aldridge Pite, LLP",71,0.01
+"Navient Solutions, LLC.",71,0.01
+Siwell Inc,71,0.01
+"Avid Acceptance, LLC",70,0.01
+Global Tel*Link Corporation,70,0.01
+"Credit Central Holdings, LLC",69,0.01
+Velocity Portfolio Group,69,0.01
+"Longbridge Financial, LLC",69,0.01
+Fundo LLC,68,0.01
+DFC Global Corp.,68,0.01
+"GREAT WESTERN BANCORP, INC.",67,0.01
+DigniFi,67,0.01
+"Arivo Acceptance, LLC",67,0.01
+"Sensible Auto Lending, LLC",67,0.01
+Fig Tech Inc.,67,0.01
+"Universal Account Servicing, LLC",67,0.01
+"CAVALRY INVESTMENTS, LLC",67,0.01
+FIRST COMMONWEALTH FINANCIAL CORPORATION,66,0.01
+"Auto Now Financial Services, Inc., Phoenix, AZ Branch",66,0.01
+ZARVAD III S.A.,66,0.01
+Exto Inc.,66,0.01
+"SANDY SPRING BANCORP, INC.",65,0.01
+"Flexible Finance, Inc.",65,0.01
+Security National Financial Corp,65,0.01
+RELIANCE FIRST CAPITAL LLC,65,0.01
+"NEXA Mortgage, LLC",65,0.01
+"Phelan Hallinan Diamond & Jones, PC",65,0.01
+"Momnt Technologies, Inc.",65,0.01
+Celsius US Holding LLC,65,0.01
+"Automatic Data Processing, Inc.",64,0.0
+"CashRepublic Holdings, Inc.",64,0.0
+360 MORTGAGE GROUP LLC,64,0.0
+"PINNACLE FINANCIAL PARTNERS, INC.",64,0.0
+FB FINANCIAL CORPORATION,64,0.0
+"Eagle Financial Services, Inc.",64,0.0
+Bright Capital Inc,64,0.0
+"Sparrow Financial, Inc.",63,0.0
+ROYAL UNITED MORTGAGE LLC,63,0.0
+State Home Mortgage,63,0.0
+Southwest Stage Funding,62,0.0
+PREFERRED CREDIT INC,62,0.0
+CCM Finance LLC,62,0.0
+LEXISNEXIS,61,0.0
+RockLoans Holdings LLC,61,0.0
+AG AH LLC,61,0.0
+"BCI FINANCIAL GROUP, INC.",61,0.0
+"AMERINATIONAL COMMUNITY SERVICES, INC.",61,0.0
+"TradeStation Group, Inc.",59,0.0
+"Bilt Technologies, Inc.",59,0.0
+Consumer Financial Services,59,0.0
+M1 Holdings Inc.,59,0.0
+CountryPlace Acceptance Corporation,59,0.0
+Sunnova Energy Corporation,59,0.0
+"Sunset Management, Inc",59,0.0
+"Majority USA, LLC",59,0.0
+GREENSTATE CREDIT UNION,59,0.0
+BUSEY BANK,58,0.0
+Benht: Economic Development Corporation,58,0.0
+Nicholas Financial Inc.,58,0.0
+Giggle Finance Inc.,58,0.0
+"Caneel Capital, LLC",57,0.0
+"Mcburberod Financial, Inc. d/b/a SeedFi",57,0.0
+"GLOBAL CLIENT SOLUTIONS, LLC",57,0.0
+STANDARD MORTGAGE CORPORATION,57,0.0
+"PACIFIC PREMIER BANCORP, INC.",57,0.0
+Kovo,57,0.0
+"Big City Finance, LLLP",56,0.0
+"Hatfield, Inc.",56,0.0
+NETWORK CAPITAL FUNDING CORP,56,0.0
+"Gitsit Solutions, LLC.",56,0.0
+"Eagle Home Mortgage, LLC",56,0.0
+"SUMMIT FUNDING, INC.",55,0.0
+ADIR INTERNATIONAL LLC,55,0.0
+"Auto Trakk, LLC",55,0.0
+"B9, Inc.",55,0.0
+Crossroads Systems Inc.,55,0.0
+"Panorama Mortgage Group, LLC",55,0.0
+TOWNE MORTGAGE COMPANY,55,0.0
+AES/PHEAA,54,0.0
+Garrison Investment Group,54,0.0
+Equitable Acceptance Corp,54,0.0
+"FBC MORTGAGE, LLC",54,0.0
+Royal Pacific Funding Corporation,54,0.0
+U.S. Auto Credit Corporation,54,0.0
+QUALITY ACCEPTANCE LLC,53,0.0
+OFG BANCORP,53,0.0
+Pending Company Match,52,0.0
+SANTANDER BANCORP,52,0.0
+"Atlas Credit Company, Inc.",52,0.0
+"The Savings Group, Inc.",52,0.0
+Finance of America Mortgage LLC,51,0.0
+"Propel, Inc.",51,0.0
+Essential Lending Inc,51,0.0
+Foursight Holding LLC,51,0.0
+Home American Mortgage Corp,51,0.0
+Radius Global Solutions LLC,51,0.0
+"Paxful Holdings, Inc.",50,0.0
+FIRST HERITAGE CREDIT LLC,50,0.0
+"Roadrunner Account Services, LLC",50,0.0
+"Round Up Ventures, L.P.",49,0.0
+"Flatonia Investments, LLC",49,0.0
+COOLEY ENTERPRISES INC,49,0.0
+"Long & Foster Financial Services, Inc.",49,0.0
+"Bitstamp USA, Inc.",49,0.0
+"Capital Accounts, LLC",49,0.0
+Great American Finance Co,48,0.0
+MIDCOUNTRY FINANCIAL CORP,48,0.0
+AUTOMOBILE ACCEPTANCE CORPORATION,47,0.0
+ClearPath Lending,47,0.0
+"Open Dealer Exchange, LLC",47,0.0
+Kashable LLC,47,0.0
+Premier Auto Credit,47,0.0
+VIRGINIA HOUSING DEVELOPMENT AUTHORITY,47,0.0
+"Americor Funding, LLC",46,0.0
+AmWest Funding Corp.,46,0.0
+"PatientFi, Inc.",46,0.0
+"Commerce Home Mortgage, Inc",46,0.0
+Scott Fetzer Financial Group Inc.,46,0.0
+BTH Management,45,0.0
+Four Directions Lending LLC,45,0.0
+ASTORIA BANK,45,0.0
+Lac Courte Oreilles Financial Services II,45,0.0
+"North State Acceptance, LLC",44,0.0
+JAMES B. NUTTER & COMPANY,44,0.0
+EMBRACE HOME LOANS,44,0.0
+CRED Technologies dba cred.ai,44,0.0
+"Reliable Credit Association, Inc.",44,0.0
+CADENCE BANCORPORATION,44,0.0
+"Lil' Wave Financial, Inc.",44,0.0
+"Go Capital Holdings, LLC",44,0.0
+"JFQ Lending, LLC",43,0.0
+"HABITAT FOR HUMANITY INTERNATIONAL, INC.",43,0.0
+"McCalla Raymer Leibert Pierce, LLC",43,0.0
+Concord Servicing Corporation,43,0.0
+FIRST GUARANTY MORTGAGE CORP,43,0.0
+OpenRoad Lending,43,0.0
+Zillow Group Inc.,43,0.0
+"NFM, INC",43,0.0
+"Ark-La-Tex Financial Services, LLC",43,0.0
+CALCON MUTUAL MORTGAGE LLC DBA ONETRUST HOME LOANS,43,0.0
+WESTSTAR MORTGAGE CORPORATION,43,0.0
+"Acrisure Mortgage Partners, LLC",43,0.0
+Security National Automotive Acceptance,42,0.0
+"TAYLOR MORRISON HOME FUNDING, INC.",42,0.0
+SEACOAST BANKING CORPORATION OF FLORIDA,42,0.0
+MEI AUTO FINANCE INC,42,0.0
+"West Coast Servicing, Inc.",42,0.0
+"Jim Bottin Enterprises, Inc",42,0.0
+Sulphur Bank Rancheria Enterprises,41,0.0
+"E Mortgage Capital, Inc.",41,0.0
+"CASH AMERICA INTERNATIONAL, INC.",41,0.0
+CHALLENGE FINANCIAL SERVICES,41,0.0
+PACIFIC WESTERN BANK,41,0.0
+"PROVIDENT FINANCIAL SERVICES, INC.",41,0.0
+OCEANSIDE MORTGAGE COMPANY,41,0.0
+Kentucky Housing Corporation,41,0.0
+INTERFIRST MORTGAGE COMPANY,40,0.0
+"CBC Companies, Inc.",40,0.0
+NEW CITY FUNDING CORP.,40,0.0
+"WATERMARK CAPITAL, INC.",40,0.0
+"NCP Holdings, L.P.",40,0.0
+"DIME COMMUNITY BANCSHARES, INC.",40,0.0
+"TRUHOME SOLUTIONS, LLC",40,0.0
+"CARS Acquisition, LLC",39,0.0
+"FlexShopper, Inc",39,0.0
+Midwest Recovery Systems,39,0.0
+"A-1 Premium Acceptance, Inc.",39,0.0
+"BREMER BANK, NATIONAL ASSOCIATION",39,0.0
+AMERICAN FINANCING CORPORATION,39,0.0
+Ready Capital Corporation,39,0.0
+SOP Pioneer Partners LP,39,0.0
+Robinson Economic Development Corporation,39,0.0
+HoldCo LLC,39,0.0
+On Q Financial,38,0.0
+Volunteer Mortgage Loan Servicing,38,0.0
+Signature Bank (NY),38,0.0
+"Net Pay Advance, Inc.",37,0.0
+"Sortis Financial, Inc.",37,0.0
+"Prog Holdings, Inc.",37,0.0
+Hanwha QCells USA Corp,37,0.0
+"Special Financing Company, LLC",37,0.0
+"GMFS, LLC",36,0.0
+"Recovco Mortgage Management, LLC",36,0.0
+"Heritage Financial Group, Inc.",36,0.0
+Ygrene Energy Fund Inc.,36,0.0
+V and H Portfolio,36,0.0
+IDAHO CENTRAL CREDIT UNION,36,0.0
+AmeriFirst Financial Corporation,36,0.0
+Plastiq Inc.,36,0.0
+TOWNEBANK,36,0.0
+OCEANFIRST FINANCIAL CORP.,36,0.0
+"Point Digital Finance, Inc.",35,0.0
+Benworth Capital Partners LLC,35,0.0
+HOMESTAR FINANCIAL CORPORATION,35,0.0
+VANGUARD FUNDING LLC,35,0.0
+"DLC, LLC",35,0.0
+"AMALGAMATED TOKEN SERVICES, INC.",35,0.0
+Global Credit Union,35,0.0
+"Altisource Portfolio Solutions, S.à r.l.",35,0.0
+CARVANT FINANCIAL LLC,35,0.0
+STATE STREET BANK AND TRUST COMPANY,35,0.0
+WEALTHFRONT CORPORATION,35,0.0
+RUOFF MORTGAGE,35,0.0
+"FIRST COMMUNITY MORTGAGE, INC.",34,0.0
+eMortgage Funding LLC,34,0.0
+FEARON FINANCIAL LLC,34,0.0
+OKX INC.,34,0.0
+"Michigan Mutual, Inc.",34,0.0
+WATERSTONE MORTGAGE CORPORATION,34,0.0
+"Cascade CISS Holdings, LLC",34,0.0
+"First Help Financial, LLC",34,0.0
+"SandP Solutions, Inc.",34,0.0
+"Oasis Legal Finance Holding Company, LLC",34,0.0
+"Nationwide Mortgage Bankers, Inc.",33,0.0
+"Coastal Credit, LLC",33,0.0
+"Dyck-O'Neal, Inc.",33,0.0
+"Integrity Funding Ohio, LLC",33,0.0
+"SOUTHSTATE BANK, N.A. - 520 GERVAIS STREET BRANCH",33,0.0
+The Aligned Company DBA Extra,33,0.0
+Fair Financial Corp.,33,0.0
+"Credit Control, LLC",33,0.0
+"Fleet Financial, Inc.",33,0.0
+WEICHERT FINANCIAL SERVICES,33,0.0
+Self Lender Inc,33,0.0
+"MortgagePros, LLC",33,0.0
+Airtm Inc.,32,0.0
+"WYNDHAM CAPITAL MORTGAGE, INC.",32,0.0
+STATE BANK OF INDIA - NEW YORK BRANCH,32,0.0
+"Farrell Holdings, LLC",32,0.0
+National Financial LLC,32,0.0
+"STATE BANKSHARES, INC.",32,0.0
+TOLL BROTHERS INC,32,0.0
+GSF MORTGAGE CORP,32,0.0
+"INDEPENDENT BANK GROUP, INC.",32,0.0
+"Security Credit Services, LLC",32,0.0
+ALLIED MORTGAGE GROUP,32,0.0
+"E MORTGAGE MANAGEMENT, LLC",32,0.0
+C/C Financial,32,0.0
+"Brock & Scott, PLLC",32,0.0
+Spring Equity LLC,32,0.0
+"MAS FINANCIAL SERVICES, INC.",32,0.0
+"INTERCONTINENTAL EXCHANGE, INC.",32,0.0
+"Debt Recovery Solutions, LLC",32,0.0
+STOCKTON MORTGAGE,32,0.0
+Rhode Island Housing and Mortgage Finance Corporation,31,0.0
+Evergreen Moneysource Mortgage Company,31,0.0
+STONEGATE MORTGAGE CORPORATION,31,0.0
+Athena Bitcoin Inc,31,0.0
+"Lima One Capital, LLC",31,0.0
+PENNSYLVANIA HOUSING FINANCE AGENCY,31,0.0
+Dividend Finance Inc.,31,0.0
+"CCS Financial Services, Inc.",31,0.0
+NATIONWIDE ACCEPTANCE LLC,31,0.0
+"INDUSTRIAL AND COMMERCIAL BANK OF CHINA (USA), NATIONAL ASSOCIATION",31,0.0
+"Green Trust Cash, LLC",31,0.0
+TClub Inc,31,0.0
+"Perpay, Inc.",31,0.0
+Moneytree Inc,30,0.0
+"Syncapay, Inc",30,0.0
+Credit Corp Solutions Inc.,30,0.0
+"Halsted Financial Services, LLC.",30,0.0
+"ADP, LLC",30,0.0
+"Madison Management Services, LLC",30,0.0
+TrueAccord Corp.,30,0.0
+"SF VAGO, LLC",30,0.0
+"Makes Cents, Inc. dba Advance.Cash",30,0.0
+Credit Plus Inc,30,0.0
+"EMG ACQUISITION GROUP, LLC",29,0.0
+BANCFIRST CORPORATION,29,0.0
+Garcadia Financial LLC,29,0.0
+WINNPOINTE CORPORATION,29,0.0
+TOTAL MORTGAGE SERVICES LLC,29,0.0
+"TAG Intermediate Holding Company, LLC",29,0.0
+"Sovereign Lending Group, Incorporated",29,0.0
+MoneySpot USA LLC DBA Sunshine Loans,29,0.0
+"Coinme Holdings, Inc.",29,0.0
+"BANC OF CALIFORNIA, INC.",29,0.0
+"BRite Financial Services, Inc.",29,0.0
+"KILOWATT FINANCIAL, LLC, A SPRUCE FINANCE COMPANY",29,0.0
+CONST LLC,28,0.0
+Sierra Holdings LLC,28,0.0
+"Global Equity Finance, Inc.",28,0.0
+"3rd Generation, Inc.",28,0.0
+"ID Analytics, Inc.",28,0.0
+HIGHLANDS RESIDENTIAL MORTGAGE,28,0.0
+"NOVA Financial Holding Company, LLC",28,0.0
+"RABOBANK, NATIONAL ASSOCIATION",28,0.0
+ALAMEDA MORTGAGE CORPORATION,28,0.0
+"CAINE & WEINER COMPANY, INC.",28,0.0
+"Hello Digit, LLC",28,0.0
+"Local Management, LLC",27,0.0
+"Wallace Management Company, LLC",27,0.0
+"Intermex Wire Transfer, LLC",27,0.0
+VANDYK MORTGAGE CORPORATION,27,0.0
+"Neighborhood Capital Funding, Inc.",27,0.0
+FIRST CONTINENTAL MORTGAGE LTD,27,0.0
+"Barrett Financial Group, L.L.C.",27,0.0
+INDEPENDENCE HOME LOANS LLC,27,0.0
+Fuel Capital Group,27,0.0
+Bay Equity LLC,27,0.0
+"Amcap Investments, LLC",27,0.0
+Veripro Solutions Inc.,27,0.0
+"Imprint Payments, Inc.",27,0.0
+Ralis Services Corporation,27,0.0
+"Mountain West Financial, LLC",27,0.0
+"LIVE OAK BANCSHARES, INC.",27,0.0
+A&D Mortgage LLC,27,0.0
+"United Military Mortgage, LLC",26,0.0
+FLORIDA HOME TRUST MORTGAGE,26,0.0
+Stewart Information Services,26,0.0
+"Parkway Financial Group, LLC",26,0.0
+"Servion, Inc.",26,0.0
+UNITED AUTO ACCEPTANCE,26,0.0
+Premier Student Loan Center,26,0.0
+National Default Servicing Corporation,26,0.0
+United Group Inc.,26,0.0
+SFMC L.P.,26,0.0
+"AutoMoney, Inc.",26,0.0
+"Servicing Solutions, LLC",26,0.0
+Absolute Resolutions Corp.,26,0.0
+McKenzie Management LLC,25,0.0
+West Realm Shires Services Inc.,25,0.0
+"Danco Financial Services, LLC",25,0.0
+"EQUITY RESOURCES, INCORPORATED",25,0.0
+"The LGM Co., Inc.",25,0.0
+"Goal Structured Solutions, LLC",25,0.0
+"EZCORP, INC.",25,0.0
+CVB FINANCIAL CORP.,25,0.0
+"Select Financial Services, Inc.",25,0.0
+CEX.IO CORP.,25,0.0
+"BWW Law Group, LLC",25,0.0
+"Castle Credit Co Holdings, LLC, Chicago, IL Branch",25,0.0
+"HomeTown Lenders, LLC",25,0.0
+Apple Financing LLC,25,0.0
+"Greenlight Financial Technology, Inc",25,0.0
+"Debois, Inc.",25,0.0
+Lincoln Financial Services,25,0.0
+Thrift Investment Corp.,25,0.0
+COINFLIP LLC,25,0.0
+"OCMBC, Inc",25,0.0
+Grow Credit Inc,25,0.0
+Flandreau Santee Sioux Tribe,25,0.0
+"ASSURANCE FINANCIAL GROUP, LLC",24,0.0
+MCMC Auto LTD,24,0.0
+Ameritech Financial,24,0.0
+"Central Mortgage Funding, LLC",24,0.0
+Tally Technologies,24,0.0
+"eMoneyUSA Holdings, LLC",24,0.0
+BHFC Financial Services INC,24,0.0
+"Live Well Financial, Inc.",24,0.0
+CITYWORTH MORTGAGE LLC,24,0.0
+"Convergent Resources, Inc.",24,0.0
+Consumer Adjustment Company Incorporated,24,0.0
+"FIRST FINANCIAL BANKSHARES, INC.",24,0.0
+SILVERGATE CAPITAL CORPORATION,23,0.0
+"Financial Freedom Mortgage, LLC",23,0.0
+"Approve Holdings, Inc",23,0.0
+"FirstCash, Inc.",23,0.0
+Credova Holdings Inc,23,0.0
+MEGASTAR FINANCIAL CORP,23,0.0
+"Celebrity Financial, Inc.",23,0.0
+"South River Mortgage, LLC",23,0.0
+Rapid Auto Loans LLC,23,0.0
+LEADER ONE FINANCIAL CORPORATION,23,0.0
+"Flat Branch Mortgage, Inc.",23,0.0
+HGREG.com,23,0.0
+"Crown Asset Management, LLC, Duluth, GA Branch",23,0.0
+"CAROLINA FINANCE, LLC",23,0.0
+"DAS ACQUISITION COMPANY, LLC",23,0.0
+"MEMBER FIRST MORTGAGE, LLC",23,0.0
+"Loan South Finance & Tax Service of Troy, LLC",23,0.0
+"CREDIT CONCEPTS, INC.",23,0.0
+"Pavilion Payments US BuyerCo, LLC",23,0.0
+"I.C. System, Inc.",22,0.0
+ZWICKER & ASSOCIATES,22,0.0
+"PayTomorrow, LLC",22,0.0
+Michael Wayne Investment,22,0.0
+"TRANSCARD, LLC",22,0.0
+"Dakota Financial, LLC",22,0.0
+"BLINCLOANS, INC.",22,0.0
+"New Century Auto Sales, Inc.",22,0.0
+Swe Homes LP,22,0.0
+MID FLORIDA FINANCING LLC,22,0.0
+"Prizm Financial Company, LLC",22,0.0
+NJ LENDERS CORP,22,0.0
+"Norwich Commercial Group, Inc.",22,0.0
+TOLEDO FINANCE CORPORATION,22,0.0
+CONDOR CAPITAL CORP,22,0.0
+"AMERIFIRST FINANCIAL, INC.",22,0.0
+Acorns Grow Incorporated,22,0.0
+"RANLife, Inc.",22,0.0
+Turner Acceptance Corp.,22,0.0
+"National Credit Systems,Inc.",22,0.0
+Paysend US LLC,22,0.0
+"Kabompo Holdings, Ltd.",21,0.0
+"Harmon Law Offices, P.C.",21,0.0
+CONTOUR MORTGAGE CORPORATION,21,0.0
+GRANDVIEW FINANCIAL SERVICES INC.,21,0.0
+American Finance LLC,21,0.0
+ENTERPRISE FINANCIAL SERVICES CORP,21,0.0
+"SYNERGY ONE LENDING, INC.",21,0.0
+"Kiavi, Inc.",21,0.0
+NATIONWIDE ADVANTAGE MORTGAGE COMPANY,21,0.0
+MOHELA,21,0.0
+Instarem PTE Limited,21,0.0
+Fidem Baltimore Holdings LLC,21,0.0
+"Scratch Financial, Inc.",21,0.0
+NATIONS RELIABLE LENDING LLC,21,0.0
+UNITED MORTGAGE CORP,21,0.0
+"Line Financial, PBC",21,0.0
+"Mitsubishi Motors North America, Inc.",21,0.0
+"Leap Credit, LLC",21,0.0
+"Exodus Movement, Inc.",21,0.0
+"ACI Worldwide, Corp.",21,0.0
+"NATIONAL ASSET MORTGAGE, LLC",21,0.0
+"Klover Holdings, Inc.",21,0.0
+"PACE Funding Group, LLC",21,0.0
+"HARBORONE MORTGAGE, LLC",21,0.0
+Veem  Inc.,21,0.0
+GOLD STAR MORTGAGE FINANCIAL,20,0.0
+"Fold, Inc.",20,0.0
+Massachusetts Housing Finance Agency (MassHousing),20,0.0
+"THRIVE MORTGAGE, LLC",20,0.0
+RESIDENTIAL HOME FUNDING CORP.,20,0.0
+"AppFolio, Inc.",20,0.0
+"Auto Advantage Finance, LLC",20,0.0
+"SoFi Mortgage, LLC",20,0.0
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",20,0.0
+"JAN (LendUSA) Holdings, Inc.",20,0.0
+"First Direct Lending, LLC",20,0.0
+Titanium Funds,20,0.0
+"Weltman, Weinberg & Reis Co., L.P.A.",20,0.0
+"Motolease, LLC",20,0.0
+Revolution Financial Inc.,20,0.0
+MORTGAGE LENDERS OF AMERICA,20,0.0
+NCP Finance,20,0.0
+"National Auto Lenders, Inc.",20,0.0
+Law Offices of Les Zieve,19,0.0
+LOAN SIMPLE INC.,19,0.0
+"Choice Money Transfer, Inc.",19,0.0
+Florida Financial Management dba Lend A Dollar,19,0.0
+Credible Labs Inc.,19,0.0
+"Lentegrity Management, LLC",19,0.0
+"WRJ Holdings, LLC",19,0.0
+SecurityNational Mortgage Company,19,0.0
+"Pintor Partners, LP",19,0.0
+Alliant Capital Management LLC,19,0.0
+"Taproot Financial, LLC",19,0.0
+"Innovative Funding Services, L.L.C.",19,0.0
+"SAMC Honebee TRS, LLC",19,0.0
+"United Consumer Finance, Inc.",19,0.0
+Next Financial Inc. dba Copper,19,0.0
+Groundfloor Finance Inc.,19,0.0
+"MORTGAGE FIRM, INC., THE",19,0.0
+"Geneva Financial, LLC, Chandler, AZ Branch",19,0.0
+"Firstsource Business Process Services, LLC",19,0.0
+Nexus Nova LLC,19,0.0
+PDQ Check Exchange LC,18,0.0
+Paycheck Solutions llc,18,0.0
+CENTERSTATE BANK CORPORATION,18,0.0
+"Zap Solutions, Inc.",18,0.0
+"Concorde Auto Management, LLC  DBA  Concorde Auto Acceptance",18,0.0
+Climb Credit Inc.,18,0.0
+PLAID INC.,18,0.0
+We Collect Inc,18,0.0
+Worth Finance Corporation,18,0.0
+"RSVP Lending, LLC dba RSVP Loans",18,0.0
+"Kriya Capital, LLC",18,0.0
+"Tona Mortgage, LLC",18,0.0
+"Hometap Equity Partners, LLC",18,0.0
+"KBHS Home Loans, LLC",18,0.0
+"Caribou Financial, Inc.",18,0.0
+Credimatico LLC,18,0.0
+ACOPIA CAPITAL GROUP,18,0.0
+MEGA CAPITAL FUNDING INC.,18,0.0
+"American Payment Holdco, Inc.",18,0.0
+MORTGAGE 1 INCORPORATION,18,0.0
+Midwest Acceptance Corp.,18,0.0
+STEWARD FINANCIAL SERVICES LLC,18,0.0
+"The Bureaus, Inc.",18,0.0
+Everi Payments Inc.,18,0.0
+GOLDEN EMPIRE MORTGAGE INCORPORATED,18,0.0
+"EXPERT GLOBAL SOLUTIONS, INC.",17,0.0
+BAY VALLEY MORTGAGE GROUP,17,0.0
+Secure One Capital Corporation,17,0.0
+"LoanUnited.com, LLC",17,0.0
+Lenmo Inc,17,0.0
+"Nav Technologies, Inc.",17,0.0
+"OLD REPUBLIC TITLE HOLDING COMPANY, INC",17,0.0
+CRESCO CAPITAL INC.,17,0.0
+"Advantage One Credit, LLC",17,0.0
+Trans-Fast Remittance LLC,17,0.0
+RAYMOND JAMES BANK,17,0.0
+Meadowbrook Financial Mortgage Bankers Corp.,17,0.0
+COMPUTER SCIENCES CORPORATION,17,0.0
+Angel Oak Home Loans LLC,17,0.0
+MID-ISLAND MORTGAGE CORP.,17,0.0
+"Acceptance Solutions Group, INC",17,0.0
+United Built Homes LLC,17,0.0
+"MORTGAGE CENTER, LC",17,0.0
+Wave Financial USA Inc.,17,0.0
+Roc Capital Holdings LLC,17,0.0
+Riverwalk Financial Corporation,17,0.0
+Consumer Real Estate Finance Co.,17,0.0
+"King of Credit Financial, Inc",17,0.0
+"Thrivepoint Financial Holdings, Inc.",17,0.0
+"EAGLE BANCORP, INC.",17,0.0
+MLD MORTGAGE INC,17,0.0
+Kubota North America Corporation,16,0.0
+MCLEAN MORTGAGE CORPORATION,16,0.0
+"MCCUE MORTGAGE COMPANY, THE",16,0.0
+"FIDELITY CAPITAL HOLDINGS, INC",16,0.0
+"West Capital Lending, Inc.",16,0.0
+CHOICE CAPITAL FUND,16,0.0
+"YKS Acceptance, Inc.",16,0.0
+Uber Technologies Inc.,16,0.0
+"Triton Management Group, Inc",16,0.0
+"SUNRISE CREDIT SERVICES, INC",16,0.0
+TOP FLITE FINANCIAL INC,16,0.0
+"HEARTLAND FINANCIAL USA, INC.",16,0.0
+"Ovation Financial Services, LLC",16,0.0
+EdFinancial Services,16,0.0
+"Prospect Mortgage, LLC",16,0.0
+"VERITAS FUNDING, LLC",16,0.0
+"De Lage Landen Finance, LLC",16,0.0
+Summit Financial Corp.,16,0.0
+"Moria Development, Inc.",16,0.0
+"August Real Estate Investments, LLC",16,0.0
+"Northstar Location Services, LLC",16,0.0
+Greentree & Associates,16,0.0
+"NerdWallet, Inc.",16,0.0
+SecureNet Loan Services LLC,16,0.0
+"Check City Partnership, LLC",16,0.0
+"IDT Telecom, Inc",16,0.0
+Lenox Financial Mortgage Corporation,16,0.0
+Overland Bond & Investment Corporation,16,0.0
+"ADVISORS MORTGAGE GROUP, LLC",16,0.0
+"HONOR FINANCE, LLC",16,0.0
+Bison Bucks Lending,16,0.0
+"Churchill Holdings, Inc.",16,0.0
+PRANCER CAPITAL CORP,16,0.0
+"GUIDANCE RESIDENTIAL, LLC",16,0.0
+South Carolina State Housing Finance and Development Authority,16,0.0
+Common Wealth Mortgage Services,15,0.0
+"Insikt, Inc.",15,0.0
+"Cornerstone First Mortgage, Inc.",15,0.0
+Gotmortgage.com,15,0.0
+AdvantageFirst Lending Inc.,15,0.0
+"TRUEBILL, INC",15,0.0
+"Filo Mortgage, L.L.C.",15,0.0
+Central Portfolio Control Inc.,15,0.0
+WEBULL PAY HOLDINGS (US) INC,15,0.0
+"ZINC Financial, Inc.,",15,0.0
+Peoples Commerce Inc,15,0.0
+Allied Servicing Corporation,15,0.0
+JMAC LENDING INCORPORATED,15,0.0
+"Sokaogon Finance, Inc.",15,0.0
+"MNE Services, Inc",15,0.0
+"WMC MORTGAGE, LLC",15,0.0
+"EMCC Holdings, LLC",15,0.0
+CHERRY CREEK MORTGAGE COMPANY INC.,15,0.0
+Palisades Funding Corporation,15,0.0
+EA Holdings Corp.,15,0.0
+"InterLinc Mortgage Services, LLC",15,0.0
+"BAY COUNTRYCONSUMER FINANCE,INC.",15,0.0
+Affiliates Management Company,15,0.0
+"Amsher Collection Services, Inc.",15,0.0
+SunTx Capital Partners,15,0.0
+"Edge Home Finance, LLC",15,0.0
+PRONTO FINANCE INC.,15,0.0
+Total Auto Finance,15,0.0
+Loqbox US Inc,15,0.0
+"NQM Funding, LLC",15,0.0
+"NETWORK FUNDING, L.P.",15,0.0
+"SUCCESS MORTGAGE PARTNERS, INC",15,0.0
+EarnUp Inc.,15,0.0
+"Superior Holdings, LLC",15,0.0
+Goldcar Lending Inc.,15,0.0
+"Lanier Law Firm, LLC",15,0.0
+"Millennial Home Lending, Inc",15,0.0
+"Afterpay US Services, LLC",15,0.0
+Hanna Holdings Inc,14,0.0
+REMAX,14,0.0
+"TexCap Financial, LLC",14,0.0
+"Southwest Credit Systems, L.P.",14,0.0
+FIRST CENTENNIAL MORTGAGE CORP,14,0.0
+"Kind Holdings, LLC",14,0.0
+"Cash Link USA, LLC",14,0.0
+"Peak Acceptance, LLC.",14,0.0
+"Above Lending, Inc.",14,0.0
+"Lenderfi, Inc.",14,0.0
+Intercoastal Mortgage LLC,14,0.0
+"Phillips & Cohen Associates, Ltd.",14,0.0
+"The Best Service Co.,Inc",14,0.0
+"OM Financial, LLC",14,0.0
+FIRST ADVANTAGE CORPORATION,14,0.0
+"FCC Finance, LLC",14,0.0
+"Strategic Automotive Servicing, LLC",14,0.0
+"Bounce AI, Inc.",14,0.0
+Old Republic National Title Holding Co.,14,0.0
+PROPEL FINANCIAL SERVICES LLC,14,0.0
+"Gold Star Finance, Inc.",14,0.0
+"Automotive Management Services, Inc.",14,0.0
+STIFEL FINANCIAL CORP.,14,0.0
+E Mortgage,14,0.0
+"ONE REVERSE MORTGAGE, LLC",14,0.0
+Time Investment Corporation,14,0.0
+HOME FINANCING CENTER,14,0.0
+BUCKEYE FINANCIAL SERVICES OF ALLIANCE INC.,14,0.0
+"Lending Force, LLC",14,0.0
+USForex Inc.,14,0.0
+PLATINUM HOME MORTGAGE CORPORATION,14,0.0
+FIRST FOUNDATION INC.,14,0.0
+JUSTICE FINANCE COMPANY,14,0.0
+CFW Holdings LLC,14,0.0
+"Maximus Federal Services, Inc.",14,0.0
+"Cash Time Title Loans, Inc.",14,0.0
+2233 Paradise Road LLC,14,0.0
+"WestGen Lending, a DBA of Beckam Funding",14,0.0
+"QuickClick Loans of Illinois, LLC",14,0.0
+Amos Financial LLC,13,0.0
+"Capital Management Services, LP",13,0.0
+RateGenius Loan Services Inc,13,0.0
+"Caliver Beach Mortgage, LLC",13,0.0
+Creditly Corp.,13,0.0
+Viva Finance Inc.,13,0.0
+"ATHAS CAPITAL GROUP, INC.",13,0.0
+"K. HOVNANIAN AMERICAN MORTGAGE, LLC",13,0.0
+C2 Financial Corporation,13,0.0
+"Fein, Such, Kahn & Shepard, P.C.",13,0.0
+Luckmore Finance,13,0.0
+Prime Choice Funding Inc.,13,0.0
+Camino Financial Inc.,13,0.0
+Arete Financial Group,13,0.0
+"THE MONEY HOUSE, INC.",13,0.0
+"Ballybunion Enterprises, Inc",13,0.0
+"MRS BPO, LLC",13,0.0
+"Pingora Holdings, LP",13,0.0
+"BYS, LLC. d/b/a Boost Your Score",13,0.0
+Friendly Finance Corporation,13,0.0
+HFS Financial LLC,13,0.0
+"SHM Holdings, LLC",13,0.0
+Reach Financial LLC,13,0.0
+Reliant Financial Corporation,13,0.0
+"ClearOne Advantage, LLC",13,0.0
+"Donut, Inc.",13,0.0
+"City Enterprises, LLC",13,0.0
+Fusion Auto Finance,13,0.0
+"Advantage Credit, Inc.",13,0.0
+SVB FINANCIAL GROUP,13,0.0
+"B&B Funding, LLC",13,0.0
+Redfin Corporation,13,0.0
+"Credit Union Mortgage Association, Inc.",13,0.0
+"Quick Bridge Funding, LLC",13,0.0
+"RIGHT START MORTGAGE, INC.",13,0.0
+"Blitt and Gaines, P.C.",13,0.0
+"Maximum Title Loans, LLC",13,0.0
+"Intelliloan, Inc",13,0.0
+"Easy Finance, LLC",13,0.0
+ERC,13,0.0
+HALLMARK HOME MORTGAGE LLC,13,0.0
+"PARKSIDE LENDING, LLC",13,0.0
+MORTGAGE CLEARING CORPORATION,13,0.0
+"United Debt Counselors, LLC",13,0.0
+Armed Forces Loans of Nevada Inc.,13,0.0
+"ACQ Holdings, LLC.",13,0.0
+"Stenger & Stenger, P.C",13,0.0
+Williston Financial Group,13,0.0
+Stilt Inc,13,0.0
+"Neighborhoods United, LLC",12,0.0
+"Aspen Properties Group, LLC",12,0.0
+"Consumer Financial Services Solutions, Inc.",12,0.0
+BELMONT FINANCE LLC,12,0.0
+"Reliable Auto Finance, Inc.",12,0.0
+APG Financial Inc,12,0.0
+Aura Mortgage Advisors LLC,12,0.0
+GENTRY FINANCE CORPORATION,12,0.0
+"Real Estate Equity Exchange, Inc. d/b/a Unison",12,0.0
+"U.S. Equity Advantage Holdings, Inc.",12,0.0
+"Tennessee Quick Cash, Inc.",12,0.0
+"Client Services, Inc.",12,0.0
+Island Finance Puerto Rico,12,0.0
+"Champions Funding, LLC",12,0.0
+"Aurora Financial, LLC",12,0.0
+"Ladera Lending, Inc",12,0.0
+"NEXBANK CAPITAL, INC.",12,0.0
+Embassy Loans,12,0.0
+Castle and Cookie Mortgage LLC,12,0.0
+UNITED GUARANTY CORPORATION,12,0.0
+"FinFit Holding Co, LLC",12,0.0
+SOUTHEAST MORTGAGE OF GA INC,12,0.0
+Rapid Home Lending Inc.,12,0.0
+Financial Business and Consumer Solutions.,12,0.0
+Helbing Law Group,12,0.0
+"CalAtlantic Financial Services, Inc., Scottsdale, AZ Branch",12,0.0
+"Law Office of Michael J. Scott, PC",12,0.0
+VIAMERICAS CORPORATION,12,0.0
+Residential Bancorp,12,0.0
+"HAMILTON GROUP FUNDING, INC.",12,0.0
+A-L FINANCIAL CORP,12,0.0
+"Freeway Funding, Inc.",12,0.0
+HOMEOWNERS FINANCIAL GROUP USA,12,0.0
+Flat Six Holdings Inc.,12,0.0
+"Pinnacle Financial Group, Inc.",12,0.0
+Angel Oak Mortgage Solutions LLC,12,0.0
+"SOUTHWEST FUNDING, LP",12,0.0
+Concerto Card Company,12,0.0
+"Double Diamond-Delaware, Inc.",12,0.0
+BEAL FINANCIAL CORPORATION,12,0.0
+"Yield Solutions Group, LLC",12,0.0
+Bank of China USA,12,0.0
+"Pinebrook Holdings, LLC",12,0.0
+"Financial Asset Management, Inc.",12,0.0
+Arbor Residential Mortgage LLC,12,0.0
+Home Mortgage Alliance Corp. (HMAC),12,0.0
+GREEN ROAD FINANCE INC.,12,0.0
+"First Texas Auto Credit, Inc.",12,0.0
+"Lugano Capital, Inc. d/b/a Start Auto Finance",12,0.0
+"1803 Capital, LLC",12,0.0
+Iconic Mortgage Corp.,12,0.0
+"FirstKey Holdings, LLC",12,0.0
+RC Willey,12,0.0
+"Federal Cash Advance, LLC of Oklahoma",12,0.0
+Roseberry Inc.,11,0.0
+"AMERICAN BANCSHARES MORTGAGE, LLC",11,0.0
+FIRST CREDIT FINANCE,11,0.0
+"Independent Dealers' Advantage, LLC",11,0.0
+"MCS MORTGAGE BANKERS, INC.",11,0.0
+SAMUEL I WHITE PC,11,0.0
+Rausch Sturm LLP,11,0.0
+"Residential Credit Solutions, Inc.",11,0.0
+"Zendable, Inc.",11,0.0
+Apex Mortgage LLC,11,0.0
+"UNITED FIDELITY FUNDING, CORP",11,0.0
+"Credit Services Corporation, LLC",11,0.0
+"United Collection Bureau, Inc.",11,0.0
+ALCAR INC.,11,0.0
+"Tebo Financial Services, Inc.",11,0.0
+American Coradius International LLC,11,0.0
+PAY-O-MATIC,11,0.0
+MISSION FINANCIAL SERVICES CORPORATION,11,0.0
+MORTGAGE INVESTORS GROUP,11,0.0
+"Red Cedar Services, Inc",11,0.0
+"URS Holding, LLC",11,0.0
+Cactus Jacks Auto Sales,11,0.0
+AmOne Corp.,11,0.0
+ALL WESTERN MORTGAGE,11,0.0
+AMERICAN PORTIFOLIO MORTGAGE,11,0.0
+INTERNATIONAL BANCSHARES CORPORATION,11,0.0
+"Presto Loan Center, LLC",11,0.0
+SOUTHERN TRUST MORTGAGE LLC,11,0.0
+Opportunity Fund,11,0.0
+U DRIVE ACCEPTANCE CORPORATION,11,0.0
+T2 Financial LLC,11,0.0
+"UHG, LLC",11,0.0
+Draper and Kramer Mortgage Corp.,11,0.0
+"Personal Cash Loans of SC, Inc.",11,0.0
+UNITED CREDIT CORP. OF SOUTHAVEN,11,0.0
+US MORTGAGE CORPORATION,11,0.0
+Moon Inc.,11,0.0
+"Financial Service Center of Ohio, LLC",11,0.0
+"Sequium Asset Solutions, LLC",11,0.0
+"Unlock Technologies, Inc.",11,0.0
+Castle Mortgage Corporation dba Excelerate Capital,11,0.0
+Leaders Financial Company,11,0.0
+"Glasser and Glasser, PLC",11,0.0
+"Udren Law Offices, P.C.",11,0.0
+STAR ONE CREDIT UNION,11,0.0
+SHABANA MOTORS,11,0.0
+"Genesis Financial & Payment Systems Holdings, LLC",11,0.0
+"Colten Mortgage, LLC",11,0.0
+InDebted Corporation,11,0.0
+Escrow Inc,11,0.0
+"Camelot Financial Services, Inc.",11,0.0
+WOOD FINANCE INC DBA PREMIER ACCEPTANCE,10,0.0
+"WILSON & ASSOCIATES, PLLC",10,0.0
+OPEN MORTGAGE LLC,10,0.0
+Bankers Auto Acceptance,10,0.0
+"Burns Auto Credit, LLC",10,0.0
+Toyota Credit De Puerto Rico Corp.,10,0.0
+MANN FINANCIAL INC.,10,0.0
+"North Shore Equities, Inc.",10,0.0
+"Wildhorse Financial Services, LLC",10,0.0
+ACRE MORTGAGE,10,0.0
+NAFCO Finance,10,0.0
+"Adonis Auto Group, LLC",10,0.0
+United Acceptance Inc.,10,0.0
+Vehicle Solutions Corp,10,0.0
+"Premier Mortgage Resources, LLC",10,0.0
+Mortgage One Funding LLC,10,0.0
+"Capitol Credit Services, Inc",10,0.0
+"NEW IMAGITAS, INC",10,0.0
+"OLIPHANT FINANCIAL, LLC",10,0.0
+Home Credit Corp. Inc.,10,0.0
+"Muskegon Car Credit, Inc.",10,0.0
+ICUL Service Corporation,10,0.0
+"TRIDENT MORTGAGE COMPANY, LP",10,0.0
+"CoinZoom, Inc.",10,0.0
+First Bancorp North Carolina,10,0.0
+Source Receivables Management LLC,10,0.0
+"EMI Equity Mortgage, Inc.",10,0.0
+"CarFinance Capital LLC, Irvine, CA Branch",10,0.0
+Red River Credit Corporation,10,0.0
+FIRST MORTGAGE COMPANY,10,0.0
+"Nudge Funding, LLC",10,0.0
+Family First Funding LLC,10,0.0
+"BMANSOL Intermediate Holdings, Inc.",10,0.0
+SHAPESHIFT AG,10,0.0
+Grey Inc,10,0.0
+GENWORTH FINANCIAL INC.,10,0.0
+"JOHN GIBSON AUTO SALES, INC.",10,0.0
+Ghidotti | Berger LLP,10,0.0
+"Solidifi US, Inc.",10,0.0
+"ShoulderTap Technologies, Inc. d/b/a Fizz",10,0.0
+PNB INTERNATIONAL INVESTMENTS CORPORATION,10,0.0
+Funding Metrics LLC,10,0.0
+"Peritus Portfolio Services II, LLC",10,0.0
+Global Trust Management LLC,10,0.0
+"Star Loans of Texas, Inc.",10,0.0
+"Peoples Home Equity, Inc.",10,0.0
+FastBucks,10,0.0
+"First National Collection Bureau, Inc.",10,0.0
+"DOLEX DOLLAR EXPRESS, INC.",10,0.0
+Washington Trust Bank Financial Corporation,10,0.0
+Guidiville Indian Rancheria,10,0.0
+"LoanFlight Lending, LLC",10,0.0
+Colony Ridge Inc.,10,0.0
+"Money Management International, Inc.",10,0.0
+Unifin Inc.,10,0.0
+BIYING Inc,10,0.0
+"MILEND, INC.",10,0.0
+"HW Holding, Inc",10,0.0
+CashMax LLC,10,0.0
+Golden Title Loans LLC,10,0.0
+Trusted Mortgage Capital Inc,10,0.0
+"Chek Cash, Inc.",10,0.0
+"AXIA FINANCIAL, LLC",10,0.0
+Business Financing Corporation,10,0.0
+BROADVIEW MORTGAGE CORPORATION,10,0.0
+"Worldwide Processing Group, LLC",9,0.0
+ASPIRE FINANCIAL INC.,9,0.0
+United National Services,9,0.0
+Personal Finance Center,9,0.0
+Merchants Acceptance Corp,9,0.0
+"Liberty Home Equity Solutions, Inc.",9,0.0
+D2 Management LLC,9,0.0
+"Midwest Fidelity Services, LLC",9,0.0
+"JH Portfolio Debt Equities, LLC",9,0.0
+"Paramount Capital Group, Inc.",9,0.0
+"Zeus Mortgage, Ltd.",9,0.0
+Homespire Mortgage Corp,9,0.0
+"Scratch Services, Inc.",9,0.0
+"ORG GC GP BUYER, LLC",9,0.0
+River Financial Inc.,9,0.0
+Helm Associates,9,0.0
+SET Financial Corporation,9,0.0
+"UNIFOUR FINANCIAL SERVICES, LLC",9,0.0
+Sombrero Capital LLC,9,0.0
+"Lend Smart Mortgage, LLC",9,0.0
+"Creative Finance, Inc.",9,0.0
+"Manor Resources, LLC",9,0.0
+TAMMAC HOLDINGS CORP,9,0.0
+"Collins Asset Group, LLC",9,0.0
+HOMESTEAD FUNDING CORPORATION,9,0.0
+"Autovest, L.L.C.",9,0.0
+"ARS National Services, Inc.",9,0.0
+Enium Capital Group LLC,9,0.0
+KEYSTONE EQUIPMENT FINANCE CORP.,9,0.0
+Rent Recovery Solutions,9,0.0
+Maxitransfers LLC,9,0.0
+Global Credit & Collection Corporation,9,0.0
+"Metropolitan Home Mortgage, Inc.",9,0.0
+"Omnex Group, Inc.",9,0.0
+"CCI Financial, Inc",9,0.0
+PRIORITY PLUS FINANCIAL LLC,9,0.0
+iFreedom Direct Corporation,9,0.0
+EnTrust Funding,9,0.0
+"United Debt Holdings, LLC",9,0.0
+"Nationwide Capital Services, LLC",9,0.0
+"NCD Financial, LLC",9,0.0
+Cliff Lending Inc. d/b/a Advance Loan Solutions,9,0.0
+"1ST ALLIANCE LENDING, LLC",9,0.0
+"SW Linear Investment Group, LLC",9,0.0
+"Action Credit, LLC",9,0.0
+SCS Credit Corporation,9,0.0
+Credence Funding Corporation,9,0.0
+"AUTO FINANCE USA, LLC",9,0.0
+CIS DIRECT LENDING,9,0.0
+"Nationwide Biweekly Administration, Inc.",9,0.0
+Loan Cabin Inc.,9,0.0
+Total Finance AC LLC,9,0.0
+Optima Advocates,9,0.0
+"HUNTINGTON NATIONAL BANK, THE - FIRSTMERIT BANK, N.A. BRANCH",9,0.0
+"Tomo Networks, Inc.",9,0.0
+"V.I.P. MORTGAGE, INC.",9,0.0
+"First Equity Mortgage Bankers, Inc.",9,0.0
+DreamSpring,9,0.0
+ZuntaFi Corp,9,0.0
+"Imperium Lending, LLC",9,0.0
+Renew Financial Holdings Inc,9,0.0
+"FRANKLIN FIRST FINANCIAL, LTD",9,0.0
+American Mortgage Service Company,9,0.0
+"French Financial, Inc.",9,0.0
+"Cedar Holdings, Inc.",9,0.0
+"American Cycle Finance, Inc.",9,0.0
+PREMIUM MORTGAGE CORP,9,0.0
+STELLAR BANCORP INC.,9,0.0
+"American Heritage Lending, LLC",9,0.0
+"TJC Mortgage, Inc.",9,0.0
+"Cherry Creek Corporate, LLC",9,0.0
+"Gurstel Law Firm, P.C.",9,0.0
+Cstone Mortgage Inc,9,0.0
+"IMC Capital, LLC",9,0.0
+EIC Enterprises,9,0.0
+Bear Claw Lending dba Lucent Cash,9,0.0
+Tesani Management Inc,9,0.0
+"National Finance Company, Inc.",9,0.0
+"James E. Albertelli, P.A., a Florida professional association",9,0.0
+"TNT Financial, Inc.",9,0.0
+"Auto Acceptance, LLC",9,0.0
+Modoc Tribe Financial Services Authority,9,0.0
+UnBanked,9,0.0
+"SFS, Inc",9,0.0
+ROCKY MOUNTAIN MORTGAGE COMPANY,9,0.0
+"Nationwide Title Clearing, Inc.",9,0.0
+"NRA Group, LLC",9,0.0
+"Pioneer Credit Company, Inc",9,0.0
+OAKTREE FUNDING CORPORATION,9,0.0
+AFNI INC.,9,0.0
+Lewis & Clark Capital LLC,8,0.0
+"Coast2Coast Mortgage, LLC",8,0.0
+"Globe Acceptance, Inc.",8,0.0
+CREDIGY USA CORP.,8,0.0
+"Wheels of Chicago, Inc.",8,0.0
+ETHOS LENDING LLC,8,0.0
+LAKEVIEW LENDING LLC,8,0.0
+"VICTORIAN FINANCE, LLC",8,0.0
+Lazega & Johanson LLC,8,0.0
+EUSTIS MORTGAGE CORPORATION,8,0.0
+First Mortgage Solutions,8,0.0
+HOME FINANCE OF AMERICA,8,0.0
+"ITALBANK INTERNATIONAL, INC.",8,0.0
+NATIONWIDE EQUITIES CORP,8,0.0
+Denefits LLC,8,0.0
+Payday America Inc.,8,0.0
+"Money Stash, L.L.C.",8,0.0
+"Madison Auto, LLC",8,0.0
+WILLOW BEND MORTGAGE,8,0.0
+FRANKLIN LOAN CORPORATION,8,0.0
+"Time Investment Company, Inc.",8,0.0
+"Bristlecone, Inc.",8,0.0
+"Money Transfer Acquisition, Inc.",8,0.0
+Visio Financial Services Inc.,8,0.0
+"CFAM Financial Services, LLC",8,0.0
+"Asset Recovery Solutions, LLC",8,0.0
+"1ST FINANCIAL, INC.",8,0.0
+"William D. Meeker Enterprises, Inc.",8,0.0
+Golden Entropy Marketing Inc,8,0.0
+"Neighborhood Autos, LLC",8,0.0
+Bayside Credit,8,0.0
+Mechoopda Indian Tribe of Chico Rancheria,8,0.0
+"Equity Settlement Services, Inc.",8,0.0
+"Associated Credit Services, Inc.",8,0.0
+Best Capital Funding,8,0.0
+Hawk Inc,8,0.0
+"Persolve, LLC - Legal - Series 2",8,0.0
+F&L Marketing Enterprises LLC,8,0.0
+"Monarch Recovery Holdings, Inc.",8,0.0
+AmNet ESOP Corporation,8,0.0
+Partners for Payment Relief,8,0.0
+"FAIR COLLECTIONS & OUTSOURCING, INC.",8,0.0
+"PRG Ventures, Inc",8,0.0
+Torriere Holdings INC,8,0.0
+"TFC Group, LLC",8,0.0
+LENDER LIVE,8,0.0
+"Pacific Home Loans, Inc",8,0.0
+Federal Financial Services Inc,8,0.0
+Oracle Financial Group LLC.,8,0.0
+FIRST CHOICE LOAN SERVICES INC.,8,0.0
+"True Link Financial, Inc.",8,0.0
+"All Credit Considered Mortgage, Inc.",8,0.0
+"GRIFFIN FUNDING, INC.",8,0.0
+ALCOVA MORTGAGE LLC,8,0.0
+InstaMortgage Inc.,8,0.0
+"Suttell, Hammer & White, P.S",8,0.0
+"Red Mortgage, Inc.",8,0.0
+"Plastyc, Inc.",8,0.0
+"Location Services Holdings, LLC",8,0.0
+"M/I Homes, Inc.",8,0.0
+Earnest Inc.,8,0.0
+JLB CORPORATION,8,0.0
+"OVM FINANCIAL, INC",8,0.0
+PIKE CREEK MORTGAGE SERVICES,8,0.0
+"Wxw Investments, LLC",8,0.0
+"National Enterprise Systems, Inc.",8,0.0
+"Residential Mortgage Services Holdings, Inc.",8,0.0
+"Equity Auto Finance, Inc.",8,0.0
+"Citizens Savings & Loan Corporation, Chattanooga, TN Branch",8,0.0
+"CHECK CASHIERS, INC.",8,0.0
+"Kwikcash, Inc.",8,0.0
+EXCEL FINANCE COMPANY,8,0.0
+Pacific Credit Exchange Corporation,8,0.0
+"McCarthy & Holthus, LLP",8,0.0
+"AUTO MARKET OF FLORIDA, CORP",8,0.0
+"FMA Alliance, Ltd.",8,0.0
+"Dennis Dillon Auto Park and Truck Center, Inc.,",8,0.0
+Main Street Personal Finance,8,0.0
+Manley Deas & Kochalski LLC,8,0.0
+"STL HOLDING COMPANY, LLC",8,0.0
+"CJA Auto Sales, Inc.",7,0.0
+"Clear Mortgage Capital, Inc.",7,0.0
+Servatus Corporation,7,0.0
+"Metallicus, Inc.",7,0.0
+"The CBE Group, Inc.",7,0.0
+"LoanSnap, Inc.",7,0.0
+"American International Finance, Inc.",7,0.0
+"Onward Credit Holdings, LLC",7,0.0
+WALL STREET MORTGAGE BANKERS,7,0.0
+Kitch Acceptance Corp.,7,0.0
+Direct Cash LLC,7,0.0
+"JHL, LLC",7,0.0
+"Center Street Finance, LP dba CSF Servicing",7,0.0
+"Aldous & Associates, PLLC",7,0.0
+"Direct Mortgage Loans, LLC",7,0.0
+Sarma,7,0.0
+"BOGMAN, INC",7,0.0
+"My Mortgage, Inc.",7,0.0
+DRIVE NOW ACCEPTANCE LLC,7,0.0
+"GCFS, INC.",7,0.0
+High Performance Capital,7,0.0
+"MarkOne Holdings, LLC",7,0.0
+"Lloyd & McDaniel, PLC",7,0.0
+Lowcountry Credit Inc.,7,0.0
+Mortgage Connect LP,7,0.0
+United Mortgage Lending LLC,7,0.0
+Innovis,7,0.0
+"Rapid Investments Holdings, Inc",7,0.0
+NOVA Financial & Investment Corporation,7,0.0
+"City First Mortgage Services, LLC.",7,0.0
+"Ability Recovery Services, LLC",7,0.0
+"Summit AmeriFirst Holdings, Inc.",7,0.0
+IOWA BANKERS MORTGAGE CORPORATION,7,0.0
+"CHECKredi of Kentucky, LLC",7,0.0
+Credit Card Receivables Fund Incorporated,7,0.0
+Ray Skillman GMC Truck Inc,7,0.0
+"Vitek Real Estate Industries Group, Inc.",7,0.0
+Kirkland Financial LLC,7,0.0
+IQOR US INC,7,0.0
+Skyline Financial Corp.,7,0.0
+CBC Mortgage Agency,7,0.0
+Servicer under contract with Federal Student Aid,7,0.0
+Marine One Acceptance Corporation,7,0.0
+Integrity Financial Corp. DBA US Loan Servicing,7,0.0
+Wharthog Ventures LLC dba Loans Not Sharks,7,0.0
+Fortren Funding LLC,7,0.0
+Auto Credit of Virginia Inc.,7,0.0
+"Atlanta Check Cashers, Inc",7,0.0
+"Rubin & Rothman, LLC",7,0.0
+Absolute Home Mortgage Corporation,7,0.0
+"January Technologies, Inc",7,0.0
+I.A.C. INC,7,0.0
+Buffalo Auto Acceptance Corp.,7,0.0
+Home Servicing LLC,7,0.0
+"FIRST CALIFORNIA MORTGAGE CO., INC.",7,0.0
+Clark County Collection Service,7,0.0
+Smith Debnam Narron Drake Saintsing & Myers LLP,7,0.0
+Oklahoma Motor Credit Company,7,0.0
+"BitGo Holdings, Inc.",7,0.0
+Foreman Financial Inc.,7,0.0
+PRIMERA FINANCIAL CORP.,7,0.0
+Liberty Home Mortgage Corporation,7,0.0
+Patrick K Willis Company Inc,7,0.0
+First Colony Mortgage Corp.,7,0.0
+The Cadle Company,7,0.0
+Informative Research,7,0.0
+Title365 Holding Co.,7,0.0
+"Fidelity Direct Mortgage, LLC",7,0.0
+"Constar Financial Services, LLC",7,0.0
+"RESMAC, INC.",7,0.0
+"ROC Asset Solutions, LLC",7,0.0
+"MLB Residential Lending, LLC",7,0.0
+"Trident Asset Management, L.L.C.",7,0.0
+Arapahoe Motors,7,0.0
+Clarity Services,7,0.0
+"Wheel City Motors East, Inc.",7,0.0
+"Nationwide Debt Reduction Services, LLC",7,0.0
+"Cascade Mortgage, Inc.",7,0.0
+GREAT LAKES,7,0.0
+VIN Title LLC d/b/a Discount Title Loan,7,0.0
+Allied Financial Services Inc,7,0.0
+FirstPoint Collection Resources,7,0.0
+Steel Lending Group LLC,7,0.0
+Franklin Financial  Corporation,7,0.0
+B&F Finance Corp.,7,0.0
+"NexGen Proceed, LLC",7,0.0
+First Reliance Holdings LLC,7,0.0
+"Simple Cash Loans, Inc.,",7,0.0
+"Applied Business Services, Inc.",7,0.0
+Ardmore Finance Corporation,7,0.0
+"Capital Benefit, Inc.",7,0.0
+Rock Holdings Inc.,7,0.0
+"Orchard Mortgage, LLC",7,0.0
+Genesis Lending,7,0.0
+Northwood Asset Management Group,6,0.0
+"DynaGen Lending, LLC",6,0.0
+"INTER & CO PAYMENTS, INC.",6,0.0
+"MDE Home Loans, LLC",6,0.0
+"Splash Financial, Inc.",6,0.0
+"Bizcorp, LLC",6,0.0
+"PALOMAR ENTERPRISES, LLC",6,0.0
+"Webcollex, LLC",6,0.0
+"FactorTrust, Inc.",6,0.0
+AMERICASH,6,0.0
+Integrated Recovery Services,6,0.0
+"Diversified Consultants, Inc.",6,0.0
+"EOS Holdings, Inc.",6,0.0
+Greyhound Capital Group LLC,6,0.0
+"Javitch, Block & Rathbone LLC",6,0.0
+"BorrowersFirst, Inc.",6,0.0
+Houston Finance Co.,6,0.0
+Deer Creek Lending,6,0.0
+Blue Brick Financial LLC,6,0.0
+Peoples Financial Corp.,6,0.0
+"Commonwealth Financial Systems, Inc.",6,0.0
+Nations Mortgage LLC,6,0.0
+CapitalCredit LLC,6,0.0
+"Tiffany & Bosco, P.A.",6,0.0
+"Cascade Capital, LLC",6,0.0
+"Veristone Mortgage, LLC",6,0.0
+"Global Payments Check Services, Inc.",6,0.0
+"Lockhart, Morris & Montgomery Inc.",6,0.0
+EZ FUNDINGS Inc.,6,0.0
+"Atlantic Mortgage and Funding, Inc.",6,0.0
+"Cashbak, LLC",6,0.0
+"Del Toro Loan Servicing, Inc",6,0.0
+"RCN Capital, LLC",6,0.0
+"LendUS, LLC",6,0.0
+"Shapiro, DiCaro & Barak, LLC",6,0.0
+"ONY GLO, INC.",6,0.0
+Liberal Finance Service,6,0.0
+Student Services,6,0.0
+"Prepaid Ventures, LTD",6,0.0
+"Pine Court Holdings, LLC",6,0.0
+"Southwest Recovery Services, Inc.",6,0.0
+Nala Payments LLC,6,0.0
+"A+ Loans, Inc.",6,0.0
+Texan Credit Corporation,6,0.0
+Motormax Financial Services Inc.,6,0.0
+TekCollect Inc.,6,0.0
+"Jersey Mortgage Company of New Jersey, Inc.",6,0.0
+General Mortgage Capital Corporation,6,0.0
+NTFN INC.,6,0.0
+"Travelex NY, Inc.",6,0.0
+"BAM Financial, LLC",6,0.0
+First Associates Loan Servicing LLC,6,0.0
+"1 STOP MONEY CENTERS, LLC",6,0.0
+Diverse Funding Associates LLC,6,0.0
+CU MORTGAGE SERVICES INC.,6,0.0
+"Dealer Funding, LLC",6,0.0
+"SERVISFIRST BANCSHARES, INC.",6,0.0
+"W&A Intermediate Co., LLC",6,0.0
+Nationwide Financial Group,6,0.0
+Patenaude & Felix A Professional Corporation,6,0.0
+CITIZENS FIRST WHOLESALES MORTGAGE,6,0.0
+Pendleton & Sutton LLC,6,0.0
+"Bastion Consumer Funding I, LLC",6,0.0
+DAIMLER TRUCK FINANCIAL SERVICES USA LLC,6,0.0
+MITSUBISHI HC CAPITAL (U.S.A.) INC.,6,0.0
+"SB Holdings, Inc.",6,0.0
+Tidalwave Finance Corporation,6,0.0
+"RAS LaVrar, LLC",6,0.0
+"NOTE SERVICING CENTER, INC.",6,0.0
+Mediation Recovery Center,6,0.0
+"Seed Consulting, LLC",6,0.0
+"FIRST PRIORITY MORTGAGE, INC.",6,0.0
+"ROAD Auto Finance, LLC",6,0.0
+TCN Inc,6,0.0
+Student Loan Financial Assistance,6,0.0
+Hypotec Inc.,6,0.0
+ATLANTIC PACIFIC MORTGAGE CORP,6,0.0
+Nexera Holding LLC,6,0.0
+"MERCANTILE ADJUSTMENT BUREAU, LLC",6,0.0
+Checkbook Inc,6,0.0
+"The Orange Coast Company, LLC",6,0.0
+Residential Credit Opportunities Trust,6,0.0
+Tater Inc.,6,0.0
+Merchants Automotive Group LLC,6,0.0
+"Probate Advance Holdco, LLC",6,0.0
+"Direct Recovery Services, LLC",6,0.0
+SERVICELINK LOSS MITIGATION SERVICES,6,0.0
+La Casa Bonita Investments,6,0.0
+"Car Credit Finance, LLC",6,0.0
+"United Check Recovery Bureau, Inc.",6,0.0
+"Leafy Financial, LLC",6,0.0
+SC Opportunity Fund LLC,6,0.0
+Lightning Mortgage Holding Company Inc,6,0.0
+"National Asset Direct, Inc.",6,0.0
+"Levy & Associates, LLC",6,0.0
+"Franklin Mortgage Solutions, LLC",6,0.0
+"TDF Financial Services, Inc.",6,0.0
+"Mandarich Law Group, LLP",6,0.0
+Model Finance Company,6,0.0
+"Adler Wallach & Associates, Inc.",6,0.0
+Moneydart Global Services Inc.,6,0.0
+"Sky Group USA, LLC",6,0.0
+Sierra Credit Corp,6,0.0
+LYON SERVICES CORPORATION,6,0.0
+MAJR Financial Corp,6,0.0
+"WALLICK AND VOLK, INC",6,0.0
+Finco Holding Company LLC,6,0.0
+FIRST ALLIANCE HOME MORTGAGE,6,0.0
+GREATER SUBURBAN ACCEPTANCE CORPORATION,6,0.0
+"Inter-Cambio Express, Inc.",6,0.0
+"Financial Recovery Services, Inc.",6,0.0
+Midwest Finance Corporation,6,0.0
+CERTAINTY HOME LOANS LLC,6,0.0
+"Medical Data Systems, Inc.",6,0.0
+Lendtable Inc.,6,0.0
+"WINN LAW GROUP, APC",6,0.0
+"Blue Global Media, Inc.",6,0.0
+"Winthrop Financial Resources, LLC",6,0.0
+"Strategic Financial Solutions, LLC",5,0.0
+River City Mortgage LLC,5,0.0
+"Line 5, LLC",5,0.0
+"Dynamic Recovery Solutions, LLC",5,0.0
+HANCOCK MORTGAGE PARTNERS LLC,5,0.0
+HomePlus Corporation,5,0.0
+TEAM USA MORTGAGE L.L.C.,5,0.0
+"Second Round Limited Partnership, Austin, TX Branch",5,0.0
+CreditWorks LLC,5,0.0
+"VERITEX HOLDINGS, INC.",5,0.0
+Higher Level Processing,5,0.0
+Crown Mortgage Co.,5,0.0
+Envios de Valores La Nacional Corp.,5,0.0
+"First Southwestern Financial Services, LLC",5,0.0
+Coconut Funding Corporation,5,0.0
+SENTE MORTGAGE,5,0.0
+"Millsap & Singer, LLC",5,0.0
+Royalty Management Corporation,5,0.0
+"MINNESOTA LIFE INSURANCE CO., THE",5,0.0
+"Barnhall Financial Services, Inc.",5,0.0
+PREFERRED MORTGAGE CORPORATION,5,0.0
+"Temple View Capital Funding, LP",5,0.0
+"Universal Capital Services, Inc.",5,0.0
+Enterprise Acquisitions,5,0.0
+"S&N Debt Solutions, LLC",5,0.0
+"Kass Shuler, P.A.",5,0.0
+First Commonwealth Mortgage Corp.,5,0.0
+Saddleback Acceptance Corporation,5,0.0
+"Rubin Lublin, LLC",5,0.0
+"Chicago Car Center, Inc.",5,0.0
+"Omega RMS, LLC",5,0.0
+Auto Credit of Southern Ilinois,5,0.0
+FACTUAL DATA CORP.,5,0.0
+"Complete Credit Solutions, Inc.",5,0.0
+NATIONAL DEBT RELIEF LLC,5,0.0
+Sol Acceptance,5,0.0
+AMERICAN SECURITY MORTGAGE CORPORATION,5,0.0
+DELMAR FINANCIAL COMPANY,5,0.0
+"HFG Holdings, Inc.",5,0.0
+The Capital Good Fund,5,0.0
+SBG Financial,5,0.0
+"Tri-Emerald Financial Group, Inc.",5,0.0
+"McCarthy, Burgess & Wolff, Inc.",5,0.0
+"Global Processing Services, LLC",5,0.0
+Jet Direct Funding Corp,5,0.0
+"Lendgo, Inc.",5,0.0
+"Kornerstone Credit,  LLC.",5,0.0
+"Lendsmart, Inc.",5,0.0
+"FC LENDING, LTD.",5,0.0
+"Strategic Alliances, Inc.",5,0.0
+"Go Companies, LLC",5,0.0
+Windham Equity Company,5,0.0
+"Columbus Capital Lending, LLC, Miami, FL Branch",5,0.0
+NORTHERN OHIO INVESTMENT COMPANY,5,0.0
+Independent Savings Plan Co.,5,0.0
+"Acceptance Rentals, Inc.",5,0.0
+American Mortgage Investment Partners Fund I Trust,5,0.0
+"CU Alliance, LLC",5,0.0
+"Aargon Agency, Inc.",5,0.0
+"Credit Technologies, Inc.",5,0.0
+PRESTAMOS RAPIDITOS,5,0.0
+Town Financial Corporation,5,0.0
+"Great Western Financial Services, Inc.",5,0.0
+West Virginia Housing Development Fund,5,0.0
+ADESA CORPORATION,5,0.0
+"Continental Services Group, Inc. d/b/a ConServe",5,0.0
+Podium Mortgage Capital LLC,5,0.0
+"Western Benefits Group, LLC",5,0.0
+"NEU Money, Inc.",5,0.0
+Core Capital Lending LLC,5,0.0
+"Northwest Trustee Services, Inc.",5,0.0
+Title Security Agency LLC,5,0.0
+CITYWIDE HOME LOANS A UTAH CORPORATION,5,0.0
+"Town Square Mortgage & Investments, LLC",5,0.0
+Currencies Direct Inc.,5,0.0
+Illinois Lending Corporation,5,0.0
+Hilco Receivables LLC,5,0.0
+GARDEN STATE HOME LOANS INCORPORATED,5,0.0
+Sports & Imports Auto,5,0.0
+"GreenPath, Inc.",5,0.0
+"Bakkt Opco Holdings, LLC",5,0.0
+"SunnyHill Financial, Inc.",5,0.0
+Dodge Enterprises Inc.,5,0.0
+Next Door Lending LLC,5,0.0
+"Main Street Holdings, Inc.",5,0.0
+"Civic Financial Services, Inc.",5,0.0
+Cumulus Funding LLC,5,0.0
+"Soja Management Services, LLC",5,0.0
+"Premier Mortgage, LLC",5,0.0
+"GMA Investments, LLC",5,0.0
+SCOTTRADE BANK,5,0.0
+"Auto Masters, LLC",5,0.0
+Ok Finance Group INC,5,0.0
+"Pomelo International, Inc",5,0.0
+"Nu World Title, LLC",5,0.0
+Atlantic Recovery Solutions LLC,5,0.0
+"BAYSHORE MORTGAGE FUNDING, LLC",5,0.0
+"Upstate Premier Mortgage, Inc.",5,0.0
+Chaos Home Loans LLC,5,0.0
+"BTS Motors, LLC",5,0.0
+Check N Title Loans,5,0.0
+"FM Home Loans, LLC",5,0.0
+Richard A. Weidel Corporation,5,0.0
+"RELIABLE FINANCIAL SERVICES, INC.",5,0.0
+NAM National Arbitration and Mediation,5,0.0
+"3G+1, Inc. dba California Auto Finance",5,0.0
+AMERICAN EQUITY MORTGAGE,5,0.0
+"SEMPER HOME LOANS, INC",5,0.0
+Ocean Lending Home Loans,5,0.0
+"Pressler & Pressler, LLP",5,0.0
+American Lending Finance,5,0.0
+YALE MORTGAGE CORPORATION,5,0.0
+"Empire Home Loans, Inc.",5,0.0
+"Allied International Credit Corp., (US)",5,0.0
+EF CORPORATE HOLDINGS LLC,5,0.0
+Loantopia,5,0.0
+"KAHRS LAW OFFICES, PA",5,0.0
+"Revco Management, LLC",5,0.0
+"WAKEFIELD & ASSOCIATES, INC.",5,0.0
+"Apex Funding Group, Inc.",5,0.0
+"Financial Credit Service, Inc.",5,0.0
+"Atlantic Credit & Finance, Inc.",5,0.0
+POLARIS HOME FUNDING CORP,5,0.0
+Financial Assistance Inc,5,0.0
+Delbert Services,5,0.0
+Credit Lending Services Inc.,5,0.0
+Access Financial LLC,5,0.0
+"MUSA Holdings, LLC",5,0.0
+"CMM Finance, Inc.",5,0.0
+"Trustly, Inc.",5,0.0
+"Capital Alliance Financial, LLC",5,0.0
+"DMB Financial, LLC",5,0.0
+BID SOLUTIONS LLC,5,0.0
+"Family Choice Financial, Inc.",5,0.0
+ATLANTIC HOME LOANS INC.,5,0.0
+"Synergy One Lending, Inc.",5,0.0
+"NATIONAL FUNDING, INC.",5,0.0
+GERSHMAN INVESTMENT CORPORATION,5,0.0
+Strategic Dealer Services,5,0.0
+Revenued LLC,5,0.0
+"CHACON AUTOS, LTD.",5,0.0
+"GOOGAIN, INC.",5,0.0
+"Core Advisory Group, LLC",5,0.0
+LOAN SERVICING GROUP,5,0.0
+"Cedars Business Services, LLC",5,0.0
+LJ Ross Associates,5,0.0
+BULBUL INVESTMENTS LLC,5,0.0
+Point Up Inc,5,0.0
+"Collections Acquisition Company, Inc.",5,0.0
+ROSS MORTGAGE CORPORATION,5,0.0
+"SOUTHPOINT FINANCIAL SERVICES, INC.",5,0.0
+"OS National, LLC",5,0.0
+"MIDWEST EQUITY MORTGAGE, LLC",4,0.0
+"Cohn, Goldberg & Deutsch,LLC",4,0.0
+"CFS Holdings, Inc",4,0.0
+LEVEL 4 FUNDING LLC,4,0.0
+Easyknock,4,0.0
+Access Loan Services Inc.,4,0.0
+"Data and Contact Management Solutions, LLC",4,0.0
+"Lyons, Doughty & Veldhuis, PC",4,0.0
+"Esusu, Inc.",4,0.0
+Bubba Hill Auto Plaza Inc,4,0.0
+"Capital For Change, Inc.",4,0.0
+"Equity Sales Finance, Inc.",4,0.0
+GREENTREE MORTGAGE CO. L.P.,4,0.0
+"Virtual Assets, LLC",4,0.0
+"DRB-40, LLC",4,0.0
+"Drees Company, Inc.",4,0.0
+Flagship Financial Group,4,0.0
+"Michel Law, LLC d/b/a Level One Law",4,0.0
+Linebarger Goggan Blair & Sampson LLP,4,0.0
+"Reali, Inc.",4,0.0
+"Primary Capital Mortgage, LLC",4,0.0
+"Key Management Company of Missouri, LLC.",4,0.0
+UNITED SECURITY FINANCIAL,4,0.0
+Nations Info Corp,4,0.0
+Meridian Buyer’s Group,4,0.0
+"National Asset Advisors, LLC",4,0.0
+"Troy Capital, LLC",4,0.0
+Master Finance Company,4,0.0
+"State Cap Auto Finance, Inc",4,0.0
+Amerifund Home Mortgage LLC,4,0.0
+"Lendmart, LLC",4,0.0
+PARK NATIONAL CORPORATION,4,0.0
+Courtesy Loans of Oklahoma LLC.,4,0.0
+"Direct Mortgage, Corp.",4,0.0
+"DLF Law Group, LLC",4,0.0
+"MortgageOne, Inc.",4,0.0
+"Prospect Financial Group, Inc",4,0.0
+Unifirst Mortgage Corporation,4,0.0
+"Global Financial Mortgage, LLC.",4,0.0
+"Caramel Dealer Services, LLC",4,0.0
+"West Bay Leasing Services, LLC",4,0.0
+"Auto Properties II, LLC",4,0.0
+Coast Acceptance Corporation,4,0.0
+"Collection Management Holdings, LLC",4,0.0
+Xtreme Products LLC,4,0.0
+"Groves Capital, Inc.",4,0.0
+"MORTGAGE CAPITAL ASSOCIATES, INC.",4,0.0
+"Continental Currency Services, Inc.",4,0.0
+Arco Collection Services LLC,4,0.0
+Get Financed LLC,4,0.0
+"Pinnacle Asset Management, LLC",4,0.0
+Forthright Funding Corporation,4,0.0
+"First Choice Lending Services, LLC",4,0.0
+Catch Financial Inc,4,0.0
+Beacon Funding Corporation,4,0.0
+"Forward Funding Group, Inc.",4,0.0
+"CrossCheck, Inc.",4,0.0
+HomeXpress Mortgage Corp.,4,0.0
+"Nationwide Loan Consultants and Advisors, LLC",4,0.0
+Quest Legal Group,4,0.0
+"FIRST METROPOLITAN FINANCIAL SERVICES, INC.",4,0.0
+DOAN SOLUTIONS,4,0.0
+"Pangea Universal Holdings, Inc.",4,0.0
+"Lynx Asset Services, LLC",4,0.0
+"MORTGAGE UNLIMITED, LLC",4,0.0
+AUTO CREDIT USA,4,0.0
+"DEBT 0, INC",4,0.0
+"HARTFORD FUNDING, LTD",4,0.0
+"Pinnacle Lending Group, Inc.",4,0.0
+"Zebit, Inc.",4,0.0
+Sterling Credit Corp.,4,0.0
+AVANTE,4,0.0
+"Roosen, Varchetti & Olivier, PLLC",4,0.0
+City First Mortgage Corp,4,0.0
+Huntington Debt Holding LLC,4,0.0
+Nextep Funding LLP,4,0.0
+"ThunderRoad Financial, LLC",4,0.0
+Capitol Loans,4,0.0
+GSA Commercial Asset Management,4,0.0
+Gross Polowy LLC,4,0.0
+Supreme Solutions,4,0.0
+Five Clans Lending LLC,4,0.0
+Commercial Acceptance Company,4,0.0
+"Diversified Adjustment Service, Inc.",4,0.0
+"The Check Cashing Place, Inc.",4,0.0
+"WOLFE FINANCIAL, INC.",4,0.0
+"Modern Mortgage Financial, LLC",4,0.0
+"Presto Auto Loans, Inc.",4,0.0
+"PRIMAVERA FINANCIAL, INC.",4,0.0
+1st Fidelity Loan Servicing,4,0.0
+"Home Approvals Direct, Inc.",4,0.0
+"Dean Morris, L.L.P.",4,0.0
+"Century Finance, Inc.",4,0.0
+Neighhood Housing Services of Chicago Inc,4,0.0
+"JTM Capital Management, LLC",4,0.0
+"Auto Credit Corporation of Jonesboro, iNC.",4,0.0
+"Adobe Settlement Group, LLC",4,0.0
+"Imperial Recovery Consultants, LLC",4,0.0
+Activus Corporation,4,0.0
+"Hayt Hayt & Landau, P.L. (FL)",4,0.0
+"Bonial & Associates, P.C",4,0.0
+Action Finance Inc.,4,0.0
+Ricart Financial Services,4,0.0
+Mathew Aaron Holdings Inc.,4,0.0
+Credee Corporation,4,0.0
+Courtesy Finance LLC,4,0.0
+CAPITAL CENTER LLC,4,0.0
+"FIRST FINANCIAL SERVICES, INC.",4,0.0
+PERSIAN ACCEPTANCE CORP,4,0.0
+MODERN FINANCE COMPANY,4,0.0
+Tiptree Financial Inc.,4,0.0
+Iron Capital Group,4,0.0
+"Homie Technology, Inc",4,0.0
+"Mezu, Inc",4,0.0
+Olympus Lending LLC,4,0.0
+D. SCOTT CARRUTHERS,4,0.0
+FUTURE FINANCE COMPANY,4,0.0
+Pomelo Technology US Inc,4,0.0
+Speedee Cash Management,4,0.0
+"Innovative Mortgage Services, Inc.",4,0.0
+"RCS Recovery Services, LLC",4,0.0
+"N.A.R., Inc.",4,0.0
+"Student Loan Care, LLC",4,0.0
+HCFS Healthcare Financial Services of TeamHealth,4,0.0
+Intelligent Mortgage and Consulting Services LLC,4,0.0
+Earm LLC,4,0.0
+AHL Funding,4,0.0
+"Consolidated Management Group, LLC",4,0.0
+"Coast 2 Coast Financial Group, LLC",4,0.0
+"Young America Holdings, LLC",4,0.0
+"Simpson Law Firm, P.A.",4,0.0
+Chesmar Homes,4,0.0
+Middle Georgia Management Services,4,0.0
+Wakpamni Lake Community Corporation,4,0.0
+RLB Texas Auto Center LLC,4,0.0
+American Recovery Service Incorporated,4,0.0
+Karwaala Inc,4,0.0
+CrediautoUSA Financial Company LLC,4,0.0
+"Heavner, Beyers & Mihlar LLC",4,0.0
+SIRVA WORLDWIDE INC.,4,0.0
+"Leopold & Associates, LLC",4,0.0
+"C & E Financial Group, Inc.",4,0.0
+"AZ Home Loans, LLC",4,0.0
+"American Liberty Mortgage, Inc.",4,0.0
+"Sago Financial, Inc.",4,0.0
+Green Square Company LLC.,4,0.0
+First Midwest Financial,4,0.0
+Tan Oak Financial,4,0.0
+"Oquirrh Mountain Law Group, P.C.",4,0.0
+"Alliance One, Inc.",4,0.0
+"GL Financial, Inc.",4,0.0
+RMK Financial Corp,4,0.0
+HOME ACCEPTANCE CORPORATION,4,0.0
+First Consumers Financial LLC,4,0.0
+"Creekside Finance, Inc.",4,0.0
+Reliance Motor Credit LLC,4,0.0
+"Avantus, LLC",4,0.0
+Sher & Shabsin PC,4,0.0
+Priority Financial Network,4,0.0
+Lien Enforcement Inc,4,0.0
+"Orions Management Group, LLC",4,0.0
+"SHD Legal Group, P.A.",4,0.0
+"Capital Auto Credit, LLC",4,0.0
+Lengenuity LLC,4,0.0
+TITLE MIDWEST INC,4,0.0
+RRD Financial LLC,4,0.0
+Jeremy Doppelt Realty Management LLC Defined Benefit Plan,4,0.0
+Evident Capital LLC,4,0.0
+Pacific Rim Alliance Corporation,4,0.0
+Pilgrim Mortgage LLC,4,0.0
+"First Premier Financial, Inc.",4,0.0
+Logan Finance Corporation,4,0.0
+"Bright Side Loans, LLC",4,0.0
+Anytime Cash Solutions LLC,4,0.0
+"Ogden Holdings, LLC",4,0.0
+Carma Enterprises Inc,4,0.0
+"FX Quick Cash, LLC",4,0.0
+Royalty Lending Financial Services Inc.,4,0.0
+"Ascension Point Recovery Services, LLC",4,0.0
+"Collection at Law, Inc. A.P.C.",4,0.0
+LHM Financial,4,0.0
+"Hogan Capital II, LLC",4,0.0
+"AMERIPRISE BANK, FSB",4,0.0
+Messerli & Kramer P.A.,4,0.0
+"National Consumer Telecom & Utilities Exchange, Inc.",4,0.0
+Layer2 Financial Inc.,4,0.0
+INTERNATIONAL CITY MORTGAGE,4,0.0
+MIRACLE FINANCE LTD,4,0.0
+Hightechlendinginc,4,0.0
+PARKS TITLE COMPANY,4,0.0
+Synergetic Communication Inc,4,0.0
+"LoanHero, Inc",4,0.0
+Premier Auto Finance of South Florida,4,0.0
+"PayNearMe MT, Inc.",4,0.0
+"Mexico Transfers, Inc.",4,0.0
+Gatestone & Co. International Inc.,4,0.0
+"Interstate Recovery Service, Inc.",4,0.0
+"HOME LENDING GROUP, LLC, THE",4,0.0
+Credential Acceptance Corporation,4,0.0
+"Friedman Law Associates, PC",4,0.0
+"StellarFinance, Inc.",4,0.0
+"Allied Collection Services, Inc. (Nevada)",4,0.0
+"Advantage Auto Sales, Inc.",4,0.0
+"Andreu, Palma & Andreu, PL",4,0.0
+Auto Finance Center,4,0.0
+"Insta-Credit Auto Mart, Inc. dba InstaCredit Automart",4,0.0
+The B & F Corporation d/b/a OK Loan Service,4,0.0
+"Great Marten Holdings, Inc.",4,0.0
+"Mineola Texas Star, LLC.",4,0.0
+"Pennsylvania Auto Credit, Inc.",4,0.0
+Goshen Mortgage LLC,4,0.0
+Penn Credit Corporation,4,0.0
+"HMSV Financial Services, Inc.",4,0.0
+"Manhattan Beach Venture, LLC",4,0.0
+Stream Innovations Inc.,4,0.0
+Quick Debt Services LLC,4,0.0
+Nation One Mortgage Corporation,4,0.0
+"Asset Management Holdings, LLC",4,0.0
+Highline Automotive Inc.,3,0.0
+"3D Financial, LP",3,0.0
+Daramad LLC,3,0.0
+Residential Title & Escrow Co,3,0.0
+Catalyst Mortgage Inc.,3,0.0
+DIXIE FINANCE COMPANY,3,0.0
+"Rozlin Financial Group, Inc.",3,0.0
+"ClarityPay, Inc.",3,0.0
+"Apple Law Group, Inc.",3,0.0
+Mezcal Corporation,3,0.0
+"Frank Innovations, Inc",3,0.0
+"Fenix Holdings, LLC",3,0.0
+"MORTGAGE AMERICA, INC",3,0.0
+"American Elite Recovery, LLC",3,0.0
+"RAM America, Inc",3,0.0
+EVERCOMMERCE SOLUTIONS INC.,3,0.0
+TENET HEALTHCARE CORPORATION,3,0.0
+YES AUTO CREDIT,3,0.0
+CIBC BANK USA,3,0.0
+"CENDERA FUNDING, INC.",3,0.0
+Capital Home Advocacy Center,3,0.0
+"TOWNE MORTGAGE, LLC",3,0.0
+"SpeedyCash, Inc.",3,0.0
+"Red White and Blue Autos, Inc.",3,0.0
+"RN Financial, LLC",3,0.0
+AML Funding LLC,3,0.0
+"Pivot Financial Partners, Inc.",3,0.0
+"SMARTPAY, LLC",3,0.0
+Capstone Private Mortgage Holdings Limited,3,0.0
+Clearview Resolution Services,3,0.0
+"Approved Mortgage Source, LLC",3,0.0
+Future Judgement Solutions,3,0.0
+Ahn Management LLC,3,0.0
+Whitestone Financial Holdings LLC,3,0.0
+"MSW Capital, LLC",3,0.0
+"Fresh Start Funding, LLC",3,0.0
+Hans Capital Group dba H&L Automotive Financial Services,3,0.0
+SIMPLE CAR TITLE LOANS INC,3,0.0
+"EQUITY HOME LENDERS, INC",3,0.0
+Mills Escrow Company,3,0.0
+"All State Credit Bureau, Inc.",3,0.0
+Arcon Credit Solutions LLC,3,0.0
+Law Offices of Alan J. Waintraub PLLC,3,0.0
+Farm Bureau Finance Company,3,0.0
+Sterling Infosystems Inc.,3,0.0
+Commercial Credit Counseling Services Inc.,3,0.0
+"Klima, Peters & Daly, P.A.",3,0.0
+"Residential Mortgage Solutions, Inc.",3,0.0
+Pacific Residential Mortgage,3,0.0
+"SML Capital, Inc.",3,0.0
+"Green Mountain Capital, LLC",3,0.0
+East Coast Funding Group,3,0.0
+TFC Credit Corporation of California,3,0.0
+"Partnerships & Investments, LLC",3,0.0
+"AKT AMERICAN CAPITAL, INC. DBA AMERICAN CAPITAL CORP.",3,0.0
+First Loan Choice,3,0.0
+"CREDIT BUREAU OF NAPA COUNTY, INC.",3,0.0
+COAST 2 COAST FUNDING GROUP,3,0.0
+"Plutos Sama, LLC",3,0.0
+"University Lending Group, LLC",3,0.0
+"Search ROI, LLC",3,0.0
+Jet Lending Inc.,3,0.0
+"i3 Lending, Inc",3,0.0
+Stratus Financial LLC,3,0.0
+TIDEWATER MORTGAGE SERVICES,3,0.0
+"BCION, A DIVISION OF ION BANK",3,0.0
+"Cash Security, Inc.",3,0.0
+REDEMPTION FINANCIAL SERVICES LLC dba NATIONAL AUTO ACCEPTANCE,3,0.0
+"Lend You Cash, Inc",3,0.0
+One Way Loans LLC dba PowerLend,3,0.0
+"ECMC GROUP, INC.",3,0.0
+"Coastal Finance Company, Inc.",3,0.0
+"Checkr, Inc",3,0.0
+"Glick Management, LLC",3,0.0
+"The Outsource Group, Inc",3,0.0
+Secure One Financial Inc.,3,0.0
+"Sum Investments, Inc.",3,0.0
+"Williams & Fudge, Inc",3,0.0
+Blackhawk Finance,3,0.0
+"Tier Capital, LLC",3,0.0
+"AutoCred, Inc.",3,0.0
+A-1 Payday Loans and Title Loan Referral Inc.,3,0.0
+Credit Glory LLC,3,0.0
+No Limits Access,3,0.0
+"G&P Enterprises, LLC",3,0.0
+Koster's Cash Loans,3,0.0
+"LUCKY MONEY, INC.",3,0.0
+William Lyon Mortgage LLC,3,0.0
+"Moore Legal Group, LLC",3,0.0
+Performant Financial Corporation,3,0.0
+"Premier Consumer Credit Counseling, Inc.",3,0.0
+Nationwide Servicing Center Inc,3,0.0
+Woodward Capital LLC,3,0.0
+"Ambassador Mortgage, LLC",3,0.0
+"Eastern Account Systems of Connecticut, Inc.",3,0.0
+VIP Mortgage Inc.,3,0.0
+"Homeward, Inc.",3,0.0
+Ray Skillman Northeast Buick GMC Truck Inc,3,0.0
+ATM OPS INC,3,0.0
+"Dorough & Dorough, LLC",3,0.0
+T.S. Holdings,3,0.0
+Stone Higgs & Drexler,3,0.0
+RedBrick Financial Group Inc.,3,0.0
+"All Reverse Mortgage, Inc.",3,0.0
+"Westview Financial Services VA, LLC",3,0.0
+"AMERICA'S LOAN COMPANY, LLC",3,0.0
+APLUS INSTACASH LLC dba A+ FINANCE,3,0.0
+Entrata Inc.,3,0.0
+Reese Law Group,3,0.0
+"Giact Systems, LLC",3,0.0
+"United First, LLC",3,0.0
+Bell Financial Services,3,0.0
+"Thunderbird Finance Management, LC",3,0.0
+TITLE FINANCIAL CORPORATION,3,0.0
+"AlpacaDB, Inc.",3,0.0
+"Harris & Harris, Ltd.",3,0.0
+Hamiltonian Inc.,3,0.0
+"Chattanooga Neighborhood Enterprise, Inc.",3,0.0
+"Kimball, Tirey & St. John LLP",3,0.0
+First Atlantic Auto Credit LLC,3,0.0
+"Modern Asset Management, Inc.",3,0.0
+"Pluese, Becker & Saltzman, LLC",3,0.0
+"Ignite Revenue, Inc.",3,0.0
+"Great Lakes Home Mortgage, Inc.",3,0.0
+"Mid-Atlantic Solutions Holdings, LLC",3,0.0
+Central Research Inc,3,0.0
+"SOFTGATE SYSTEMS, INC.",3,0.0
+Ray Skillman Chevrolet Inc,3,0.0
+"Rainier Financial Group, LLC",3,0.0
+"Vendor Resource Management, Inc.",3,0.0
+Customer Service Mortgage Corporation,3,0.0
+"The CMI Group, Inc.",3,0.0
+JFK FINANCIAL INC.,3,0.0
+"Herbert P. Sears Co., Inc.",3,0.0
+Discovery Auto Sales LLC,3,0.0
+"Financial Rescue, LLC",3,0.0
+"Sign on the Line, Inc.",3,0.0
+Allied Union Group Inc,3,0.0
+"Waypoint Resource Group, LLC",3,0.0
+"BDF Partners, PC",3,0.0
+Terrill Outsourcing Group,3,0.0
+Texan Financial Services Inc,3,0.0
+"Circleback Lending, Inc.(Closed)",3,0.0
+"Patch Homes, Inc. dba Noah",3,0.0
+"TreeMac Funding Group, LLC",3,0.0
+Electric Solidus LLC,3,0.0
+Developers Mortgage Co.,3,0.0
+USA Service Finance LLC,3,0.0
+Columbus Finance Inc.,3,0.0
+"Recovery Solutions Group, LLC",3,0.0
+Bank of Baroda - New York Branch,3,0.0
+Chaparral Inc,3,0.0
+"Oliphant United, Inc.",3,0.0
+"Accelerate Mortgage, LLC",3,0.0
+Ascend One Corporation,3,0.0
+Republic State Mortgage Co.,3,0.0
+"WAMM Sales, LLC d/b/a Auto Simple",3,0.0
+"TriVerity, Inc.",3,0.0
+"ATLANTIC COAST MORTGAGE, LLC",3,0.0
+LCI Acquisition Inc.,3,0.0
+"Praxell, Inc.",3,0.0
+Infinity Holding Corporation,3,0.0
+"Spero Solutions, Inc.",3,0.0
+Rapid Mortgage Company,3,0.0
+Jupiter PreOwned Sales LLC,3,0.0
+"MacDowell & Associates, Ltd.",3,0.0
+Knight Adjustment Bureau,3,0.0
+"Cawley & Bergmann, LLP",3,0.0
+Retention Consulting Services Inc.,3,0.0
+"Square One Financial, LLC",3,0.0
+Performance SLC,3,0.0
+Credit Wise Recovery Solution LLC,3,0.0
+"Total Loan Company, LLC",3,0.0
+"Elite Financial Services, Inc.",3,0.0
+Barton Creek Auto Credit  LLC,3,0.0
+"Auto Pro Title Pawn, Inc.",3,0.0
+United Student Loan Assistance Center,3,0.0
+GMH Associates Inc.,3,0.0
+"Option Funding, Inc.",3,0.0
+"Transfermate, Inc.",3,0.0
+Financial Credit Network Inc,3,0.0
+Cheadle Law Firm,3,0.0
+AE Tradings Inc,3,0.0
+"PRO MORTGAGE ASSOCIATES, INC",3,0.0
+Arative Technologies LLC  (Bancoli),3,0.0
+Opensky Legal Services,3,0.0
+Extreme Loans LLC,3,0.0
+Asset Recovery Bureau LLC,3,0.0
+Zingo Cash Illinois LLC,3,0.0
+"Oak Harbor Capital, LLC",3,0.0
+National Check Resolution Inc.,3,0.0
+Credit Card Acquisitions Group,3,0.0
+"GMS Holdings, Inc.",3,0.0
+"ClosingMark Financial Services, LLC",3,0.0
+Unified Global Group,3,0.0
+"Deal Depot, Inc.",3,0.0
+"Frontline Asset Strategies, LLC",3,0.0
+"CBM Mortgage, Inc.",3,0.0
+Meridian Financial Solutions Inc,3,0.0
+"ProCollect, Inc.",3,0.0
+National Management Recovery Corp. (NMRC),3,0.0
+TOPA EQUITIES,3,0.0
+TheTenn Inc.,3,0.0
+SOUTHERN CASCADES FINANCE CORPORATION,3,0.0
+"EZ Loans, Inc.",3,0.0
+Consumer Counseling Centers LLC,3,0.0
+US Mortgage Resolution LLC,3,0.0
+Sammamish Mortgage Company,3,0.0
+"Durrett Motor Company, Inc.",3,0.0
+AMERICAN EAGLE MORTGAGE COMPANY,3,0.0
+Kiva Microfunds,3,0.0
+"SF-ALP, LLC",3,0.0
+"Admin Recovery, LLC",3,0.0
+Mortgage Origination Holdings LLC,3,0.0
+"Blake Enterprises, LLC",3,0.0
+"First Title & Escrow, Inc",3,0.0
+"Blue Front Financial, LLC d/b/a Ladder Loans",3,0.0
+Quality Lenders Inc,3,0.0
+"Commercial Credit, Inc.",3,0.0
+Red Tree Mortgage LLC,3,0.0
+"Sterling & Associates, LLC",3,0.0
+"Curfin Holding Company, Inc",3,0.0
+"SameDay Auto Finance, LLC",3,0.0
+Kora Financial,3,0.0
+AMERICAN FINANCIAL MORTGAGE COMPANY,3,0.0
+TOC Financial DBA Mi Gente,3,0.0
+"Doxo, Inc.",3,0.0
+CARDPLATFORMS LLC,3,0.0
+"Evesham Mortgage, LLC",3,0.0
+"Anchor Financial, Inc.",3,0.0
+"AGORA NOTUS, LLC",3,0.0
+"Money Services, Inc., d/b/a Texoma Finance",3,0.0
+"Poser Investments, Inc.",3,0.0
+"DISCOUNT BANCORP, INC.",3,0.0
+"The Lemoine Group, Inc",3,0.0
+The Home Loan Expert LLC,3,0.0
+Chaplain Financial Services LLC,3,0.0
+"Bayside Capital Services, LLC",3,0.0
+"Professional Debt Mediation, Inc.",3,0.0
+CITY CREEK MORTGAGE CORP.,3,0.0
+ENRAMEX INC,3,0.0
+"Statewide Mortgage, LLC",3,0.0
+PLACID NK CORPORATION,3,0.0
+"Capital Eleven Auto, LLC dba Capital Auto Loan",3,0.0
+"PRIORITY HOME MORTGAGE, L.P.",3,0.0
+Money Tree Lending,3,0.0
+"The Sayer Law Group, P.C.",3,0.0
+Duane Morris LLP,3,0.0
+M Squared Financial LLC,3,0.0
+Integra Auto Capital,3,0.0
+Southeast Investment Corp,3,0.0
+First Advantage LNS Inc.,3,0.0
+"Instant Cash Flow, Inc.",3,0.0
+Law Offices of Goldsmith & Hull A.P.C.,3,0.0
+"America Transfers, Inc.",3,0.0
+Personal Loan Service,3,0.0
+The Star Financial,3,0.0
+"Andrews & Cox, P.C.",3,0.0
+Ascent Holding Co,3,0.0
+"60 Month Loans, Inc.",3,0.0
+Lexington Mortgage Corporation,3,0.0
+"Nelson and Kennard, LLP",3,0.0
+Credit One LLC,3,0.0
+"Resurgence Legal Group, PC",3,0.0
+"CORNERSTONE MORTGAGE, INC.",3,0.0
+DallasAutos4Less,3,0.0
+ReliaMax Holding Company,3,0.0
+"Reverse Mortgages.com, Inc.",3,0.0
+"VICTORY MORTGAGE, LLC",3,0.0
+Brother Loan & Finance Co.,3,0.0
+Kirschenbaum & Phillips P.C,3,0.0
+"Automotive Services Finance, Inc.",3,0.0
+UNIVERSAL LENDING CORP.,3,0.0
+Budget Mortgage Corp.,3,0.0
+"Finular Group, Inc.",3,0.0
+Banc One Mortgage Corporation,3,0.0
+"Miller Investment Group, Inc DBA AutoNow",3,0.0
+Next Level Finance Partners  LLC,3,0.0
+"Financial Solutions Group, LLC",3,0.0
+"Burke Moore Law Group, LLP",3,0.0
+Credit Sage LLC,3,0.0
+Residential Home Mortgage Corporation,3,0.0
+Southeast Finance Inc.,3,0.0
+Hatfield Portfolio Group LLC.,3,0.0
+Automotive Partners Funding,3,0.0
+"Aubrey Thrasher, LLC",3,0.0
+Michael J Adams PC,3,0.0
+First Credit Services Inc.,3,0.0
+Pacific Lending LLC,3,0.0
+"River City Finance Co., Inc.",3,0.0
+Portage Financial Services Company Inc.,3,0.0
+A1 Holding Group LLC,3,0.0
+"POWERPAY, LLC",3,0.0
+"Crystal Motorsports, LLC",3,0.0
+Double D Finance dba Idaho Finance,3,0.0
+Consolidation Capital,3,0.0
+"Premia Mortgage, LLC",3,0.0
+"Tenaglia & Hunt, PA",3,0.0
+Infinity Capital Group,3,0.0
+Market Place Mortgage Corp.,3,0.0
+"Southern Loans, Inc.",3,0.0
+"PLM Lender Services, Inc.",3,0.0
+AMERICAN ARMED FORCES MUTUAL AID ASSOCIATION,3,0.0
+GUARANTY HOME MORTGAGE CORPORATION,3,0.0
+"FlexPath Capital, Inc",3,0.0
+"Steel River Systems, LLC",3,0.0
+Peoples Credit Inc.,3,0.0
+ZOOM HOME LENDING LLC,3,0.0
+Orion Capital Solutions LLC,3,0.0
+TRG Auto Finance LLC,3,0.0
+Forster & Garbus LLP,3,0.0
+Auto One Acceptance LLC,3,0.0
+"American Mortgage Services,  Inc",3,0.0
+"Direct, Inc",3,0.0
+CITYWIDE HOME LOANS,3,0.0
+"New Southern Loans, Inc",3,0.0
+"D&A Services, LLC",3,0.0
+Veterans Relief Services LLC,3,0.0
+Tri-Cities Finance Company,3,0.0
+Recreational Holdings Corp.,3,0.0
+INSPERITY INC,3,0.0
+"Patriot Finance, LLC",3,0.0
+ASTA FUNDING INC.,3,0.0
+Cooling & Winter LLC,3,0.0
+Breit Investment,3,0.0
+"Equity Wave Lending, Inc.",3,0.0
+"TriStar Finance, Inc.",3,0.0
+"J J Marshall & Associates, Inc",3,0.0
+FundLoans Capital,3,0.0
+S.B.S. Trust Deed Network,3,0.0
+"Eagle Accounts Group, Inc.",3,0.0
+"Vellum Mortgage, Inc.",3,0.0
+SG and Associates,3,0.0
+"USA Cash Services Management, Inc.",3,0.0
+GUARANTEED HOME MORTGAGE COMPANY,3,0.0
+"LAKELAND BANCORP, INC.",3,0.0
+Riverwalk Financial CORPORATION,3,0.0
+"Leachman Law, P.C.",3,0.0
+"CONSUMER PROTECTION ASSISTANCE COALITION, INC",3,0.0
+MCI Mortgage Inc,3,0.0
+"Credit Shop, Incorporated",3,0.0
+Diamond Advances LLC,3,0.0
+Madison Atrina LLC,3,0.0
+"America’s Financial Choice, Inc.",3,0.0
+Hunt & Henriques,3,0.0
+Reel Time Capital LLC,3,0.0
+"JMC Leasing Specialties, LLC",3,0.0
+"AA Recovery Solutions, Inc.",3,0.0
+"LTD Financial Services, L.P.",3,0.0
+"J & B Endeavors, LLC",3,0.0
+"Law Offices of Robert S. Gitmeid & Associates, PLLC",3,0.0
+Credit Solutions,3,0.0
+"Atlas Capital, Inc.",3,0.0
+"Empire Financial Services, Inc.",3,0.0
+"Graystone Funding Company, LLC",3,0.0
+SQUARETWO FINANCIAL CORPORATION,3,0.0
+"CENTENNIAL LENDING, LLC",3,0.0
+Premier Capital Investment Group,3,0.0
+State Finance Company,3,0.0
+"LendKey Technologies, Inc.",3,0.0
+"Old Dominion Mortgage Co., Inc",3,0.0
+FORTIFI FUNDING III LLC,3,0.0
+Law Offices of Jeffrey Nadel,3,0.0
+AmeriCollect,3,0.0
+Student Loan Direct,3,0.0
+Novation Inheritance LLC,3,0.0
+CONTINENTAL MORTGAGE BANKERS,2,0.0
+PINGPONG GLOBAL SOLUTIONS INC,2,0.0
+Mid Atlantic Auto Finance,2,0.0
+"Galt Financial Solutions, LLC",2,0.0
+Barker Financial LLC,2,0.0
+FINEX Group LLC,2,0.0
+"MovoCash, Inc.",2,0.0
+"Parkstone Mortgage, LLC",2,0.0
+Unlock Wealth $,2,0.0
+Express Paycheck LLC,2,0.0
+"Valor Intelligent Processing, LLC",2,0.0
+"MM RV JV 1, LLC",2,0.0
+Zachter PLLC,2,0.0
+"Munar Mortgage, LLC DBA Co/LAB Lending",2,0.0
+"Metrolina Credit Co. of Burlington, INC.",2,0.0
+Lynx Whole Loan Acquisition LLC,2,0.0
+"Atlantica, LLC",2,0.0
+Johnson Mark LLC,2,0.0
+BFS Capital Inc.,2,0.0
+Southern Credit LLC,2,0.0
+"Van Horn Automotive Group, Inc.",2,0.0
+"Aldridge PIte Haan, LLP",2,0.0
+SmartCredit LLC,2,0.0
+Woodlands Financial Services Inc,2,0.0
+COMMUNITY REINVESTMENT FUND,2,0.0
+"Charlottesville Bureau of Credits, Inc",2,0.0
+"Progrexion Holdings, Inc.",2,0.0
+Retail Merchants Associates,2,0.0
+"AMCOL Systems, Inc.",2,0.0
+"Stream Platforms, Inc.",2,0.0
+Sonali Exchange Co. Inc,2,0.0
+"Credit Technology, Inc.",2,0.0
+SI Mortgage Comapny Co.,2,0.0
+SL Finance LLC,2,0.0
+"Solutions To Portfolios, LLC",2,0.0
+City Select Auto Sales,2,0.0
+"Waddell Serafino Geary Rechner Jenevein, PC",2,0.0
+CAC Financial Corp,2,0.0
+Advance Loan Service,2,0.0
+INDIANAPOLIS NEIGHBORHOOD HOUSING PARTNERSHIP,2,0.0
+INTEGRITY CREDIT CORPORATION,2,0.0
+DMI America Inc,2,0.0
+Southwest Acceptance Finance Co,2,0.0
+"LL Capital Partners II, L.P.",2,0.0
+"American Profit Recovery, Inc., Marlborough, MA Branch",2,0.0
+"Foundation Title & Settlement Services, LLC",2,0.0
+"Insight One Solutions, LLC",2,0.0
+"First Commerce, LLC",2,0.0
+"Harbour Portfolio Advisors, LLC",2,0.0
+ALMA Financial Assistance Corp.,2,0.0
+1st Nationwide Mortgage of Texas Corp.,2,0.0
+Red Target LLC,2,0.0
+"RGS Financial, Inc.",2,0.0
+Instant Cash Advance Corp.,2,0.0
+Neat Capital Inc.,2,0.0
+Florida Pro Mortgage LLC,2,0.0
+"Flyhomes, Inc.",2,0.0
+"Mesa Auto Finance, LLC",2,0.0
+Open Road Finance Corporation,2,0.0
+WESTERN EXPRESS LENDING,2,0.0
+ACS Education Services,2,0.0
+"Ascend Consumer Finance, Inc.",2,0.0
+Summit Horizon Financial Services,2,0.0
+Open Assets LLC,2,0.0
+"Superior Home Loans, Inc.",2,0.0
+Alamo Premier Mortgage Group Inc,2,0.0
+SIGNATURE MORTGAGE CORPORATION,2,0.0
+Granite Edvance Corporation,2,0.0
+Gotham Collection Services Corp.,2,0.0
+"snapfi, inc.",2,0.0
+MS SERVICES LLC,2,0.0
+SUNSTREET MORTGAGE LLC,2,0.0
+"Porania, LLC",2,0.0
+"SIMM Associates, Inc.",2,0.0
+Abbott Osborn Jacobs PLC,2,0.0
+FundFlare LLC,2,0.0
+"Devon Clark Currency Exchange, Inc",2,0.0
+"Cash Advance Centers of KY, Inc.",2,0.0
+"Wedgewood, LLC",2,0.0
+"Rate Plus, Inc.",2,0.0
+Madison McDuffie Mortgage Corporation,2,0.0
+The Moore Law Group,2,0.0
+Quik Fund Inc.,2,0.0
+"LLOYD'S PLAN, INC.",2,0.0
+Southern Fidelity Mortgage Group of Huntsville,2,0.0
+Mortgage Choice LLC dba: Motto Mortgage Choice,2,0.0
+Rivertown Credit LLC,2,0.0
+"Slovin & Council Co., L.P.A.",2,0.0
+SUN AMERICAN MORTGAGE,2,0.0
+Empire Mortgage (NV),2,0.0
+"Equinox Home Financing, Inc.",2,0.0
+GREATAMERICA FINANCIAL SERVICES CORP.,2,0.0
+"United Mortgage Services, LLC",2,0.0
+RGV Loans LLC,2,0.0
+KWIK MORTGAGE CORPORATION,2,0.0
+"Consolidated Information Services Solutions, LLC",2,0.0
+"AMERICAN HOME MORTGAGE, INC.",2,0.0
+Capital Mortgage,2,0.0
+"391 Financial, Inc.",2,0.0
+West One Capital Group Inc.,2,0.0
+CW Financial,2,0.0
+"Professional Datasolutions, Inc.",2,0.0
+Shield Home Loans Inc.,2,0.0
+"AAS Debt Recovery, Inc.",2,0.0
+Posh RE Mortgage corporation,2,0.0
+"First Financial Credit, Inc",2,0.0
+"Market Mortgage Company, LTD",2,0.0
+"TriPoint Lending, LLC",2,0.0
+"Blakely-Witt and Associates, Inc.",2,0.0
+Integra Holdings Inc.,2,0.0
+EXECUTIVE FINANCIAL GROUP,2,0.0
+"First Federal Credit Control, Inc.",2,0.0
+Elite Mortgage Funding inc,2,0.0
+Greystone Alliance LLC,2,0.0
+"JAMS-01, Inc",2,0.0
+Roycroft Management,2,0.0
+Allied Consulting Services LLC,2,0.0
+"LPI, INC.",2,0.0
+Zeidman’s Jewelry & Loan of Michigan,2,0.0
+"Horizon West Financial, Inc",2,0.0
+"Apothaker & Associates, PC",2,0.0
+Lon Inc.,2,0.0
+Clear Start Today,2,0.0
+Stewart Title of Sacramento\Placer,2,0.0
+F&B Acquisition Group LLC,2,0.0
+"Berman & Rabin, P.A.",2,0.0
+MORTGAGE FINANCIAL SERVICES,2,0.0
+Phoenix Financial Services LLC,2,0.0
+Dealer Finance of Western Kentucky,2,0.0
+Hirshberg Acceptance Corporation,2,0.0
+Lending Tower LLC,2,0.0
+"Standard Financial of Louisiana, LLC",2,0.0
+"United Lending Team, INC",2,0.0
+Saint Services LLC,2,0.0
+CarPutty Inc.,2,0.0
+Federated Student Loan Services,2,0.0
+Wisconsin Housing and Economic Development Authority,2,0.0
+Makower Abbate Guerra Wegner Vollmer PLLC,2,0.0
+"Abrahamsen Ratchford, P.C",2,0.0
+"Healthcare Financial Services, LLC",2,0.0
+"Rausch, Sturm, Israel, Enerson & Hornik, LLP",2,0.0
+"One Technologies, LP",2,0.0
+Oklahoma Student Loan Authority,2,0.0
+NewFed Mortgage Corp,2,0.0
+"A+ Financial Services, Inc.",2,0.0
+"Touchstone Partners, Inc.",2,0.0
+"Advanced Call Center Technologies, LLC",2,0.0
+"General Recovery Services of WV, Inc.",2,0.0
+Normandy Corporation,2,0.0
+Fairfax Lending Inc.,2,0.0
+"American Collection Systems, Inc. (OH)",2,0.0
+"Zarzaur and Schwartz, PC",2,0.0
+"Liberty Holdings, LLC",2,0.0
+"RentDebt Automated Collections, LLC",2,0.0
+"The Law Firm of Derek Williams, LLC d/b/a Infinite Law Group",2,0.0
+"College Foundation, Inc.",2,0.0
+Exchange Finance Company,2,0.0
+"Global Asset Management Group, Inc.",2,0.0
+Drexel Mortgage Corporation,2,0.0
+"K STREET FINANCE, INC.",2,0.0
+Belem Servicing LLC,2,0.0
+"Credit Bureau Financial Services, Inc.",2,0.0
+Texas Guaranteed,2,0.0
+"Halliday, Watkins & Mann, P.C.",2,0.0
+Win-Win LLC,2,0.0
+The Phoenix Recovery Group,2,0.0
+"The Zellman Group, LLC",2,0.0
+"Dirick, Inc.",2,0.0
+"Capital Credit and Collection Service, Inc.",2,0.0
+"Cornerstone Residential Lending Solutions, Inc",2,0.0
+Suffolk Consulting Group Inc,2,0.0
+MEMBER MORTGAGE SERVICES,2,0.0
+ALASKA HOUSING FINANCE CORPORATION,2,0.0
+ADA Brown LLC dba Star of Texas Financial Solutions,2,0.0
+APO LLC,2,0.0
+"MotoRefi, Inc.",2,0.0
+Keystone Credit Collections Inc.,2,0.0
+Turning Point Solutions LLC,2,0.0
+"PrimeLine Capital, Inc.",2,0.0
+Improved Data Services LLC,2,0.0
+"Meridian Financial Services, Inc.",2,0.0
+"Franklin Collection Service, Inc.",2,0.0
+Auto Buyers Credit LLC,2,0.0
+Consumer Shield,2,0.0
+Hanson Capital LLC,2,0.0
+Immediate Credit Recovery,2,0.0
+"Right Key Mortgage, LLC",2,0.0
+Legal Alliance Network,2,0.0
+TOWER MORTGAGE CORPORATION,2,0.0
+ClearLine Loans LLC,2,0.0
+"The Law Offices of Kenosian & Miele, LLP",2,0.0
+Mortgage Vintage Inc.,2,0.0
+"Reliant Home Funding, Inc",2,0.0
+TDN Acquisition Corporation,2,0.0
+GET A RATE LLC,2,0.0
+"Boomerang Capital Partners, LLC",2,0.0
+"Great Lakes Capital Management, LLC",2,0.0
+"First American Solutions, LLC",2,0.0
+"Liberty Finance Co., Inc.",2,0.0
+"South Fork Funding, inc.",2,0.0
+Clay Chapman Iwamura Pulice & Nervell,2,0.0
+"AR Resources, Inc.",2,0.0
+"Sunset Solutions Group, LLC",2,0.0
+Eaton Group Attorneys LLC,2,0.0
+"Tpls, Inc dba Auto Master",2,0.0
+"Unbank Company, LLC",2,0.0
+DIRECT LENDERS LLC,2,0.0
+"Regional Acquisition Group, Inc.",2,0.0
+"ML Credit Holdings, LLC",2,0.0
+"Alliance Credit Services, Inc.",2,0.0
+"CoreTitle, LLC",2,0.0
+"Cypress Creek Financial, LLC",2,0.0
+Law Offices of Timothy M. Sullivan,2,0.0
+COMMUNITY MORTGAGE CORPORATION,2,0.0
+"Lost Lake Finance, LLC",2,0.0
+"Quantum3 Group, LLC",2,0.0
+TriMark Financial Solutions DBA Distressed Mortgage Solutions,2,0.0
+"Endeavor Capital, LLC",2,0.0
+"Brightside Benefit, Inc.",2,0.0
+Prime Credit Corporation,2,0.0
+Intercounty Mortgage Network Corp.,2,0.0
+"Security Auto Loans, Inc.",2,0.0
+"Sprechman & Associates, P.A.",2,0.0
+"California Business Bureau, Inc.",2,0.0
+"CR-MPM, LLC dba Don Carro",2,0.0
+"ZOA, LLC",2,0.0
+"Carbucks of Delaware, Inc",2,0.0
+"Law Offices of Timothy E. Baxter & Associates, P.C.",2,0.0
+"Nationwide TFS, LLC",2,0.0
+"Credit Sesame, Inc.",2,0.0
+"Consuegra & Duffy, P.L.L.C.",2,0.0
+"Kolter Financial Services, LLC",2,0.0
+VISION ONE MORTGAGE,2,0.0
+"M & S FUNDING, INC.",2,0.0
+Shop Your Own Corp,2,0.0
+"Wyre, Inc.",2,0.0
+"HUNTER FINANCIAL GROUP, LLC",2,0.0
+"Salander Enterprises, LLC",2,0.0
+"Jacob Law Group, PLLC",2,0.0
+East Coast Capital Corp,2,0.0
+"Credit Service of Logan, Inc.",2,0.0
+Car Credit Inc,2,0.0
+Rocky Mountain Capital Management,2,0.0
+Weinman Acquisition Group,2,0.0
+GLOBAL SOLUTION BIZ LLC.,2,0.0
+Albuquerque Auto Outlet,2,0.0
+"Paradigm Assets, LLC",2,0.0
+"Zero Parallel, LLC",2,0.0
+"Town & Country Mortgage Services, INC.",2,0.0
+"APPLE RECOVERY, LLC",2,0.0
+Shea Mortgage Inc.,2,0.0
+snw investments,2,0.0
+"Silverman Theologou, LLP",2,0.0
+Eastside Funding LLC,2,0.0
+Investment Evolution Corporation,2,0.0
+Elite Student Solutions,2,0.0
+Campos Financial Corp.,2,0.0
+Bonneville Billing and Collections,2,0.0
+"Arbor Professional Solutions, Inc.",2,0.0
+Retl Mnanagement LLC,2,0.0
+"Gordon, Aylworth & Tami, P.C.",2,0.0
+"LD Settlement Services, LLC",2,0.0
+"Texas National Holding, LLC",2,0.0
+Allied Data Corporation,2,0.0
+"Accel Loans, LLC",2,0.0
+"BATON ROUGE FINANCIAL SERVICES, L.L.C.",2,0.0
+Foundation Realty Group,2,0.0
+"Diaz Anselmo Lindberg, P.A.",2,0.0
+"Law Offices of Robert J. Colclough, III",2,0.0
+"MILES FUNDING, L.L.C.",2,0.0
+"HomeKey Lending, LLC",2,0.0
+"Imagine Home Lending, LLC",2,0.0
+Home Headquarters Inc,2,0.0
+"Advantage Financial Services, LLC",2,0.0
+BANCO PICHINCHA MIAMI AGENCY,2,0.0
+ALPHA MORTGAGE CORPORATION,2,0.0
+Luna Financial LLC,2,0.0
+"F.H. Cann & Associates, Inc.",2,0.0
+Cycleone Financial Group,2,0.0
+Universal Payment Corporation,2,0.0
+"Greenlink Financial, LLC",2,0.0
+"Community Loan Fund of New Jersey, Inc",2,0.0
+"COMPASS MORTGAGE, INC.",2,0.0
+"Complete Care, Inc.",2,0.0
+GVC MORTGAGE,2,0.0
+Kirkland Asset Management LLC,2,0.0
+Seaside Trustee Inc.,2,0.0
+VanKeef Financial LLC,2,0.0
+"LENCO FINANCE OF CARENCRO, INC",2,0.0
+JPL Recovery Solutions,2,0.0
+"Multi-Financial Services, Inc.",2,0.0
+Docuservpro dba Simple Repayment,2,0.0
+Quantum Leap Mortgage Corporation,2,0.0
+"Law Offices of Hayt, Hayt & Landau, LLC",2,0.0
+United Credit and Collections Inc.,2,0.0
+"MMRR Finance, d/b/a Cash Loans Direct",2,0.0
+"Haws, Inc. d/b/a Loan House",2,0.0
+REGAL CREDIT CORPORATION,2,0.0
+RK Chevrolet Subaru,2,0.0
+"M. Richard Epps, P.C.",2,0.0
+Class AMC Intermediate,2,0.0
+Nationwide Credit Corporation,2,0.0
+North Dakota Housing Finance Agency,2,0.0
+"Payday Loan, LLC (CA)",2,0.0
+"North Georgia Loans, Inc.",2,0.0
+"SMI Lending, Inc.",2,0.0
+C&F MORTGAGE CORPORATION,2,0.0
+RESIDENTIAL MORTGAGE CORP,2,0.0
+B & B FINANCIAL SERVICES INC,2,0.0
+Fast Money Loan,2,0.0
+EZ Finance Company,2,0.0
+"F & S Financial Marketing, Inc.",2,0.0
+Pennie Mgmt LLC,2,0.0
+"Keystone Funding, Inc.",2,0.0
+"Good Funding, LLC",2,0.0
+Loan Garden LLC,2,0.0
+"Anchor Mortgage, LLC",2,0.0
+Landmark Mortgage LLC,2,0.0
+Montgomery County Credit Bureau,2,0.0
+CASTLE ROCK,2,0.0
+The Money Company,2,0.0
+International Financial Management,2,0.0
+"Ratchford Law Group, P.C.",2,0.0
+Homestead Designation Services,2,0.0
+SOFI LOCAL CORP,2,0.0
+"Pitbladdo Botteron and Jarvis, LLC",2,0.0
+CFS ACCEPTANCE,2,0.0
+United Home Loan Services Inc.,2,0.0
+"Capital Mitigation Services, LLC",2,0.0
+"CLuisMortgages, LLC",2,0.0
+"America's Moneyline, Inc.",2,0.0
+LAGO Funding Corp.,2,0.0
+"AMKO Lending, LLC",2,0.0
+Genessee Financial,2,0.0
+"REVERSE MORTGAGE USA, INC.",2,0.0
+Aries Loans Inc,2,0.0
+"Schiller & Knapp, LLP",2,0.0
+Swan Financial Corporation,2,0.0
+"Phelan Hallinan Diamond & Jones, LLP",2,0.0
+Check Fraud Services,2,0.0
+Bronstein & Weiss Arbitration,2,0.0
+Roquemore Holdings LLC,2,0.0
+Financial Warranty LLC,2,0.0
+"COAST PROFESSIONAL, INC.",2,0.0
+"Sungage Financial, LLC",2,0.0
+THE MORTGAGE EXPERTS LLC,2,0.0
+Obligo Inc.,2,0.0
+"Creditmax Collection Agency, Inc. d/b/a Creditmax, Inc.",2,0.0
+Headwaters Financial Corp.,2,0.0
+Lightning Fast Finance,2,0.0
+"4finance US Holding Company, Inc.",2,0.0
+"Rock Creek Capital, LLC",2,0.0
+"Real Title Agency, LLC",2,0.0
+Creditors Bureau Associates,2,0.0
+RenoFi Inc.,2,0.0
+RADIUS FINANCIAL GROUP INC.,2,0.0
+"Cars-N-Credit Finance, Inc.",2,0.0
+The Receivable Management Services LLC,2,0.0
+"Anchor Loans, Inc.",2,0.0
+"Xapo, Inc.",2,0.0
+"1st Capital Finance of South Carolina, Inc.",2,0.0
+BOVA Financial Group LLC,2,0.0
+Insta Financial,2,0.0
+"SRA Associates, Inc.",2,0.0
+"Critical Ideas, Inc.",2,0.0
+1ST 2ND MORTGAGE CO. OF NJ INC,2,0.0
+CUSO Home Lending,2,0.0
+"Integrity Home Lending, LLC",2,0.0
+"Blue Sky Capital Realty, Inc.",2,0.0
+"Malen & Associates, p.c.",2,0.0
+Metro Collection Service Inc.,2,0.0
+"GVG Financial Services, Inc",2,0.0
+Samsa Technologies Inc,2,0.0
+"Payday Motors, Inc.",2,0.0
+WESTERN OHIO MORTGAGE,2,0.0
+DK Auto LLC,2,0.0
+American Preferred Lending,2,0.0
+NORTHSTAR FUNDING INC,2,0.0
+"PIC Capital, Inc. dba Direct Home Lending",2,0.0
+"All Home Lending, Inc.",2,0.0
+Ripple Labs Inc.,2,0.0
+"AMERICONSULTANTS, LLC",2,0.0
+MBA Mortgage Services Inc.,2,0.0
+ACCEPTANCE CAPITAL MORTGAGE,2,0.0
+Express Cash Mart Management,2,0.0
+Oak Tree Financial Inc.,2,0.0
+Hughes Finance,2,0.0
+"G&L Wise Financial, Inc.",2,0.0
+"Snap Credit, Inc.",2,0.0
+Westley Auto Inc,2,0.0
+"AGS Financial, Inc",2,0.0
+"F&M Mortgage Group, LLC",2,0.0
+"1st Money Center, Inc., Hurst, TX Branch",2,0.0
+"North Arkansas Abstract & Title Co., Inc.",2,0.0
+"LICTY, INC.",2,0.0
+"Argolica, LLC",2,0.0
+Mullooly Jeffrey Rooney & Flynn,2,0.0
+Federated Law Group,2,0.0
+"PRIORITY FUNDING, LLC",2,0.0
+THIRD FINANCIAL SERVICES CORP,2,0.0
+Northland Group Inc,2,0.0
+DEVAL LLC,2,0.0
+"Aero Payments, Inc.",2,0.0
+MEPCO FINANCE CORPORATION,2,0.0
+Excella Recovery Group,2,0.0
+"FinanceCo of Kansas, Inc",2,0.0
+Markoff Law LLC,2,0.0
+ALLIED SECURITY LLC,2,0.0
+"Paris and Paris, LLP",2,0.0
+"LifeTree Lending, LLC.",2,0.0
+FS Card Inc.,2,0.0
+1st Florida Lending CORP,2,0.0
+"Castle Rock Mortgage, LLC",2,0.0
+"Emergent Business Group, Inc.",2,0.0
+"LYONS MORTGAGE SERVICES, INC.",2,0.0
+Advantage Finance LLC,2,0.0
+HKM and Associates,2,0.0
+"New Direction, Inc",2,0.0
+"McCullough Payne & Haan, LLC",2,0.0
+Evergreen Financial Services Inc.,2,0.0
+Allied Consumer Assistance,2,0.0
+"ALLSTATE LENDING GROUP, INC",2,0.0
+"Carter-Young, Inc.",2,0.0
+"A & O Recovery Solutions, LLC",2,0.0
+"Amerifinance, Inc.",2,0.0
+"MORTGAGE EXPRESS, LLC",2,0.0
+"Branson Quick Cash, Inc.",2,0.0
+"Expanse Financial Technologies, Inc. f/k/a Prepaid Ventures, LTD",2,0.0
+"Charter Financial Services, Inc.",2,0.0
+Integrity First Financial Group,2,0.0
+"Key Star Capital, LLC",2,0.0
+BRIDGELOCK CAPITAL,2,0.0
+Independent Finance Company LLC,2,0.0
+Layfayette Funding,2,0.0
+NOBLE HOME LOANS INC,2,0.0
+"Rock Solid Funding, LLC",2,0.0
+InvestMark Mortgage,2,0.0
+"Andover Auto Sales, Inc. D.B.A. Broadway Auto Mall",2,0.0
+Cash Max LLC,2,0.0
+Roseth Mortgage LLC,2,0.0
+CHN Housing Partners,2,0.0
+"Kelsting Group, Inc.",2,0.0
+American Credit Financial,2,0.0
+BANKERS MORTGAGE CORPORATION,2,0.0
+Integrity Group Inc,2,0.0
+RESOURCE PRO,2,0.0
+Securitas Financial Inc,2,0.0
+WCDA WYOMING COMMUNITY DEVELOPMENT AUTHORITY,2,0.0
+"Sapphire Marketing Group, Inc.",2,0.0
+AMERICAN SOUTHWEST MORTGAGE CORP.,2,0.0
+"Lexington Consumer Advocacy, LLC",2,0.0
+Premier Lending Corp,2,0.0
+"PINNACLE RECOVERY, INC.",2,0.0
+"Suncoast Financial Group, LLC",2,0.0
+"Rushmore Service Center, LLC",2,0.0
+CapitalHut Finance,2,0.0
+"HONOLULU HOMELOANS, INC.",2,0.0
+"Elite Financial Services, Inc (MA)",2,0.0
+"Rescue 1 Financial, LLC",2,0.0
+Affiliated Acceptance Corporation,2,0.0
+REARDEN S INCORPORATED,2,0.0
+"Sentry Credit, Inc.",2,0.0
+"Tromberg, Miller, Morris & Partners, PLLC",2,0.0
+River Heights Capital LLC,2,0.0
+"MPOWER Financing, Public Benefit Corporation",2,0.0
+"Cliff's Finance Co., Inc.",2,0.0
+"Reimer, Arnovitz, Chernek &Jeffrey Co., LPA",2,0.0
+CHOICE LENDING CORP,2,0.0
+"Richard B. Maner, P. C.",2,0.0
+"Advantage Financial Services of Covington, LLC",2,0.0
+MCT GROUP INC.,2,0.0
+New Start Financial,2,0.0
+"TESORO FINANCIAL, LLC",2,0.0
+"AZ LENDING EXPERTS, LLC",2,0.0
+"Galaxy Capital Acquisitions, LLC",2,0.0
+Xpert Home Lending Inc.,2,0.0
+Bella Sloan Enterprises,2,0.0
+"R.A.Rogers, Inc.",2,0.0
+Springboard CDFI,2,0.0
+"Lawyers Title of Cincinnati, Inc.",2,0.0
+"Coastal Custom Mortgage, Inc.",2,0.0
+Stonebridge Lending Inc.,2,0.0
+"The Finance Co, LLC",2,0.0
+BEXIL AMERICAN MORTGAGE INC.,2,0.0
+"SERVICE 1ST MORTGAGE, INC.",2,0.0
+Heights Finance LLC,2,0.0
+The Judgment Group,2,0.0
+"March Motors, Inc.",2,0.0
+"Shepherd Outsourcing, LLC",2,0.0
+"Hexagon Collection Services, LLC",2,0.0
+CONRAD CREDIT CORPORATION,2,0.0
+FNZ WMS HOLDCO LLC,2,0.0
+"LENDING COMPANY, INC., THE",2,0.0
+"Launch Financial Group, LLC",2,0.0
+Broadway Advance LLC,2,0.0
+"GEORGE MASON MORTGAGE, LLC",2,0.0
+"Priority 1 Lending, LLC",2,0.0
+STARBOARD FINANCIAL MANAGEMENT,2,0.0
+Purpose Funding Inc.,2,0.0
+Seben Hospitality Investments LLC,2,0.0
+TOWN & COUNTRY ACCEPTANCE CORPORATION,2,0.0
+"LUMINATE HOME LOANS, INC.",2,0.0
+Westwood Legal,2,0.0
+Divergent Consumer Services,2,0.0
+"Luno US, Inc.",2,0.0
+Sky Venture Holdings LLC,2,0.0
+Digital Currency Group Inc,2,0.0
+"Strive Lending, Inc.",2,0.0
+TMAGNUSONE Inc,2,0.0
+AURORA FINANCIAL GROUP INC,2,0.0
+Nelson Cruz & Associates LLC,2,0.0
+AGN Auto Gallery Inc,2,0.0
+"Mountain Run Solutions, LLC",2,0.0
+"HarrisLoftus, PLLC",2,0.0
+Range View Management LLC,2,0.0
+A & E Futures LLC,2,0.0
+Clayton Holdings LLC,2,0.0
+Superior Settlement Services LLC,2,0.0
+First Credit Corporation,2,0.0
+"EML Payments USA, LLC",2,0.0
+"Optimum First, Inc.",2,0.0
+"PACIFIC SOUTHWEST NOTE FUND, LLC",2,0.0
+"Automania, Inc",2,0.0
+"US Claims Litigation Funding, LLC",2,0.0
+"bitFlyer USA, Inc.",2,0.0
+"Cordoba Legal Group, PLLC.",2,0.0
+"Members Mortgage Services, L.L.C.",2,0.0
+Zenith Financial Network Inc,2,0.0
+"PREMIER HOME MORTGAGE, INC.",2,0.0
+"Keypoint Mortgage, LLC",2,0.0
+GETM INCORPORATED,2,0.0
+"Homeland Financial Network, Inc.",2,0.0
+"PacWest Credit, LTD",2,0.0
+Northern Lakes Mortgage LLC,2,0.0
+"Seattle Service Bureau, Inc",2,0.0
+"Account Discovery Systems, LLC",2,0.0
+"Frontline Financial, LLC",2,0.0
+"Digital Access, LLC",2,0.0
+"Oakdale Group of Companies, LLC",2,0.0
+"Hiday & Ricke, P.A.",2,0.0
+SECURITY HOME MORTGAGE,2,0.0
+LCS FINANCIAL SERVICES CORPORATION,2,0.0
+Schneiderman & Sherman P.C.,2,0.0
+Homelife International Mortgage Co. Inc.,2,0.0
+Julem Capital Corp,2,0.0
+Recovery Management Solutions LLC,2,0.0
+Loancutters Inc.,2,0.0
+Starmark Financial LLC,2,0.0
+Primary Financial Services L.L.C.,2,0.0
+"Gillman Interests, Inc.",2,0.0
+Emergi-Cash,2,0.0
+"Sindeo, Inc.",2,0.0
+ALLIANCE FINANCIAL RESOURCES,2,0.0
+"Vinson Mortgage Services, Inc.",2,0.0
+"Echelon Financial, Inc.",2,0.0
+"MMG Law Group, PLLC",2,0.0
+HUNT Real Estate Corporation,2,0.0
+"Coastal Capital Processing, LLC",2,0.0
+"NY Community Financial, LLC",2,0.0
+Critical Resolution Mediation LLC,2,0.0
+"American First Financial Services, Inc.",2,0.0
+Blue Bay Capital,2,0.0
+"Cronheim & Larsson, LLC",2,0.0
+First Choice MH LLC,2,0.0
+"Devon Financial Services, Inc.",2,0.0
+Professional Mortgage Associates,2,0.0
+Alliance Acceptance Corp.,2,0.0
+Ray Skillman Westside Imports Inc,2,0.0
+"Kinum, Inc., Indianapolis, IN Branch",2,0.0
+Assured Financial Partners,2,0.0
+"Advanced Loan Systems, LLC.",2,0.0
+"ZENCO COLLECTION, LLC",2,0.0
+Twin City Motors Inc,2,0.0
+"Stein, Wiener & Roth, LLP",2,0.0
+"ONLINE Information Services, Inc.",2,0.0
+Premium Credit Bureau,2,0.0
+FMS Inc.,2,0.0
+Townstone Financial Inc,2,0.0
+"Investment Retrievers, Inc.",2,0.0
+Go Rascal Inc.,2,0.0
+"FIRST NIAGARA FINANCIAL GROUP, INC.",2,0.0
+Universal Recovery Corporation,2,0.0
+Red Cedar Associates LLC,2,0.0
+"Machol & Johannes, LLC",2,0.0
+"StanleyAFE, LLC",2,0.0
+Taekus Inc,2,0.0
+"Selip & Stylianou, LLP",2,0.0
+"Specialized Collection Systems, Inc.",2,0.0
+"CommonBond, Inc.",2,0.0
+Integrity First Lending LLC,2,0.0
+"COMMONWEALTH MORTGAGE, LLC",2,0.0
+Legacy Funding Corporation,2,0.0
+"Compass Recovery Group, LLC",2,0.0
+Safe Harbor Funding LLC,2,0.0
+"Apelles, LLC",2,0.0
+"Array US, Inc",2,0.0
+"The Regional Adjustment Bureau, Incorporated",2,0.0
+"Miller, Stark, Klein and Associates",2,0.0
+"Magnus Title Agency, LLC",2,0.0
+Dario Auto Sales,2,0.0
+"Summit Mortgage Bankers, Inc",2,0.0
+"Financial Triangle, Inc.",2,0.0
+"Lipsky & Associates, Inc",2,0.0
+"Ekimoto & Morris, a Hawaii Limited Liability Law Company",2,0.0
+Blackrock Mitigation Group LLC,2,0.0
+"PMAB,LLC",2,0.0
+"Linear Title & Closing, Ltd",2,0.0
+SinglePoint GI,2,0.0
+"Strategic Funding, Inc.",2,0.0
+LoanStar Home Lending,2,0.0
+Kingston Data & Credit International Inc.,2,0.0
+USI Solutions Inc.,2,0.0
+"ALL FAMILY FINANCE, LLC",2,0.0
+"GEORGETOWN MORTGAGE, INC.",2,0.0
+Allen Tate Mortgage Services,2,0.0
+DM Motors,2,0.0
+EZ Financing Inc,2,0.0
+Accessity,2,0.0
+Rithm Capital Corp.,2,0.0
+Paradigm Capital Group,2,0.0
+Liberty Loan Co inc.,2,0.0
+Approved Mortgage Corporation,2,0.0
+"Platinum Holdings Group, LLC",2,0.0
+SCENIC OAKS FUNDING,2,0.0
+Assent Inc.,2,0.0
+ASSOCIATED MORTGAGE BANKERS IN,2,0.0
+Premier Lending and Real Estate,2,0.0
+"A.C.S. Companies, Inc. I",2,0.0
+"Professional Finance Company, Inc.",2,0.0
+"Debt Direct Portfolio Management, LLC",2,0.0
+Prisma Capital LLC,2,0.0
+Five Lakes Agency,2,0.0
+Berco Finance Corp,2,0.0
+Global Recovery Group,2,0.0
+"NCC Business Services, Inc.",2,0.0
+Amicus Lending,2,0.0
+Key Mortgage Services,2,0.0
+"Arundina, LLC",2,0.0
+"Healthcare Receivables Group, Inc.",2,0.0
+Lexicon Title Services LLC,1,0.0
+Premium Security Inc.,1,0.0
+"Your Favorite Lenders, Inc",1,0.0
+"RESCO, INC.",1,0.0
+"Mortgage Express, Inc.",1,0.0
+"Gemini Direct LLC, dba Credit Innovation Group",1,0.0
+Prime Recovery LLC,1,0.0
+"Douglas L. Brooks, PC",1,0.0
+"One on One Mortgage loans, inc",1,0.0
+"Vanguard Financial Services, Inc.",1,0.0
+"McNeil & Meyers Asset Management Group, LLC",1,0.0
+Carolina's Premier Mortgage Corporation,1,0.0
+"Lewis, McDonnell & Associates",1,0.0
+"First Service Residential, Nevada, LLC",1,0.0
+"Unique Management Services, Inc",1,0.0
+Money Tree Cash House llc,1,0.0
+"MAS Associates, LLC",1,0.0
+"Certified Credit Reporting, Inc.",1,0.0
+"Heritage Finance Company, Inc.",1,0.0
+UNITED ATLANTIC MORTGAGE CORP OF VIRGINIA,1,0.0
+ENSURE HOME LOANS LLC,1,0.0
+Bay Luxury Autos,1,0.0
+"CMRE Financial Services, Inc.",1,0.0
+OfferMarket,1,0.0
+"Elevate Recoveries, LLC",1,0.0
+"Affordable Auto Finance, Inc",1,0.0
+"Marlin Mortgage Holdings, LLC",1,0.0
+Loansteady LLC,1,0.0
+West Forest Capital II LLC,1,0.0
+"American Homestead Mortgage, LLC",1,0.0
+"ROWLETT MORTGAGE LENDING, LTD",1,0.0
+"Genuine Debt Solutions, LLC.",1,0.0
+Leverage Lending Group LLC,1,0.0
+PREMIER HOME MORTGAGE LOANS,1,0.0
+"Law Offices of Nathan Lollis, LLC",1,0.0
+"Law Offices of Matthew Baysinger, Inc.",1,0.0
+"Maxim Lending, Corp",1,0.0
+CONGRESS COLLECTION CORP,1,0.0
+FIRST RATE MORTGAGE CORP,1,0.0
+College Loan Corporation,1,0.0
+"Capstone Funding Group, Inc.",1,0.0
+Solidus Group LLC.,1,0.0
+SVI Group Inc.,1,0.0
+First Class Autos Inc,1,0.0
+Phoenix mortgage specialist inc.,1,0.0
+"Love, Beal & Nixon, P.C.",1,0.0
+CURevl LLC,1,0.0
+"American Collections Enterprise, Inc.",1,0.0
+"VNU Group, LLC",1,0.0
+"Cogent Road, Inc.",1,0.0
+"Garner & Conner, PLLC",1,0.0
+"Perry Law Office, P.C.",1,0.0
+"STATEWIDE HOME MORTGAGE, INC",1,0.0
+R&M Marketing Associates LLC,1,0.0
+ACG FUNDING INC,1,0.0
+"PlusFour, Inc",1,0.0
+Lela Mae Portfolio Management Group,1,0.0
+First Financial of Tennessee Home Loans LLC,1,0.0
+"Money Investigations, Inc.",1,0.0
+"Neighborhood Housing Services of Richmond, Inc",1,0.0
+AMRON PROFESSIONAL SERVICES,1,0.0
+Able Mortgage,1,0.0
+"MACOY CAPITAL PARTNERS, INC.",1,0.0
+Origen Financial Services LLC,1,0.0
+KBR INC DBA RASH CURTIS & ASSOCIATES,1,0.0
+"Compass Property Group, LLC",1,0.0
+Home Mortgage Finance Corp,1,0.0
+"Reset Financial Technologies, Inc.",1,0.0
+Revela Inc,1,0.0
+MILLS LTD. dba Credit Bureau of Klamath County,1,0.0
+"Castle Restorations, Inc.",1,0.0
+"Empire Acceptance Company, Inc.",1,0.0
+Express Aviation,1,0.0
+Atlas Finance LLC,1,0.0
+Local Finance LLC,1,0.0
+InstaLend,1,0.0
+MORTGAGE EQUITY PARTNERS LLC,1,0.0
+"Efinity Financial, LLC",1,0.0
+"Commercial Mortgage Consultants, Inc.",1,0.0
+"Klutch Technologies, Inc.",1,0.0
+"Futura TItle & Escrow, LLC",1,0.0
+"Rhojo Enterprises, LLC",1,0.0
+"ABSOLUTE FINANCIAL SERVICES, INC",1,0.0
+"National Recoveries, Inc.",1,0.0
+Oplis Financial LLC,1,0.0
+Changed Inc.,1,0.0
+Golden State Home Loans Inc.,1,0.0
+Eagle Phillips LLC,1,0.0
+Centralized Business Solutions Company,1,0.0
+WFI Funding Inc,1,0.0
+Penrith Home Loans LLC,1,0.0
+Universal Fidelity LP,1,0.0
+"Advantage Plus Credit Reporting, Inc.",1,0.0
+Appalachian Lending Corporation,1,0.0
+"SOUTH COUNTRY CAPITAL MANAGEMENT, LLC",1,0.0
+"Island Title Services, Inc.",1,0.0
+Ward Kilduff Mortgage,1,0.0
+"Penncro Associates, Inc.",1,0.0
+"Hillcrest Capital, LLC",1,0.0
+"Trident Home Loans, LLC",1,0.0
+Atlantic Mortgage Direct LLC,1,0.0
+READY MORTGAGE LENDERS LLC,1,0.0
+Watercress Financial Group LLC,1,0.0
+"Voss & Klein, LLC",1,0.0
+"Fountainhead Commercial Capital, LLC",1,0.0
+Triton Recovery Group,1,0.0
+"Sessoms & Rogers, P.A.",1,0.0
+"Global Asset Agency, Inc.",1,0.0
+Meridian ARG Inc.,1,0.0
+"P&B Capital Group, LLC",1,0.0
+Wembley's Inc,1,0.0
+JGB Management Inc.,1,0.0
+"Arena Investors, LP",1,0.0
+"SettlementOne Valuation, LLC",1,0.0
+"Mortgage Expert, Inc. dba The Mortgage Expert",1,0.0
+The Avon Group dba Wyn Financial,1,0.0
+"The Winn Brown Law Firm, LLC",1,0.0
+Ray Skillman Ford Inc,1,0.0
+"Green & Sons Agency, Inc.",1,0.0
+Priority Financial Services,1,0.0
+Curo Inc.,1,0.0
+Kadent Corporation,1,0.0
+Northwestern Mediation Services,1,0.0
+North Main Motors Inc.,1,0.0
+"Kuber Financial, LLC",1,0.0
+"Ciconte Wasserman Scerba & Kerrick, LLC",1,0.0
+"Ikon Financial Group, LLC",1,0.0
+"Access Capital Services, Inc.",1,0.0
+"COLLECTION AGENCY OF THE HIGH COUNTRY,INC",1,0.0
+Cash In Minutes,1,0.0
+COOPERATIVA DE AHORRO Y CREDITO HATILLO,1,0.0
+Universal Commercial Capital. Inc,1,0.0
+Lakeland Recovery Solutions,1,0.0
+"Dwight Financial, Inc.",1,0.0
+JUMBO LOAN EXPERTS LLC,1,0.0
+Paragon Title & Escrow Company,1,0.0
+COLLECTION BUREAU INCORPORATED,1,0.0
+"GUARDIAN MORTGAGE COMPANY, INC.",1,0.0
+"Blatt, Hasenmiller, Leibsker & Moore, LLC",1,0.0
+"THOMPSON KANE & COMPANY, LLC",1,0.0
+ONEGO Inc.,1,0.0
+Simplending Financial LLC,1,0.0
+Inter-America Finance Corp.,1,0.0
+Allies for Community Business,1,0.0
+Singer Financial Corp.,1,0.0
+"Clarity Debt Resolution, Inc",1,0.0
+Auto Acceptance Finance LLC,1,0.0
+"STAT Financial, Inc.",1,0.0
+"Wilber and Associates, P.C.",1,0.0
+"Lustig, Glaser & Wilson, P.C.",1,0.0
+MORTGAGE 4 U LLC,1,0.0
+Endpoint Resolution Services (ERS),1,0.0
+"Pendrick Capital Partners Holding, LLC",1,0.0
+"South West Recovery, Inc.",1,0.0
+"Oz Gram Investment, Inc.",1,0.0
+AltCap,1,0.0
+TRI POINTE HOMES INC,1,0.0
+OpenRoad Financial Services Inc,1,0.0
+Unified Global Solutions LLC,1,0.0
+Keystone Law LLC,1,0.0
+Summit Mortgage Corporation,1,0.0
+BOC Capital Corp.,1,0.0
+"National Settlement Services, Inc",1,0.0
+"URS Solutions, LLC",1,0.0
+"M3 Mortgage Specialists, Inc",1,0.0
+"SECURITY NATIONAL TITLE AND ESCROW, LLC",1,0.0
+Maison Capital Group Inc,1,0.0
+HomeQuest Mortgage Corporation,1,0.0
+"UNITED ONE RESOURCES, INC.",1,0.0
+"Eagle Creek Mortgage, LLC",1,0.0
+"LIMESTONE TITLE AND ESCROW, LLC",1,0.0
+"HomeTown Lending Partners, LLC",1,0.0
+"Capital Financial Group, LLC of Illinois",1,0.0
+"CASH, INC.",1,0.0
+"MORTAGE WAREHOUSE LLC, THE",1,0.0
+"Moneylink Mortgage, Inc.",1,0.0
+"Palm Beach Credit Adjustors, Inc",1,0.0
+HARRIS AUTOMOTIVE GROUP LLC,1,0.0
+"POINT ESCROW, LLC",1,0.0
+"Great State Mortgage, LLC",1,0.0
+CHARTER CAPITAL CORPORATION,1,0.0
+"Mortgage Professionals of Sun Valley, Incorporated",1,0.0
+"DSR HOLDINGS GROUP, LLC",1,0.0
+"Centennial Title Agency, Inc.",1,0.0
+Mastercars Auto Group,1,0.0
+Red Rock Financial of Cedar City,1,0.0
+"C & M Associates Group, Inc.",1,0.0
+SUMMIT TITLE SERVICES CORP.,1,0.0
+"Minnesota Financial Solutions, LLC",1,0.0
+Windermere Mortgage Services Series LLC,1,0.0
+STEPHEN D LANDAU,1,0.0
+Polk Auto Finance Inc,1,0.0
+Sandalwood Solutions,1,0.0
+Envision Funding Solutions,1,0.0
+"MM Cooperation, Ltd Co",1,0.0
+"iCore Lending, Inc.",1,0.0
+Credit Bureau Services Association,1,0.0
+Cornerstone Lending Group Inc.,1,0.0
+"Paragon Home Loans, Inc",1,0.0
+"American Cash Exchange Enterprise of Tennessee, LLC",1,0.0
+"Helvey & Associates, Inc., Warsaw, IN Branch",1,0.0
+Assure Home Mortgage LLC,1,0.0
+"Merrick, Costello & Walsh, LLC.",1,0.0
+"Anchor Home Mortgage, Inc.",1,0.0
+South East Collection Specialist,1,0.0
+Armada Corp.,1,0.0
+ACCESS LOAN COMPANY,1,0.0
+"Powerhouse Solutions, Inc.",1,0.0
+"Glass Mountain Capital, LLC",1,0.0
+"Loan Pronto, Inc.",1,0.0
+AMERICAN FEDERAL MORTGAGE CORPORATION,1,0.0
+"All American Check Cashing, Inc.",1,0.0
+Comenity Bank,1,0.0
+"Suna Capital III, LLC",1,0.0
+Lionstone Holdings Group,1,0.0
+"MFG Financial, Inc.",1,0.0
+COOPERATIVA DE AHORRO Y CREDITO ROOSEVELT ROADS,1,0.0
+"Family Mortgage, Inc",1,0.0
+"Valentine and Kebartas, Inc.",1,0.0
+"Continental Central Credit, Inc.",1,0.0
+Northrim Capital Investments Co.,1,0.0
+Wilson Breit,1,0.0
+Credit Wellness LLC,1,0.0
+"Federal Adjustment Bureau, Inc.",1,0.0
+Massachusetts Educational Financing Authority,1,0.0
+"KELLER,GRIMALDI AND ASSOCIATES",1,0.0
+"Praxis Financial Solutions, Incorporated",1,0.0
+Holloway Credit Solutions,1,0.0
+Regional Processing Services,1,0.0
+PEOPLES UNITED BANK,1,0.0
+"Keaveney Legal Group, LLC",1,0.0
+Lending Solutions Mortgage/ LSI Mortgage,1,0.0
+"Roost Lending, Inc.",1,0.0
+"Larsen MacColl Partners II, L.P.",1,0.0
+ME Title Holding LLC,1,0.0
+DMC Inc,1,0.0
+"OPT-OUT SERVICES, LLC",1,0.0
+Fidelity Home Group Corp.,1,0.0
+"Silver Cloud Financial, Inc",1,0.0
+Provadus LLC,1,0.0
+Orange County Housing Finance Authority,1,0.0
+Financial Corporation of America,1,0.0
+NowackHoward LLC,1,0.0
+"Morgan & Associates, P.C.",1,0.0
+"Capstone Capital USA, LLC",1,0.0
+First Choice Credit Management,1,0.0
+"LoanMe, Inc.",1,0.0
+UNIVERSAL MTG & FINANCE,1,0.0
+UNITED STUDENT LOAN SOLUTIONS,1,0.0
+P&L Acquisitions LLC,1,0.0
+Capitol Credit Company,1,0.0
+Commercial Recovery Systems,1,0.0
+"Tiburon Financial, LLC",1,0.0
+"Rubin & Debski, P.A.",1,0.0
+Future Financial Inc.,1,0.0
+AMERICAN FAMILY FUNDING GROUP Inc.,1,0.0
+"Carchoice of Memphis, Inc.",1,0.0
+Fairway Consumer Discount Company,1,0.0
+"Brelvis Consulting, LLC",1,0.0
+Fedloan Help,1,0.0
+"Delta Outsource Group, Inc.",1,0.0
+J. Mark Heldenbrand PC,1,0.0
+"West Penn Financial Service Center, Inc.",1,0.0
+ACRANET INC,1,0.0
+Spec Hoffman Auto Sales Inc.,1,0.0
+"American Management Services, Inc.",1,0.0
+First Choice Assets LLC.,1,0.0
+"Keith D. Weiner & Associates Co., L.P.A.",1,0.0
+"SELFi, Inc.",1,0.0
+"TRISTATE CAPITAL HOLDINGS, INC",1,0.0
+CUILA LLC,1,0.0
+"DeBellis Financial Services, Inc.",1,0.0
+Rno Partners Limited,1,0.0
+"APEX Asset Management, LLC",1,0.0
+"Avadyne Health Holdings, Inc",1,0.0
+"Lincoln Capital, LLC",1,0.0
+"JZ Mortgage Services, Inc.",1,0.0
+"StrongBox Home Loans, LLC",1,0.0
+North Prime Lending Inc,1,0.0
+Stone Haven Capital,1,0.0
+Law Office Of Steven D. Silverstein,1,0.0
+"Bursey & Associates, P.C.",1,0.0
+Centric Financial Group LLC,1,0.0
+Thinkwallet Loans,1,0.0
+CONTRACT CALLERS INC,1,0.0
+TOO STRONG Mortgage LLC,1,0.0
+Arcstone Financial Inc.,1,0.0
+ECredable,1,0.0
+"Integrity Solution Services, Inc.",1,0.0
+A Top Golden Lending,1,0.0
+"PRACTICAL VENTURES, LLC.",1,0.0
+Advanced Professional Group,1,0.0
+"Whetstone Partners, LLC",1,0.0
+DEPENDABLE CREDIT CORP,1,0.0
+Absolute investment Group,1,0.0
+Municipal Collections of America Inc.,1,0.0
+"Davis and Goldmark, Inc.",1,0.0
+"Midstate Collection Solutions, Inc.",1,0.0
+"Union Adjustment Company, Inc.",1,0.0
+"American Enterprises International, Inc.",1,0.0
+"TrustLine Mortgage, Inc.",1,0.0
+"Wagner Financial Services, Inc.",1,0.0
+"Private Mortgage Advisors, LLC",1,0.0
+"Auto World Financial, Inc.",1,0.0
+Neighborhood Housing Services of NYC,1,0.0
+"Check Security Associates, LLC",1,0.0
+"Outsource Services, Inc. d/b/a National Acceptance Company",1,0.0
+"Codilis & Stawarski, P.C.",1,0.0
+"National Commercial Services, Inc",1,0.0
+AmRes Corporation,1,0.0
+"Bernhardt and Strawser, P.A.",1,0.0
+McMichael Taylor Gray LLC,1,0.0
+The Cook Law Office PLLC,1,0.0
+"Unified Mortgage Service, Inc.",1,0.0
+Legal Logix Inc.,1,0.0
+Citizens Debt relief LLC,1,0.0
+"Capio Partners, LLC",1,0.0
+"Wiicar U.S., LLC",1,0.0
+"Solomon and Solomon, P.C.",1,0.0
+"Independent Settlement Group, LLC dba EKKO Title",1,0.0
+CreditSmart Holdings Inc,1,0.0
+"Prime Home Lending, LLC",1,0.0
+"Union Home Loan, Inc.",1,0.0
+"First National Auto Sales, Inc",1,0.0
+"Brazington Mortgage, LLC",1,0.0
+"Home Lending Pal, Inc.",1,0.0
+"Stillman, P.C. d.b.a. Stillman Law Office",1,0.0
+American Tax Holding LLC,1,0.0
+"KAITER ENTERPRISES, INC, DBA COLORADO LENDING GROUP",1,0.0
+"DHA FINANCIAL, INC.",1,0.0
+Centric Asset Management Inc,1,0.0
+FIDELITY INVESTMENTS,1,0.0
+Watson Mortgage Corp.,1,0.0
+Freedom Trucks LLC,1,0.0
+Taggart Motor Co,1,0.0
+N A NATIONWIDE MORTGAGE,1,0.0
+9 Dots Lending LLC,1,0.0
+Commercial and Medical Credit Services,1,0.0
+"Blitz Ventures, LLC",1,0.0
+CENTENNIAL LENDING GROUP LLC,1,0.0
+Trinity Reverse Mortgage,1,0.0
+FIVE STAR MORTGAGE,1,0.0
+"LORD MORTGAGE & LOAN, INC.",1,0.0
+Oro Express LLC,1,0.0
+"FHL HOLDINGS, LLC",1,0.0
+"FCTI, Inc.",1,0.0
+"Blackstreet Mortgage Group, LLC",1,0.0
+FloatMe Corp.,1,0.0
+"Consolidated Credit Solutions, Inc.",1,0.0
+"MARVELOANS, LLC",1,0.0
+Sun 1318 Corp,1,0.0
+Aluria Financial Holding LLC,1,0.0
+"Accelerated Creditors Services, Inc",1,0.0
+Ark Auto Solutions,1,0.0
+"Forsythe Finance, LLC",1,0.0
+Car World Group,1,0.0
+Red Leaf Servicing,1,0.0
+Tarpon Financial Corporation,1,0.0
+Real Estate Solutions,1,0.0
+"ZIP CAPITAL GROUP, LLC",1,0.0
+"SACOR FINANCIAL, INC",1,0.0
+GLFinancial Services LLC,1,0.0
+"BLACK HILLS CHILDREN'S RANCH, INC.",1,0.0
+"Secure Financial Services, Inc. D/B/A Secure Mortgage Company",1,0.0
+"Hopkins Financial Services, Inc.",1,0.0
+Mungo Financial Group,1,0.0
+Deatrick & Spies PSC,1,0.0
+"Mortgage Professionals, Inc.",1,0.0
+Hernandez R E Services,1,0.0
+"Kramer & Frank, P.C.",1,0.0
+First Student Services,1,0.0
+LEXINGTON LAW FIRM,1,0.0
+Carfast Financial Holdings,1,0.0
+"Roach & Murtha, P.C.",1,0.0
+"Community Health Investment Company, LLC.",1,0.0
+"Streamline Financial Group, Inc.",1,0.0
+FHC Mortgage,1,0.0
+Central Land Title Guarantee Company,1,0.0
+"JMD,LLC",1,0.0
+DB Premier Asset Partners LLC,1,0.0
+Greenwood and Allen Financial,1,0.0
+"Central Kentucky Management Services, Inc",1,0.0
+Splash Cash Holdings LLC,1,0.0
+"Partners Title Agency, LLC",1,0.0
+"Horsepower Financial, LLC",1,0.0
+"All Area Abstract, LLC",1,0.0
+"BYTE FEDERAL, INC.",1,0.0
+Nexgen Services Inc,1,0.0
+"MCM Holdings, Inc.",1,0.0
+"Best in Funding, Inc.",1,0.0
+Global DS Group LLC,1,0.0
+"Titan Title & Closing, LLC",1,0.0
+Evergreen Anchor Capital LLC,1,0.0
+States Resources Corp.,1,0.0
+LEXUS FINANCIAL SERVICES,1,0.0
+"Prime Source Mortgage, Inc",1,0.0
+"Rochester Home Equity, Inc",1,0.0
+Atlantic Discount Corporation dba Atlantic Financial Services,1,0.0
+"North American Asset Services, LLC",1,0.0
+Van Ru Credit Corporation,1,0.0
+"Student Zoom, LLC",1,0.0
+"Copper Lake Financial, LLC",1,0.0
+"MCGLONE MORTGAGE COMPANY, INC.",1,0.0
+Continental Finance Capital Corporation,1,0.0
+JPL Recovery LLC,1,0.0
+Directors Financial Group,1,0.0
+"Rapido Credit Repair, Inc.",1,0.0
+"Fairway Capital Recovery, LLC",1,0.0
+Credit Service Company,1,0.0
+"Lending Hand Mortgage, LLC",1,0.0
+Good Friend Mortgage Inc.,1,0.0
+"Performance Settlement, LLC",1,0.0
+"Zbest Cars, Inc.",1,0.0
+"J & C Auto Sales of Collier County, LLC",1,0.0
+"Scout Mortgage, Inc.",1,0.0
+"Counsel Mortgage Group, LLC",1,0.0
+"Money Hungry, LLC",1,0.0
+"Henley, Lotterhos & Henley, PLLC",1,0.0
+"NCC Holdings, LLC",1,0.0
+"E Z CASH OF DELAWARE, INC.",1,0.0
+"Landis Technologies, Inc.",1,0.0
+ALG Trustee LLC,1,0.0
+Niagara Restitution Service Inc,1,0.0
+Grant Mercantile Agency,1,0.0
+Vision Holdings,1,0.0
+Secure Choice Lending,1,0.0
+"Pelham Loan Company, Inc.",1,0.0
+Stone Guard Lending Inc.,1,0.0
+"Professional Claims Bureau, Inc.",1,0.0
+"Apoyo Financiero, Inc.",1,0.0
+"Value Recovery Holding, LLC",1,0.0
+"Americas Mortgage Professionals, LLC",1,0.0
+UTAHCASHLOANS LLC,1,0.0
+Henschel & Beinhaker P.A.,1,0.0
+"AutoBank Financial, LLC",1,0.0
+"AAA CAPITAL INVESTMENT, INC.",1,0.0
+AutoSmart  Acceptance Corporation,1,0.0
+BLUE WHALE LENDING L.L.C.,1,0.0
+"Sharpe Mortgage Lending Services of Georgia, Inc.",1,0.0
+"Zakheim Law Group, P.A.",1,0.0
+Cars America Inc.,1,0.0
+United One Mortgage Inc.,1,0.0
+"Cherry Creek Strategic Advisors, LLC",1,0.0
+Central Atlantic Sales Inc. T/A Priority Buy Here Pay Here,1,0.0
+The Cooper Mediation Firm LLC,1,0.0
+CAROLINA FINANCIAL OF BEAUFORT INC.,1,0.0
+Escrow of the West,1,0.0
+"Simon's Agency, Inc.",1,0.0
+Vantage Point Group,1,0.0
+KCM & AHS LLC,1,0.0
+"MBM Collections, LLC",1,0.0
+PRODIGY MORTGAGE CORP,1,0.0
+NATIONS TRUST MORTGAGE INC,1,0.0
+Academy Mortgage Corporation (NY),1,0.0
+"ERO LENDING,LLC",1,0.0
+Ace Motor Acceptance Corporation,1,0.0
+United Mutual Funding Corp,1,0.0
+"DRIVEiT Holdings, Inc.",1,0.0
+Texas Mortgage Lending LLC,1,0.0
+Instant Cash Point,1,0.0
+PacificLife Servicing,1,0.0
+"Harvest Strategy Group, Inc.",1,0.0
+Airport Finance,1,0.0
+Sonora Lending Corporation,1,0.0
+House Of Finance Corp.,1,0.0
+"Keynote Consulting, Inc.",1,0.0
+Northwest Title Company,1,0.0
+Capital Lending Corp.,1,0.0
+"Cheney Financial Services, Inc.",1,0.0
+"Albert E. Acuna, P.A.",1,0.0
+"Core Mortgage Services, LLC",1,0.0
+"Sterling Atlantic Law Group, PC",1,0.0
+"NorthShore Financial, L.L.C.",1,0.0
+"FISHER FINANCIAL GROUP, INCORPORATED",1,0.0
+"Lamont, Hanley & Associates, Inc.",1,0.0
+"Eastpoint Recovery Group, Inc",1,0.0
+Louis M. Turchiarelli Attorney at Law,1,0.0
+"Coastal Financial Solutions, LLC",1,0.0
+Orion Title & Escrow LLC,1,0.0
+"Northwest Contract Collections, Inc.",1,0.0
+"DA AUTO GROUP, INC",1,0.0
+"Unchained Capital, Inc.",1,0.0
+"Sperlonga Data & Analytics Systems, LLC",1,0.0
+Diversified Recovery Services Inc.,1,0.0
+"El Dorado Financial, Inc. DBA Omni Financial",1,0.0
+"Leedom Management Group, Inc.",1,0.0
+MERCHANTS BANCORP,1,0.0
+Prospering Home Loans LLC,1,0.0
+Northwest Acceptance Corp. Inc.,1,0.0
+"Instant Loans, Inc",1,0.0
+GRANDE HOMES INC,1,0.0
+"Lota Financial Group, Inc.",1,0.0
+El Paisano Motors Inc.,1,0.0
+"Credit Protection Association, L.P.",1,0.0
+"xCoins, Inc.",1,0.0
+"1st United Funding, LLC",1,0.0
+"Kovach Law Firm, PLLC",1,0.0
+"Debt Reduction Services, Inc.",1,0.0
+Scott’s Jewelry & Pawn Inc.,1,0.0
+Hughes Acceptance Corporation,1,0.0
+"Moss Law Firm, P.C.",1,0.0
+Olympia Title & Escrow Corporation,1,0.0
+"TimeMark Solutions, Inc",1,0.0
+Mid-Atlantic Consumer Services,1,0.0
+"Results Mortgage, LLC",1,0.0
+"Inverterra Holdings, LLC",1,0.0
+"TexStar Escrow, LLC",1,0.0
+Rosenberg & Associates Recovery Services,1,0.0
+Highland Capital,1,0.0
+STATEWIDE AUTO SALES,1,0.0
+SOLERA LLC,1,0.0
+Better Debt Solutions LLC,1,0.0
+Hard Capital Funding LLC,1,0.0
+"Convoy Home Loans, Inc.",1,0.0
+Amigos Préstamos,1,0.0
+"NRG STX Properties, LLC",1,0.0
+Integrity Property Financial Services LLC,1,0.0
+SilverLake Financial LLC,1,0.0
+Tex-Mex Primo Auto Sales,1,0.0
+Agency of Credit Control,1,0.0
+"RH Portfolio I, LLC",1,0.0
+"Metropolitan Title, LLC",1,0.0
+RESPONSIVE MORTGAGE CORPORATION,1,0.0
+FRESNO CREDIT BUREAU,1,0.0
+"Dadiwah 13 of Marietta, Inc.",1,0.0
+"OTR Fund I, LLC",1,0.0
+"Williams, Alexander & Associates, Inc",1,0.0
+"BANKERS MORTGAGE LENDING, INC.",1,0.0
+Fresh Start Credit Solutions,1,0.0
+"Moneytree Financial Services, Inc.",1,0.0
+Freedom Financial Capital LLC,1,0.0
+Resource Marketing Corp. LLC,1,0.0
+FIRST MORTGAGE CORPORATION,1,0.0
+"Owl Automotive Group, Inc.",1,0.0
+Canyon Mortgage Corp.,1,0.0
+"SIRY INC., DBA SIRY AUTO GROUP",1,0.0
+Morningside Funding LLC,1,0.0
+Suburban Mortgage Company of New Mexico,1,0.0
+"SM Law, PC",1,0.0
+"ATG Credit, LLC",1,0.0
+"Eagle Recovery Associates, Inc.",1,0.0
+"TRT HOME LOANS, INC.",1,0.0
+Credit Reporting Services LLC,1,0.0
+"Law Office of Gregory Javardian, LLC",1,0.0
+"Presto Mas, Inc.",1,0.0
+"Accscient, LLC",1,0.0
+Collection Attorneys USA LLC,1,0.0
+"Financial Filing & Reporting, Inc.",1,0.0
+Verisk Analytics Inc,1,0.0
+"Glennon Law Firm, LLC",1,0.0
+"Byers Law, LLC",1,0.0
+Ray Skillman Northeast Imports Inc,1,0.0
+"(Former)Shapiro, Swertfeger & Hasty, LLP",1,0.0
+"Millennium Mortgage Group, LLC",1,0.0
+ALCHRO INC.,1,0.0
+"SMITH, ROUCHON & ASSOCIATES, INC.",1,0.0
+"Good News Group, LLC d/b/a Savvy Loans",1,0.0
+Couch Lambert LLC,1,0.0
+"Borenstein & Associates, LLC",1,0.0
+Golden Green Services LLC,1,0.0
+"Talbot, Adams, & Moore, Inc.",1,0.0
+"Digital Media Solutions, LLC",1,0.0
+Hewitt-Capital,1,0.0
+"Express Auto Finance, LLC",1,0.0
+"C & S Auto Enterprises, Inc",1,0.0
+"Tuten Title and Escrow, LLC",1,0.0
+QUEST FINANCE  LLC,1,0.0
+Praxis Finance LLC,1,0.0
+Baird Home Corporation,1,0.0
+"Community Lending of America, Inc.",1,0.0
+"Mercadolar, Inc.",1,0.0
+CRESCENT MORTGAGE COMPANY,1,0.0
+"GIBSON MORTGAGE, INC.",1,0.0
+Premier Portfolio Group,1,0.0
+Alliance Group & Associates LLC,1,0.0
+"Student Loan Control, LLC",1,0.0
+"Gulf Coast Real Estate Emerald Coast, LLC,  d/b/a Motto Mortgage On The Gulf",1,0.0
+Student Aid Experts,1,0.0
+"Davis & Amaral Mortgage Consultants, Inc.",1,0.0
+"H & S Financial, Inc.",1,0.0
+"Dominus Law and Recovery, LLC.",1,0.0
+Usset Weingarden & Liebo PLLP,1,0.0
+R.C. Temme Corporation,1,0.0
+South Gate Financial LLC,1,0.0
+DRAGAS MORTGAGE COMPANY,1,0.0
+Affordable Interest Mortgage,1,0.0
+"Southwest Finance, L.L.C.",1,0.0
+Midway Resolution Services LLC,1,0.0
+Home Loans Inc,1,0.0
+"Lewisfin.com, LLC",1,0.0
+"Northstar Management, Inc.",1,0.0
+"AMERICAN MORTGAGE AND INVESTMENT SERVICES, INC.",1,0.0
+"Castle Peak Mortgage, LLC",1,0.0
+Encompass Mortgage Services Inc.,1,0.0
+Main Resolution Group,1,0.0
+"CMM of Louisiana, LLC",1,0.0
+"Title One, Inc.",1,0.0
+"Quad Cities Financial, Inc.",1,0.0
+"Southern Star Capital, L.L.C.",1,0.0
+"Berndt & Associates, P.C.",1,0.0
+ADF Automotives LLC,1,0.0
+Thrifty Motors Inc.,1,0.0
+"America's Secure Home Loans, Inc.",1,0.0
+"Liberty Mortgage Lending, Inc.",1,0.0
+Business & Professional Collection Service Inc,1,0.0
+Advanced Recovery Group LLC,1,0.0
+"Button Finance, Inc.",1,0.0
+"Smart Money Capital, LLC",1,0.0
+Marquee Funding Group Inc.,1,0.0
+Diamond Finance LLC,1,0.0
+Park View Credit,1,0.0
+"Reliant Capital Solutions, LLC",1,0.0
+Black Equity Lending LLC,1,0.0
+"First Choice Lending Group, LP",1,0.0
+People's Finance Co,1,0.0
+Omni Investments Inc.,1,0.0
+Hidden Meadow Lending,1,0.0
+Covington Capital Corporation,1,0.0
+"BCG Equities, LLC",1,0.0
+Cross Country Financial Corporation,1,0.0
+"Newland Mortgage, Inc.",1,0.0
+"Credit Bureau Systems, Inc., Paducah, KY Branch",1,0.0
+"SUBURBAN MORTGAGE, INC.",1,0.0
+ECN Platinum LLC,1,0.0
+"NORTHPOINT MORTGAGE, INC.",1,0.0
+"Council Law Group, PLLC",1,0.0
+"Consolidated Auto Sales, Inc.",1,0.0
+"Mr. Mortgage, LLC",1,0.0
+"K2 Lending, Inc.",1,0.0
+"JAMES A. MOUNGER, PLC",1,0.0
+"The Law Offices of Frederic I. Weinberg & Associates, P.C.",1,0.0
+"Law Office of James R. Vaughan, P.C.",1,0.0
+"Columbia Collection Service, Inc.",1,0.0
+"CMCO Mortgage, LLC",1,0.0
+"Account Managers, Inc.",1,0.0
+208 Capital Holdings LLC,1,0.0
+MSA MORTGAGE LLC,1,0.0
+"MedPlan Credit, LLC",1,0.0
+Certify Student Services,1,0.0
+"LAFOURCHE MORTGAGE & LOAN, INC.",1,0.0
+"Fortune Title Agency, Inc.",1,0.0
+"FIRST OHIO HOME FINANCE, INC",1,0.0
+"On-Site Manager, Inc.",1,0.0
+Choice Mtg INC.,1,0.0
+ODYSSEY FUNDING LLC,1,0.0
+"Skylight Lending, LLC",1,0.0
+Keystone Mortgage Group LLC,1,0.0
+Loansmart Inc.,1,0.0
+"OPES ADVISORS, INC.",1,0.0
+Habitat for Humanity of Boulder Valley,1,0.0
+TCF & ASSOCIATES,1,0.0
+"Cornerstone Mortgage Group, LLC",1,0.0
+National Title Co.,1,0.0
+National Integrity LLC,1,0.0
+"The Lending Source, Ltd.",1,0.0
+Levon Gukasyan DBA Garman Financial,1,0.0
+"Nair & Levin, P.C.",1,0.0
+"Ark Law Group, PLLC",1,0.0
+Lincoln Educational Services Corporation,1,0.0
+"Westpark Equity Group, Inc.",1,0.0
+"Sherloq Group, Inc",1,0.0
+National Capital Solutions,1,0.0
+Capital Realty Professional LLC,1,0.0
+"Southeast Auto Financial Services, LLC",1,0.0
+"The Title Connection Of South Florida, Inc.",1,0.0
+Maynard Nexsen PC,1,0.0
+InvestiNet LLC,1,0.0
+Island Mortgage Source Inc,1,0.0
+"Pinnacle Credit Services, LLC",1,0.0
+PNH Worldwide Inc.,1,0.0
+"Limetree Lending, Inc.",1,0.0
+DARCARS AUTOMOTIVE  (Mariam Inc.),1,0.0
+PB Financial Group Corp,1,0.0
+"Gabriel FInancial Group, Inc.",1,0.0
+"Douglas, Chancellor, Meyers and Associates, LLC",1,0.0
+"Greeting Team, LLC DBA Customer Care Global",1,0.0
+The Law Firm of Krisor & Associates,1,0.0
+"Mortgage Lending Masters, LLC",1,0.0
+10 Cent Title Pawn Inc,1,0.0
+"Kendris, LLC",1,0.0
+Cash-Installment LLC,1,0.0
+Quantum Servicing Corporation,1,0.0
+"Chambless, Math, Carr, P.C.",1,0.0
+"CRC Holding, LLC",1,0.0
+"Harvard Collections, LLC",1,0.0
+Marcadis Singer PA,1,0.0
+"Figliola & Romano, LLC",1,0.0
+"National Account Systems of Omaha, LLC",1,0.0
+"Gate US, Inc.",1,0.0
+Federal Trade Commission,1,0.0
+"Prominence Capital Partners, LLC",1,0.0
+Global Consulting Agency LLC,1,0.0
+"Driver Holdings, LLC",1,0.0
+"Land Title Guarantee Company, a Colorado corporation",1,0.0
+"Your Credit Loans, Inc.",1,0.0
+American Acceptance Corp. of South Carolina,1,0.0
+Crosspoint Financial Inc.,1,0.0
+"First Step Group, LLC",1,0.0
+CNJ Enterprises LLC DBA Legal-Bay LLC,1,0.0
+"US Military Loans, Inc.",1,0.0
+Express Enrollment LLC,1,0.0
+"NORTH HIGHLAND HOLDING COMPANY LLC, THE",1,0.0
+Payment Resolution Services,1,0.0
+"Nolensville Road Auto Mart, Inc.",1,0.0
+"PNK INVESTMENTS, LLC",1,0.0
+"Horizon Financial Group, Inc.",1,0.0
+Astra Business Services,1,0.0
+"Executive Credit Management, Inc",1,0.0
+"Paramount Recovery Systems, L.P.",1,0.0
+Signature Finance Company,1,0.0
+The Singer Law Group,1,0.0
+National Auto Group LLC,1,0.0
+Delay Group DBA The Debt Management Group,1,0.0
+MILLENIUM HOME MORTGAGE LLC,1,0.0
+Debt Relief Center,1,0.0
+Thrivest,1,0.0
+"MyPrimeHomeLoan.com, LLC",1,0.0
+"Pando Mortgage, LLC",1,0.0
+Accountant Exchange Group,1,0.0
+METRO ISLAND MORTGAGE INC.,1,0.0
+"Proscript media and advertising services, llc DBA Bank Rover",1,0.0
+"Richard T. Smith, PC dba Smith Cavin & Corbin, LLC",1,0.0
+"The Schreiber Law Firm, PLLC",1,0.0
+Security Credit Corporation,1,0.0
+JMEN Capital Group Ltd,1,0.0
+Equity Now Inc.,1,0.0
+Homes By Hunt LLC,1,0.0
+"Professional Systems of Mankato, Inc.",1,0.0
+"International Mortgage & Finance Group, Inc.",1,0.0
+Alternative Collections LLC,1,0.0
+Lakeview Mortgage Inc.,1,0.0
+Keys Auto Finance Inc,1,0.0
+"Miller George and Suggs, PLLC",1,0.0
+Credit Repair Anywhere,1,0.0
+A1 Lending Team LLC,1,0.0
+American Lending LLC,1,0.0
+Link Chain World Inc,1,0.0
+"Elite Portfolio Management, LLC",1,0.0
+J. Scott Watson,1,0.0
+Robinson & Hoover,1,0.0
+CENTRAL BANC MORTGAGE CORPORATION,1,0.0
+Federated Mortgage Corp.,1,0.0
+KINGS CREDIT SERVICES,1,0.0
+DSJ Service Corporation,1,0.0
+"Crux Commercial Partners, LLC",1,0.0
+"Rapidly Financial, Inc.",1,0.0
+Altitude Community Law P.C.,1,0.0
+"Bit Express, LLC",1,0.0
+"Commonwealth Auto Credit, LLC",1,0.0
+"First Home Equity Loans, LLC",1,0.0
+"Moody, Jones & Ingino, P.A",1,0.0
+"S.O.S. Loans, Inc.",1,0.0
+"Professional Placement Services, LLC",1,0.0
+"Even Responsible Finance, Inc.",1,0.0
+KPL Select Mortgage Inc,1,0.0
+Citadel Finance Company,1,0.0
+Money Service Centers of Hawaii,1,0.0
+Mortgage Network Solutions LLC,1,0.0
+Cimmaron Escrow Inc.,1,0.0
+Peak Legal Advocates,1,0.0
+National Loan Investors LP,1,0.0
+"iMove Mortgage, LLC",1,0.0
+Lending Base Inc.,1,0.0
+"Atlas Exploration, Inc.",1,0.0
+PINNACLE CAPITAL MORTGAGE CORP,1,0.0
+VELO LAW OFFICE,1,0.0
+"Trusted Rate, Inc.",1,0.0
+Goodwill Finance LLC,1,0.0
+"NCS, Inc",1,0.0
+"Inheritance Funding Company, Inc.",1,0.0
+Premier Account Management,1,0.0
+RF MORTGAGE AND INVESTMENT COR,1,0.0
+HF Holdings,1,0.0
+Student Assist Plus LLC,1,0.0
+"Storehouse Mortgage, LLC",1,0.0
+"Old Union Financial, LLC",1,0.0
+Applewood Funding Corporation,1,0.0
+"M3 Financial Services, Inc.",1,0.0
+"Alpha Mortgage, LLC",1,0.0
+OVERSTOCK.COM INC,1,0.0
+HR MORTGAGE CORPORATION,1,0.0
+"National Litigation Law Group, LLP",1,0.0
+"Coastline Capital Fund Management, LLC",1,0.0
+Spicewood Funding Group,1,0.0
+Stream Auto Outlet,1,0.0
+Lake City Credit,1,0.0
+"NEW CENTURY FINANCIAL, L.L.C.",1,0.0
+"Invicta Mortgage Group, Inc.",1,0.0
+"TRICO FINANCIAL SERVICES, LLC",1,0.0
+"Elly, LLC",1,0.0
+"VStar Financial, LLC",1,0.0
+Ready Finance LLC,1,0.0
+Cal-Tenn Financial LLC,1,0.0
+Management Location Services Inc.,1,0.0
+"BesTitle Agency, Inc.",1,0.0
+AMERITRUST MORTGAGE CORPORATION,1,0.0
+Empire West Mortgage Lending PLLC,1,0.0
+ADS Resolve LLC,1,0.0
+"Healthcare Collection Specialists, Inc.",1,0.0
+SKYRIDGE LENDING LLC,1,0.0
+Sklar Law LLC,1,0.0
+Right Step Mortgage LLC,1,0.0
+A.R.C. Accounts Recovery (U.S.A.) Corporation LLC,1,0.0
+"HONG LAN SERVICES, INC.",1,0.0
+CF Funding,1,0.0
+"Doonan, Graves & Longoria",1,0.0
+"AAA Credit Bureau, Inc.",1,0.0
+"Breit Law Office, P.C.",1,0.0
+"I-NET, INC.",1,0.0
+"Peter T. Roach and Associates, P.C.",1,0.0
+"Precise Financial Group, LLC",1,0.0
+Autoflex Leasing - Dallas I LLC,1,0.0
+"United Docu Prep, Inc.",1,0.0
+"AAA Checkmate, L.L.C.",1,0.0
+ARP & Associates LLC,1,0.0
+Welcome Home Finance,1,0.0
+Valorem Lending LLC,1,0.0
+CSI Mortgage Corporation,1,0.0
+"Grassland Financial Services, LLC",1,0.0
+"Elderlife Financial Services, LLC",1,0.0
+Holiday Finance Corporation,1,0.0
+"Internal Check Systems, LLC",1,0.0
+"Estate Information Services, LLC",1,0.0
+"Top Used Cars, Inc",1,0.0
+Craig's Auto & RV Inc,1,0.0
+GuardHill Financial LLC,1,0.0
+"Greenback Recovery Group, LLC",1,0.0
+MORTGAGE INVESTORS CORPORATION,1,0.0
+Neb-Tex of Dalhart LLC,1,0.0
+Strand Finance Inc.,1,0.0
+"CLAYTON AUTOS, INC",1,0.0
+"Allison L. Friedman, P.A.",1,0.0
+"The Rickel Law Firm, P.C.",1,0.0
+Aspire Mortgage Advisors LLC,1,0.0
+"Creditrepair.com, Inc.",1,0.0
+Salary Finance Inc,1,0.0
+F5 Mortgage LLC,1,0.0
+Bueno Title and Escrow,1,0.0
+DRIVE NOW AUTO CREDIT COMPANY INC,1,0.0
+ASG Solutions LLC,1,0.0
+Credit Bureau Services Inc.,1,0.0
+"Law Offices of Bill Malone, Jr.",1,0.0
+RevNow LLC,1,0.0
+Patient Accounting Service Center,1,0.0
+North Capital Recovery Services,1,0.0
+"Linden Research, Inc.",1,0.0
+"Homefront Mortgages, Inc",1,0.0
+"Wisconsin Title Group, LLC",1,0.0
+College Lending Solutions of Salem,1,0.0
+JL Management LLC dba Advance Finance & Tax Service,1,0.0
+Unified Lending Inc.,1,0.0
+Check Cashing & Loans,1,0.0
+Cordoza & Wexler Recovery Services,1,0.0
+Insight Financial Services LLC,1,0.0
+Laurens Financial Services Inc,1,0.0
+"Green Tree Case Funding, LLC",1,0.0
+Neil Huffman Automobiles Inc.,1,0.0
+"NSA Partners, Ltd.",1,0.0
+"AUDIT SYSTEMS,INC",1,0.0
+Coldwater Mediation Group LLP,1,0.0
+"Loan Velocity, Inc.",1,0.0
+IOWA STUDENT LOAN LIQUIDITY CORPORATION,1,0.0
+HOMETOWN EQUITY MORTGAGE,1,0.0
+"Meade Recovery Services, LLC",1,0.0
+"First American Mitigators, PLLC.",1,0.0
+"M.A.R.S., Inc.",1,0.0
+Collection Bureau of America Ltd.,1,0.0
+Jana Ferrell & Associates LLC,1,0.0
+"Norwest Auto Sales, Inc",1,0.0
+"Stevens Business Service, Inc.",1,0.0
+"LeVasseur Dyer & Associates, PC",1,0.0
+"Redfin Mortgage, LLC",1,0.0
+Red Rock Mortgage & Lending LLC,1,0.0
+HOMETRUST MORTGAGE COMPANY,1,0.0
+"Neighborhood Housing Services of Toledo, Inc.",1,0.0
+B-Focused Mobile LLC,1,0.0
+"LoanLeaders of America, Inc.",1,0.0
+Jackson Automotive Resources,1,0.0
+Off Lease Only Inc.,1,0.0
+"Systematic National Collection, Inc.",1,0.0
+"CARMEL FINANCIAL CORPORATION, INC.",1,0.0
+TyKy,1,0.0
+Pinnacle Finance LLC,1,0.0
+Ponca Finance Co. Inc,1,0.0
+Dream Center Education Holdings,1,0.0
+"Harbor Legal Group, LLC",1,0.0
+"D.S. Erickson & Associates, PLLC",1,0.0
+Avenify Corporation,1,0.0
+Nationwide Arbitration Services LLC,1,0.0
+Chainlink Services LLC,1,0.0
+Gallatin Valley Financial,1,0.0
+"Stein Law, P.C.",1,0.0
+GEM Financial,1,0.0
+"Pollack & Rosen, P.A.",1,0.0
+PPPLF ECONOMIC AND COMMUNITY DEVELOPMENT INSTITUTE,1,0.0
+JLO Ventures LLC dba Car By U,1,0.0
+Landmark Collection Services Inc.,1,0.0
+"CBG Financial, LLC",1,0.0
+Law Office of Anthony C. Onwuanibe,1,0.0
+Mutual Financial Partners,1,0.0
+Woods Oviatt Gilman LLP,1,0.0
+"Premier Lending, Inc.",1,0.0
+"Aequitas Capital Opportunities Fund, LP",1,0.0
+"Dant-Pacific, Ltd",1,0.0
+ALLIED NATIONAL INC,1,0.0
+Buckingham Mortgage LLC,1,0.0
+MORTGAGE CORPORATION OF THE SOUTH,1,0.0
+"Spectrum Funding Group, LLC",1,0.0
+"SENIOR MORTGAGE BANKERS, INC.",1,0.0
+Inland Debt Management,1,0.0
+Homestead Title Abstract Agency Inc.,1,0.0
+"Hertzmark, Crean & Lahey, LLP.",1,0.0
+Devgru Financial LLC,1,0.0
+"Escrow and Title Services, Inc.",1,0.0
+"Credit Bureau of Howell County, LLC",1,0.0
+"CCB Credit Serivces, Inc",1,0.0
+Signature Home Lending Inc,1,0.0
+Tiempo Finance Company Inc,1,0.0
+"National Recovery Service, Inc.",1,0.0
+"FCN Catalogue & Equipment, Inc.",1,0.0
+"NPG Associates, Inc.",1,0.0
+Williams Kastner & Gibbs PLLC,1,0.0
+Lovitts Auto Sales Inc,1,0.0
+"Axiom Acquisition Ventures, LLC",1,0.0
+CAPITAL INTERNATIONAL FINANCIAL INC.,1,0.0
+People Trust,1,0.0
+Maury's Motors Inc DBA Midpoint Auto Group,1,0.0
+One Source Technology,1,0.0
+AD Capital LLC,1,0.0
+"Burton Neil & Associates, P.C.",1,0.0
+"KeyStone Financial ,LLC",1,0.0
+Advanced Resolution Services Inc.,1,0.0
+TitleMax LLC,1,0.0
+"New Century Financial Services, Inc.",1,0.0
+"CICA Collection Agency, Inc.",1,0.0
+"Commercial Trade, Inc.",1,0.0
+360 Mortgage Inc.,1,0.0
+RMA Credit Association,1,0.0
+"Colorado Capital Investments, Inc.",1,0.0
+"TLP Mortgage Advisors, LLC",1,0.0
+Regional Mediation Associates LLC,1,0.0
+Fast Track Servicing,1,0.0
+"American Heritage Capital, LP",1,0.0
+Diamond Funding Corporation,1,0.0
+Digital Currency Services Inc.,1,0.0
+Handshake Home Loans Inc.,1,0.0
+Beach Cars of West Palm Inc.,1,0.0
+"I.Q. DATA INTERNATIONAL, INC.",1,0.0
+"Io, Inc.",1,0.0
+"Brian McCaffrey, Attorney At Law",1,0.0
+"SIERRA LENDING GROUP, LLC",1,0.0
+Michael Andrews & Associates LLC,1,0.0
+"Surf Consultants, Inc.",1,0.0
+"Bryant, Hodge & Associates LLC",1,0.0
+"National Credit Services, Inc.",1,0.0
+"O&L LAW GROUP, P.L.",1,0.0
+ARBOR MORTGAGE,1,0.0
+Wisdom Financial,1,0.0
+Home Base Mortgage Group,1,0.0
+"OSG Group Holdings, Inc.",1,0.0
+"PMGI, LLC",1,0.0
+Texas Professional Mortgage LLC,1,0.0
+Viking Client Services,1,0.0
+Finance Store Inc.,1,0.0
+"Media Collections, Inc",1,0.0
+"Reliable Home Lenders, LLC",1,0.0
+"Campus Student Funding, LLC",1,0.0
+"Pro Equity Partners, Inc.",1,0.0
+"MM Finance, LLC, Bellevue, NE Branch",1,0.0
+BHA Services,1,0.0
+"Top Asset Solutions, LLC",1,0.0
+ML Mortgage Corp.,1,0.0
+Simon PLC Attorneys & Counselors,1,0.0
+"LUKE, JOHNSON & LEWIS LLC",1,0.0
+Thunder Auto Finance LLC,1,0.0
+DEVLIN INC,1,0.0
+Mother Lode Holding Company,1,0.0
+"Laelia, LLC",1,0.0
+Payment Servicing Corporation,1,0.0
+"PayFiniti, LLC",1,0.0
+Ameritan Group Services,1,0.0
+Student Loan Finance Corporation,1,0.0
+"Mary Jane M. Elliott, P.C. Attorneys At Law",1,0.0
+"Consumer Attorneys of America, P.A.",1,0.0
+"Midstate Finance Company, Inc.",1,0.0
+Mortgage Banking Associates Inc,1,0.0
+Home Financial Corporation,1,0.0
+"First Advantage Title Partners, LLC",1,0.0
+National Credit Processing Inc.,1,0.0
+"Blackstad, Hrabe, Kirlorsky, LLC",1,0.0
+"OP Group Holdings, LLC",1,0.0
+Infinity Home Lending,1,0.0
+EDULOAN DOCS,1,0.0
+"STONELEIGH RECOVERY ASSOCIATES, LLC",1,0.0
+"Relin, Goldstein & Crane, LLP",1,0.0
+"Smoky Management, LLC",1,0.0
+"RSI Enterprises, Inc.",1,0.0
+"HEAD MERCANTILE CO., INC.",1,0.0
+Mickel Law Firm. P.A.,1,0.0
+"SOUTH EXCHANGE, INC",1,0.0
+"A-M-S Mortgage Services, Inc.",1,0.0
+"CLA Co, Inc.",1,0.0
+"Brio Management Group, LLC",1,0.0
+National Home Buyer’s Alliance,1,0.0
+"CAPITAL AUTO FINANCIAL, INC.",1,0.0
+EM Auto Corporation,1,0.0
+DLG LLC,1,0.0
+"B Walters CO., LLC",1,0.0
+"Independence Capital Recovery, LLC",1,0.0
+The Peak Service Corp.,1,0.0
+Brentwood Pacific Financial,1,0.0
+Mohsin Mortgage Corp.,1,0.0
+"The RaymondPaul Group, LLC",1,0.0
+"Mid-Continent Funding, Inc.",1,0.0
+"Jormandy, LLC",1,0.0
+"Access Auto Group, Inc.",1,0.0
+American Title Managers LLC,1,0.0
+"Nevada Credico, Inc.",1,0.0
+Secure Lending Incorporated,1,0.0
+"Law Offices Howard Lee Schiff, P.C.",1,0.0
+"Equidata, Inc.",1,0.0
+GOLDEN BEAR CAPITAL INC.,1,0.0
+Southern Management Systems Inc.,1,0.0
+"Land Closing Services, Inc.",1,0.0
+"Lightspeed Mortgage, Inc.",1,0.0
+"Midwest Recovery Fund, LLC",1,0.0
+"RCO Legal, P.S.",1,0.0
+"Full Service Mortgage Group, LLC",1,0.0
+Magnum Association Services,1,0.0
+Balbec Capital LP,1,0.0
+Wexford & James LLC,1,0.0
+"MarineMax East, Inc.",1,0.0
+CREDIT CARD MANAGEMENT SERVICES INC,1,0.0
+"Credit Systems International, Inc.",1,0.0
+Golden Financial Services,1,0.0
+"States Title Holding, Inc.",1,0.0
+"1ST IBERIA CREDIT, INC.",1,0.0
+"Devor Mortgage Investment Corp, DBA Quality Home Mortgage",1,0.0
+"Money Transfer Systems, Inc.",1,0.0
+"BRAUFMANN, LEIGHMANN & ASSOCIATES",1,0.0
+"Success Mortgage, LLC",1,0.0
+"Berlin-Wheeler, Inc. (Kansas)",1,0.0
+"DOSS Group, Inc.",1,0.0
+DAS Inc,1,0.0
+EliteCashWire.com Inc,1,0.0
+HOMEPROMISE CORPORATION,1,0.0
+ABC Loan of Martinez/ Georgia Finco Holding Corp,1,0.0
+Sunset Marketing Group LLC. DBA Acceptance Financial,1,0.0
+Credit Star Funding,1,0.0
+"Capital Assessment Service Company, Inc.",1,0.0
+Genpact Limited,1,0.0
+"Equity Express Mortgage, LLC",1,0.0
+Cardinal Branch,1,0.0
+PROVINCE MORTGAGE ASSOCIATES,1,0.0
+Modern Adjustment Bureau,1,0.0
+24/7 MORTGAGE CORPORATION,1,0.0
+"Prober & Raphael, A Law Corporation",1,0.0
+"Automotive Financial of America, Inc.",1,0.0
+William Raveis Real Estate,1,0.0
+"HOUSTONIAN MORTGAGE GROUP, INC.",1,0.0
+"Professional Bureau of Collections of Maryland, Inc., GREENWOOD VILLAGE, CO Branch",1,0.0
+"Precise Home Loans, LLC",1,0.0
+"POLI MORTGAGE GROUP, INC.",1,0.0
+KENT MORTGAGE CORPORATION,1,0.0
+Alvamar Financial,1,0.0
+Central Business Funding,1,0.0
+"Portfolio America Asset Management, LLC",1,0.0
+"Franklinton Pre-Owned, Inc.",1,0.0
+Victory Realty at the Greene LLC,1,0.0
+"FIRST CASH FINANCIAL SERVICES, INC.",1,0.0
+"National Budget Planners of South Florida, Inc",1,0.0
+"Pegasus Legal Capital, LLC",1,0.0
+Grant & Weber,1,0.0
+"Credit Bureau Collection Services, Inc.",1,0.0
+Consumer Adjustment Corp USA,1,0.0
+Park Company Realtors,1,0.0
+The Borrowing Club,1,0.0
+"Orion Portfolio Services, LLC",1,0.0
+Florida Coastal Closing & Escrow LLC,1,0.0
+Capital Core Advisors LLC,1,0.0
+CalLoan Corp,1,0.0
+Huron Law Group PLLC,1,0.0
+Debt Solutions LLC,1,0.0
+College Guidance Resources  LLC,1,0.0
+APPLE RECOVERY SERVICES CORP,1,0.0
+"Merchants & Medical Adjustment Bureau, Inc. dba Credit Bureau Associates",1,0.0
+The Car Network llc,1,0.0
+JOSEPH R. HARRISON CO. LPA,1,0.0
+London & London,1,0.0
+"Dolliemac, LLC dba Elite Document Management Solutions",1,0.0
+"Senior Management Group, Inc.",1,0.0
+"EVERGREEN PROFESSIONAL RECOVERIES, INC.",1,0.0
+Working Solutions CDFI,1,0.0
+"Paragon Mortgage Services, Inc.",1,0.0
+"DSW Carolina, LLC d/b/a Resource Services",1,0.0
+"Summit Mortgage Group, LLC",1,0.0
+PROSPER FIRST FUNDING CORPORATION,1,0.0
+"Snap Mortgage, LLC",1,0.0
+CFS of Aurora IL LLC,1,0.0
+Nemovi Law Group,1,0.0
+"Frontier Consumer Law Group, LLC",1,0.0
+PacWest Funding Inc,1,0.0
+"Pivot Rock Solutions, LLC",1,0.0
+"Global Portfolio Recovery, LLC",1,0.0
+"Jones & Walden, LLC",1,0.0
+"GEMINI CAPITAL GROUP, LLC",1,0.0
+"Vital Solutions, Inc.",1,0.0
+"PingYo, Inc.",1,0.0
+"Law Offices of Paul L. Marks, P.L.L.C",1,0.0
+Moran Financial Group LLC,1,0.0
+ATM OPS Inc,1,0.0
+Greenway Mortgage Funding Corp.,1,0.0
+"Red River Collection Company, Inc.",1,0.0
+Lighthouse Finance Solutions LLC,1,0.0
+Trustpoint Lending Corporation,1,0.0
+"Digital Mortgage, LLC",1,0.0
+"Choice Recovery, Inc.",1,0.0
+Great Northern Mortgage Corp.,1,0.0
+"MORTGAGE LINK, INC., THE",1,0.0
+FINANTA FEDERAL CREDIT UNION,1,0.0
+Amerivest Mortgages,1,0.0
+NORTH AMERICAN FINANCIAL CORP,1,0.0
+"National Check Bureau, Inc.",1,0.0
+"Zillow Group Marketplace, Inc.",1,0.0
+"American Accounts & Advisers, Inc.",1,0.0
+CREDIGY SOLUTIONS INC.,1,0.0
+Residential Funding Consultants LLC,1,0.0
+Cleveland Mortgage Corporation,1,0.0
+Medical-Commercial Audit Inc,1,0.0
+"Delta Management Associates, Inc.",1,0.0
+"Zo Financial, Inc.",1,0.0
+SGCP Holdco LLC,1,0.0
+"Keowee Auto Sales, Inc.",1,0.0
+cottman check cashing l.p.,1,0.0
+FYM Capital LLC,1,0.0
+"Rogers, Carter & Payne, LLC",1,0.0
+Dependable Debt Recovery,1,0.0
+"Higlobe, Inc.",1,0.0
+Kiwi Financial Inc.,1,0.0
+1 Stop Payday Loan Services LLC,1,0.0
+ASAP Credit Repair,1,0.0
+"LEIJA ENTERPRISES, INC.",1,0.0
+"Business Processing Solutions, LLC",1,0.0
+New Silver Lending LLC,1,0.0
+AJM Consultants LLC,1,0.0
+Kohn Law Firm S.C.,1,0.0
+Schukei Chevrolet Volkswagen,1,0.0
+"McManamy, McLeod, Heller, LLC",1,0.0
+"Avrutis & Foeller, P.A.",1,0.0
+"Automotive Funding Group, Inc",1,0.0
+Apex Resolution Group LLC,1,0.0
+AAA Collections,1,0.0
+"Certus Capital, LLC",1,0.0
+Unity Asset Management,1,0.0
+BAKER GOVERN & BAKER INC,1,0.0
+"Cumberland Financial Services, INC.",1,0.0
+"Debtsy Holdings, Inc.",1,0.0
+Michigan First Title Agency,1,0.0
+iHome Financial Inc.,1,0.0
+"MORTGAGE BANK OF CALIFORNIA, INC.",1,0.0
+"National Medical Administrators, Inc",1,0.0
+Lo Inc. DBA Reliance Mortgage,1,0.0
+"Direct Home Loans, LLC",1,0.0
+"Emerge Financial Services, Inc.",1,0.0
+ABC First Inc,1,0.0
+Students Come First,1,0.0
+Credit Quick,1,0.0
+Pacific Mortgage Planning LLC,1,0.0
+North American Credit Services,1,0.0
+Patriot Mortgage Corporation,1,0.0
+"GLOBAL TRUST FINANCE, LLC",1,0.0
+4 RE Services llc,1,0.0
+"1 Auto Finance, Inc.",1,0.0
+WINCHESTER SELLERS FOSTER & STEELE PC,1,0.0
+PHILADELPHIA MORTGAGE ADVISORS,1,0.0
+"Intelty, Inc",1,0.0
+"Hood & Stacy, P.A.",1,0.0
+Lakeside Title Company,1,0.0
+"Nationwide T & L Holdings, LLC",1,0.0
+Northland Healthcare Alliance,1,0.0
+AIH Receivables Management Inc.,1,0.0
+GABA LAW CORPORATION,1,0.0
+"Envision Payment Solutions, Inc.",1,0.0
+Advanced Portfolio Group LLC,1,0.0
+Schreiber Law LLC,1,0.0
+"The McHughes Law Firm, LLC",1,0.0
+"Action Collection Agencies, Inc.",1,0.0
+Triple AC Resolutions,1,0.0
+Varolii Corporation,1,0.0
+"LAWGIX LAWYERS, LLC",1,0.0
+Lafayette General Medical Center,1,0.0
+"ACE LENDING GROUP, LLC",1,0.0
+"Cars Financial, Inc",1,0.0
+Preferred Finanical Services Corporation,1,0.0
+"Merchants and Medical Credit Corporation, Inc.",1,0.0
+"Express Collections, Inc.",1,0.0
+"Daniels Norelli Scully & Cecere, P.C.",1,0.0
+Girosol Corp.,1,0.0
+"Liberate Debt, Inc. 9156",1,0.0
+United Credit Education Services,1,0.0
+"Summerfield Mortgage, LLC",1,0.0
+eCon Credit LP,1,0.0
+Gulf Coast Auto Credit Corporation,1,0.0
+SIBCY CLINE MORTGAGE SERVICE,1,0.0
+"Mortgage One Solutions, Inc.",1,0.0
+"Vantage Sourcing, LLC",1,0.0
+Lender Estimate LLC,1,0.0
+"First Premier Mortgage Lending, LLC",1,0.0
+"Oliver Enterprises, Inc",1,0.0
+"Financial Freedom Group, LLC",1,0.0
+"Hypur, Inc",1,0.0
+Pacific Retrieval LLC,1,0.0
+"FMK Credit Education Center, INC",1,0.0
+"Consumer Financial Debt Services, LLC",1,0.0
+"Sky Bridge Financial, LLC",1,0.0
+PCF Holdings Corp.,1,0.0
+"LKN Capital Mortgage, Inc.",1,0.0
+"CALM, Inc.",1,0.0
+Start Connecting dba USA Student Debt Relief,1,0.0
+Direct Account Management,1,0.0
+"First Florida Financial, Inc.",1,0.0
+"Vision Mortgage Company, Ltd.",1,0.0
+"Clarfield, Okon, Salomone and Pincus, P.L.",1,0.0
+"MERFICAP, LLC",1,0.0
+"iReverse Home Loans, Corporation",1,0.0
+"Birchwood Credit Services, Inc.",1,0.0
+"Account Recovery Specialists, Inc.",1,0.0
+CENTURY MORTGAGE COMPANY,1,0.0
+"Check Loans of South Carolina, Inc.",1,0.0
+Benefit Mortgage,1,0.0
+Automotive Financial Services,1,0.0
+Lakeview Mortgage Bankers Corp.,1,0.0
+Credit Adjustments Inc,1,0.0
+"Wall Financial, Inc.",1,0.0
+"Mortgage Team 1, Inc.",1,0.0
+Liberty SBF,1,0.0
+Blueleven Capital Corporation,1,0.0
+"Savvy Money, Inc.",1,0.0
+Elite 1 Financial Services,1,0.0
+"CUSO Development Company, LLC",1,0.0
+"Genius Technologies, Inc",1,0.0
+Copeland Mortgage Company,1,0.0
+"MLM Investors, LLC",1,0.0
+True Finance,1,0.0
+Advise Solutions Services LLC,1,0.0
+INTERACTIVE MORTGAGE,1,0.0
+Philip Sellers P.C.,1,0.0
+"Ladera Ranch Home Loans, Inc.",1,0.0
+"Consumer Credit Services, LLC",1,0.0
+Williams & Rivera Litigation Group LLC,1,0.0
+Potomac Trust Mortgage Company LLC,1,0.0
+"Cortland Capital Group, LLC",1,0.0
+"CNC MORTGAGE, LLC",1,0.0
+"Barley Mortgage, LLC",1,0.0
+"Indian River County Habitat for Humanity, Inc.",1,0.0
+"Augusta Financial, Inc.",1,0.0
+"The Law Offices of Jennifer McCoy, PC",1,0.0
+PACIFIC FORESIGHT FINANCIAL CORPORATION,1,0.0
+"Titan Home Lending,LLC",1,0.0
+"Palisade Legal Group, PLLC",1,0.0
+SATORI FINANCIALMORTGAGE GROUP LLC,1,0.0
+"4M Collections, LLC",1,0.0
+"Consumer Financial Services of Tampa, FL LLC",1,0.0
+Broadway Account Services,1,0.0
+"Capstone Credit & Collection, LLC.",1,0.0
+"RIGHT SIDE UP LENDING, LLC",1,0.0
+Lacy Katzen LLP,1,0.0
+Spark Mortgage Advisors LLC,1,0.0
+"Friedman, Framme & Thrush, P.A.",1,0.0
+US Mortgage Lenders LLC,1,0.0
+First Equity Mortgage Group LLC,1,0.0
+Colonial Mortgage Service Co. Of America,1,0.0
+Sentrix Financial Services,1,0.0
+Legacy Title Service,1,0.0
+NEW YORK STATE HIGHER EDUCATION SERVICES CORPORATION (HESC)—,1,0.0
+"Brewer's Quality Homes, Inc.",1,0.0
+New Start Capital,1,0.0
+"PMR Progressive, LLC",1,0.0
+Landed Home Loans LLC,1,0.0
+"R J Baucum Enterprises, Inc.",1,0.0
+Cohen & Associates,1,0.0
+"O'Kelley & Sorohan, Attorneys at Law, LLC",1,0.0
+Van Patten Mortgage Group,1,0.0
+"Unitas Lending, LLC",1,0.0
+Madison Avenue Associates,1,0.0
+Underwood James and Associates LLC,1,0.0
+"GAMACHE & MYERS, PC",1,0.0
+Credit Connection LLC,1,0.0
+Financial Solutions of America Inc.,1,0.0
+Fidelity First Real Estate and Mortgage Inc,1,0.0
+"Action Professionals, Inc.",1,0.0
+Mahomes Capital,1,0.0
+"Data Search NY, Inc.",1,0.0
+"MEMBERS MORTGAGE COMPANY, INC.",1,0.0
+"America Trust Funding-Mortgage, Bankers LLC",1,0.0
+Tate and Kirlin Assoc,1,0.0
+CRE Credit Services,1,0.0
+"HomeLight, Inc.",1,0.0
+"Wetlands Holdings, Inc.",1,0.0
+"Speed1, Inc",1,0.0
+Federal First Lending LLC,1,0.0
+"Loanatik, L.L.C.",1,0.0
+"Real Pay, Inc",1,0.0
+Mortgage Corp. of the East - III,1,0.0
+Clear Point Home Loans LLC,1,0.0
+"Receivables Performance Management, LLC",1,0.0
+"Timios, Inc.",1,0.0
+Hudson United Mortgage LLC,1,0.0
+Standard Mortgage Group LLC,1,0.0
+"Family Financial Care, Inc.",1,0.0
+"Rate Rabbit, Inc.",1,0.0
+"Richard D. London & Associates, P.C.",1,0.0
+"Equihome Mortgage, LLC",1,0.0
+First Direct Mediation,1,0.0
+"G.W. Golden Enterprises, Inc.",1,0.0
+"Christensen Financial, Inc.",1,0.0
+Cajie LLC,1,0.0
+DoubleCheck Solutions,1,0.0
+K & B Capital Corp,1,0.0
+SE Capital Corp dba Credito Familiar,1,0.0
+"United Accounts, Inc.",1,0.0
+TRINITY CAPITAL ADVISORS LLC,1,0.0
+Empire Realty Inc. DBA US Funding Co.,1,0.0
+"Foothills Mortgage Group, LLC",1,0.0
+"SHAZAM, INC./IOWA TRANSFER SYSTEM, INC. (ITS)",1,0.0
+WALTON FUNDING LLC,1,0.0
+"New Horizons Finance Company, Inc",1,0.0
+First Sun Financial Inc,1,0.0
+Wallace Consulting and Investment Corp,1,0.0
+Granite Bay Acceptance Inc.,1,0.0
+"AFM Financial Services, LLC",1,0.0
+PROVENTURE CAPITAL LLC,1,0.0
+Ben Franklin Finance LLC,1,0.0
+Clear Lending Corp,1,0.0
+Liberty Capital Services LLC,1,0.0
+Patrick Scanlon P.A.,1,0.0
+Inspire Mortgage LLC.,1,0.0
+"United Services Veterans Mortgage, LLC",1,0.0
+"Garden State Check Cashing Service, Inc.",1,0.0
+Smart Money Alliance,1,0.0
+"UNIVERSAL COLLECTION SYSTEMS, INC",1,0.0
+RANTAX INC,1,0.0
+First Capital Recovery Inc.,1,0.0
+American Mortgage Partners Inc.,1,0.0
+"EZ Mortgages, Inc",1,0.0
+"Southern Service Systems, Inc.",1,0.0
+Ricardo A. Gonzalez dba Performance Elite Lending,1,0.0
+Weissman Attorney at Law,1,0.0
+"Cashco Financial Services, Inc",1,0.0
+IOWA MORTGAGE SOLUTIONS INC,1,0.0
+Post Oak Title,1,0.0
+"SUN FINANCE COMPANY, LLC",1,0.0
+"JNR Adjustment Company, Inc",1,0.0
+"Be Money, Inc. (DBA Daylight)",1,0.0
+"Welcome Tech, Inc.",1,0.0
+"Benchmark Capital Management, LLC",1,0.0
+Doral Capital Corporation,1,0.0
+Direct Capital,1,0.0
+"Prime Business Service, LLC",1,0.0
+Vision Financial Corp.,1,0.0
+Full Advance LLC,1,0.0
+AMERICAN FINANCIAL MORTGAGE CORPORATION,1,0.0
+"Starlight Mortgage, Inc.",1,0.0
+"Select One Mortgage, Inc.",1,0.0
+"Nobilis Credit Management, LLC.",1,0.0
+Alpha Recovery Corp,1,0.0
+"D'Aquila, Contreras and Vega, A Professional Law Corporation",1,0.0
+"West Law Group, PLLC",1,0.0
+Cade Investments LLC,1,0.0
+Molinar LLC dba El Patron Title Loans,1,0.0
+"College Ave Student Loan Servicing, LLC",1,0.0
+East McComb Check Cash,1,0.0
+"Helping Hand Financial, Inc",1,0.0
+"Landmark Strategy Group, LLC",1,0.0
+Rockwallet LLC,1,0.0
+"TORO COMPANY, THE",1,0.0
+UNIVERSAL ACCOUNTS LLC,1,0.0
+CBC Holdings LLC,1,0.0
+"Northern Alliance Management, LLC",1,0.0
+"America's Mortgage Center, LTD.",1,0.0
+"Steps Home Loans, LLC",1,0.0
+"Duane C. Romanello, P.A., Inc.",1,0.0
+Hometown Title Agency,1,0.0
+"LPI-IV, LLC dba American Foreclosure Prevention",1,0.0
+"Federal Pacific Credit Company, LLC",1,0.0
+"Niagara Capital Associates, Inc.",1,0.0
+MTACC Inc.,1,0.0
+Millco Management,1,0.0
+Accelerated Servicing Group LLC,1,0.0
+"Action One Mortgage Banker, LLC",1,0.0
+"Absolute Recovery Services, LLC",1,0.0
+X5 Home Loans LLC,1,0.0
+Monex Inc.,1,0.0
+EQUITABLE MORTGAGE CORPORATION,1,0.0
+RUEDY & STITES ADVERTISING COMPANY,1,0.0
+Boxwood Mortgage LLC,1,0.0
+"American Financial Mortgage Services, Inc.",1,0.0
+Ceannate,1,0.0
+Red Star Mortgage,1,0.0
+"Free Debt USA, Inc",1,0.0
+AFFORDABLE MORTGAGE ADVISORS LLC,1,0.0
+"Preferred Capital Funding of Illinois, LLC",1,0.0
+Lighthouse Acceptance Corporation,1,0.0
+"O&G Title, Inc",1,0.0
+Thayer Properties Inc. DBA Residential First Capital,1,0.0
+South Mississippi Collection Services Inc.,1,0.0
+The CFM Group,1,0.0
+"Straley & Otto, P.A.",1,0.0
+KP ASSET CONSULTING LLC,1,0.0
+"Grace Period, Inc.",1,0.0
+"Bass & Associates, P.C., Attorneys at Law",1,0.0
+PREFERRED LOANS LLC,1,0.0
+Fowler Bell PLLC,1,0.0
+R & B Corporation of Virginia,1,0.0
+LL Services Parent LLC,1,0.0
+Patriot Lending Services Inc,1,0.0
+"RGL Associates, Inc.",1,0.0
+"Own Up Holdings, Inc.",1,0.0
+"America's Mortgage Lender, L.L.C.",1,0.0
+"Total Customer Service, Inc.",1,0.0
+"Two Rivers Title Company, LLC",1,0.0
+"The Stark Collection Agency, Inc.",1,0.0
+"American Settlement Funding, LLC",1,0.0
+"Nationwide Recovery Systems, Ltd",1,0.0
+"On The Barrelhead, LLC",1,0.0
+"HomePace, Inc.",1,0.0
+Security Mortgage Corporation,1,0.0
+"Equity 4 U, Inc.",1,0.0
+Diversified Company,1,0.0
+Pauls Auto Sales & Service Inc,1,0.0
+International Credit Inc,1,0.0
+"Trio Financial Technologies, Inc. DBA Finch",1,0.0
+"Miller and Steeno, P.C.",1,0.0
+Family Credit Management,1,0.0
+Southern Mortgage Corp.,1,0.0
+CSO Financial,1,0.0
+ASSOCIATED MORTGAGE CORP,1,0.0
+"Flyhomes Mortgage, LLC",1,0.0
+"SouthLaw, P.C.",1,0.0
+"C&I Financial, Inc.",1,0.0
+"American Fidelity Mortgage Services, Inc.",1,0.0
+"Interstate Credit Solutions, LLC",1,0.0
+"Certified Solutions, Inc",1,0.0
+NORTHWAY BROKER LTD.,1,0.0
+Home Funding Corporation,1,0.0
+Western Management Consultants,1,0.0
+"Esler And Lindie, P.A.",1,0.0
+Groundwork Holdings LLC,1,0.0
+"Evans, Simpson and Associates, Inc.",1,0.0
+First Pacific Funding Inc.,1,0.0
+" Lippman Recupero, LLC",1,0.0
+"Razor Capital, LLC",1,0.0
+CWI INC,1,0.0
+"Blueprint Holding Co., Inc",1,0.0
+"PAID IN FULL, INC.",1,0.0
+"Larsen & Associates, P.L.",1,0.0
+South Coast Doc Prep,1,0.0
+"Daiyaan, Inc",1,0.0
+"Arnold Scott Harris, P.C.",1,0.0
+"Collection Bureau of the Hudson Valley, Inc.",1,0.0
+"Portfolio Investment Exchange, Inc.",1,0.0
+"St John Rossin & Burr, PLLC",1,0.0
+"RS Clark and Associates, Inc.",1,0.0
+TASO Group LLC,1,0.0
+"Car Credit Solutions, Inc.",1,0.0
+West Coast Mortgage Associates,1,0.0
+"Andrews Law Firm, PLLC",1,0.0
+MicroBilt / PRBC (formerly CL Verify),1,0.0
+HLT CHECK EXCHANGE LLP,1,0.0
+"MILLENNIUM FINANCIAL GROUP, L.L.C.",1,0.0
+FAITH FINANCIAL LLC,1,0.0
+"COAST 2 COAST LENDERS, LLC",1,0.0
+RELIABLE HOLDINGS MANAGER LLC,1,0.0
+"REISENFELD & ASSOCIATES LPA, LLC",1,0.0
+"FlexPoint, Inc.",1,0.0
+PLAC Guarantee,1,0.0
+Financial Data Systems,1,0.0
+"Lender Services, Inc",1,0.0
+CaseAdvance,1,0.0
+"Bay Area Receivables, Inc",1,0.0
+Tactical Mortgage LLC,1,0.0
+"1ST CHOICE LOANS, LLC.",1,0.0
+Volunteer Mortgage Inc,1,0.0
+Rediger Investment Corporation,1,0.0
+"Jon Barry and Associates, Inc.",1,0.0
+"COLLECTION ASSOCIATES, LTD.",1,0.0
+RumbleOn Finance LLC,1,0.0
+Citizen Mortgage LLC,1,0.0
+"Bench Equity, L.L.C.",1,0.0
+"Barrett Motors, Inc.",1,0.0
+"Princeton Financial, LLC",1,0.0
+"Thrifty Loans, LLC",1,0.0
+"Results Unlimited, Inc.",1,0.0
+Citywide Finance Company Inc.,1,0.0
+"Jenkins, Wagnon & Young, P.C.",1,0.0
+"The Law Offices of Barry J. Gammons, PLLC",1,0.0
+XANDER MORTGAGE & REAL ESTATE INC,1,0.0
+American Mortgage Inc.,1,0.0
+Surepay Lending Group LLC,1,0.0
+"Ozark Mountain Mortgage, LLC",1,0.0
+"Account Control Technology, Inc.",1,0.0
+LT17 Services LLC,1,0.0
+"Costner Law Office, PLLC",1,0.0
+DriveNow Leasing LLC,1,0.0
+DTA GROUP LLC,1,0.0
+"Torres Credit Services, Inc.",1,0.0
+Loan Park (Loanpark Mortgage Lending),1,0.0
+BLACK MANN & GRAHAM LLP,1,0.0
+"American Home Funding, Inc.",1,0.0
+"Personal Asset Recovery, LLC",1,0.0

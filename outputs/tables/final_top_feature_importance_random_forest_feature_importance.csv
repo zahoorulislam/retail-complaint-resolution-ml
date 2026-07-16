@@ -1,0 +1,31 @@
+feature,importance
+cat__company_grouped_Other,0.2777209791689778
+"cat__company_grouped_BANK OF AMERICA, NATIONAL ASSOCIATION",0.0444687023893287
+cat__company_grouped_JPMORGAN CHASE & CO.,0.0403515340207978
+cat__sub_product_General-purpose credit card or charge card,0.0291129757336302
+cat__company_grouped_CAPITAL ONE FINANCIAL CORPORATION,0.0262185139736459
+cat__product_Credit card,0.0259990110158793
+cat__company_grouped_WELLS FARGO & COMPANY,0.0237327855074872
+cat__sub_issue_Unknown,0.0229096976841409
+"cat__company_grouped_CITIBANK, N.A.",0.0207001166900645
+num__narrative_length,0.0169630709868682
+cat__sub_product_Domestic (US) money transfer,0.0135669031058777
+"cat__product_Payday loan, title loan, or personal loan",0.0127029202535815
+cat__product_Prepaid card,0.0124963895834552
+cat__year_received_2017,0.0115114568538801
+cat__product_Checking or savings account,0.0113491737305396
+cat__year_received_2025,0.0113391975689676
+"cat__company_grouped_Paypal Holdings, Inc",0.0111419802057456
+cat__product_Bank account or service,0.0108293370686747
+"cat__company_grouped_Block, Inc.",0.0094139630635386
+cat__product_Mortgage,0.0093294238157853
+cat__sub_product_Checking account,0.0083829066930347
+cat__year_received_2021,0.0079376820268914
+cat__company_grouped_SYNCHRONY FINANCIAL,0.0077312939511033
+cat__company_grouped_U.S. BANCORP,0.0075515373065711
+cat__year_received_2024,0.0071525883942717
+"cat__company_grouped_Early Warning Services, LLC",0.0070605693009262
+cat__company_grouped_NAVY FEDERAL CREDIT UNION,0.0069300751074583
+cat__sub_product_Installment loan,0.006826850508462
+cat__sub_product_Government benefit card,0.0067535801958332
+cat__issue_Other transaction problem,0.0067469947482468

@@ -1,0 +1,2 @@
+row_variable,column_variable,n_records,chi_square,degrees_of_freedom,p_value,cramers_v,p_value_interpretation,effect_size_interpretation
+company_grouped,timely_response,1289027,20007.220698918216,30,0.0,0.12458402975880568,Reject H0: statistically significant association.,Weak effect size.

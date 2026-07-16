@@ -1,0 +1,5 @@
+tags,total_records,false_positive_count,false_negative_count,error_count,average_predicted_probability,actual_timely_rate,predicted_timely_rate,error_rate_percent,false_positive_rate_percent,false_negative_rate_percent,actual_timely_rate_percent,predicted_timely_rate_percent
+Servicemember,3649,11,886,897,0.6714,0.9841052343107701,0.7443135105508358,24.58,0.3,24.28,98.41,74.43
+Unknown,37309,91,7755,7846,0.7001,0.9858479187327455,0.7804283148838081,21.03,0.24,20.79,98.58,78.04
+Older American,3159,14,596,610,0.6975,0.9879708768597657,0.8037353592909149,19.31,0.44,18.87,98.8,80.37
+"Older American, Servicemember",883,3,166,169,0.7006,0.9898074745186863,0.8052095130237825,19.14,0.34,18.8,98.98,80.52

@@ -1,0 +1,6 @@
+submitted_via,total_records,false_positive_count,false_negative_count,error_count,average_predicted_probability,actual_timely_rate,predicted_timely_rate,error_rate_percent,false_positive_rate_percent,false_negative_rate_percent,actual_timely_rate_percent,predicted_timely_rate_percent
+Postal mail,749,1,170,171,0.6871,0.9919893190921228,0.7663551401869159,22.83,0.13,22.7,99.2,76.64
+Phone,3181,5,721,726,0.662,0.9827098396730588,0.7576233888714241,22.82,0.16,22.67,98.27,75.76
+Fax,111,0,24,24,0.6656,0.9819819819819819,0.7657657657657657,21.62,0.0,21.62,98.2,76.58
+Web,36946,102,7686,7788,0.702,0.9860066042332052,0.7807340442808424,21.08,0.28,20.8,98.6,78.07
+Referral,4013,11,802,813,0.6886,0.9867929230002492,0.7896835285322701,20.26,0.27,19.99,98.68,78.97
