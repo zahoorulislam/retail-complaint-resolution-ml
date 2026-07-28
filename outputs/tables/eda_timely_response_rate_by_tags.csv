@@ -1,0 +1,5 @@
+tags,total_records,positive_records,positive_rate,positive_rate_percent,overall_rate_percent,rate_difference_vs_overall_pp
+"Older American, Servicemember",26010,25666,0.9867743175701653,98.68,98.59,0.09
+Missing,1069670,1054640,0.9859489375227874,98.59,98.59,0.0
+Older American,89503,88243,0.9859222595890641,98.59,98.59,0.0
+Servicemember,103844,102353,0.9856419244250992,98.56,98.59,-0.03

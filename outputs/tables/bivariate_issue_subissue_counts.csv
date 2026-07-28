@@ -1,0 +1,296 @@
+issue,sub_issue,count,percent_of_total
+APR or interest rate,Missing sub-issue,250,0.02
+"Account opening, closing, or management",Missing sub-issue,3271,0.25
+Account terms and changes,Missing sub-issue,9,0.0
+Adding money,Missing sub-issue,13,0.0
+Advertising,Confusing or misleading advertising about the card,373,0.03
+Advertising,Changes in terms from what was offered or advertised,171,0.01
+Advertising and marketing,Missing sub-issue,202,0.02
+"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms,9436,0.73
+"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card,6895,0.53
+"Advertising, marketing or disclosures",Missing sub-issue,8,0.0
+Application processing delay,Missing sub-issue,55,0.0
+"Application, originator, mortgage broker",Missing sub-issue,1128,0.09
+Applied for loan/did not receive money,Missing sub-issue,16,0.0
+Applying for a mortgage or refinancing an existing mortgage,Missing sub-issue,20917,1.62
+Applying for a mortgage or refinancing an existing mortgage,Trying to communicate with the company to fix an issue with the application process,1261,0.1
+Applying for a mortgage or refinancing an existing mortgage,Application denials,1176,0.09
+Applying for a mortgage or refinancing an existing mortgage,Delays in the application process,820,0.06
+Applying for a mortgage or refinancing an existing mortgage,Confusing or misleading advertising or marketing,787,0.06
+Applying for a mortgage or refinancing an existing mortgage,Changes in loan terms during the application process,602,0.05
+Applying for a mortgage or refinancing an existing mortgage,Loan estimate or other related disclosures,356,0.03
+Applying for a mortgage or refinancing an existing mortgage,Fees or costs during the application process,349,0.03
+Applying for a mortgage or refinancing an existing mortgage,Negative impact of inaccurate appraisal,184,0.01
+Arbitration,Missing sub-issue,33,0.0
+Balance transfer,Missing sub-issue,88,0.01
+Balance transfer fee,Missing sub-issue,18,0.0
+Bankruptcy,Missing sub-issue,18,0.0
+Billing disputes,Missing sub-issue,1405,0.11
+Billing statement,Missing sub-issue,178,0.01
+Can't contact lender,Missing sub-issue,119,0.01
+Can't contact lender or servicer,Missing sub-issue,1106,0.09
+Can't stop charges to bank account,Missing sub-issue,38,0.0
+Can't stop withdrawals from your bank account,Missing sub-issue,833,0.06
+Cash advance,Missing sub-issue,12,0.0
+Cash advance fee,Missing sub-issue,10,0.0
+Charged bank acct wrong day or amt,Missing sub-issue,23,0.0
+Charged fees or interest I didn't expect,Missing sub-issue,242,0.02
+Charged fees or interest you didn't expect,Missing sub-issue,13450,1.04
+Closing an account,Company closed your account,18921,1.47
+Closing an account,Funds not received from closed account,14022,1.09
+Closing an account,Can't close your account,8338,0.65
+Closing an account,Fees charged for closing account,1575,0.12
+Closing on a mortgage,Missing sub-issue,13149,1.02
+Closing on a mortgage,Trying to communicate with the company to fix an issue with the loan closing,1026,0.08
+Closing on a mortgage,Closing disclosure or other related disclosures,956,0.07
+Closing on a mortgage,Delays with the closing process,765,0.06
+Closing on a mortgage,Changes in loan terms during or after closing,756,0.06
+Closing on a mortgage,Fees or costs after closing,416,0.03
+Closing on a mortgage,Setting up an escrow account for taxes and insurance,96,0.01
+Closing your account,Company closed your account,19422,1.51
+Closing your account,Can't close your account,6195,0.48
+Closing/Cancelling account,Missing sub-issue,522,0.04
+Confusing or misleading advertising or marketing,Missing sub-issue,1115,0.09
+Confusing or missing disclosures,Missing sub-issue,4109,0.32
+Convenience checks,Missing sub-issue,13,0.0
+Credit card protection / Debt protection,Missing sub-issue,238,0.02
+Credit decision / Underwriting,Missing sub-issue,347,0.03
+Credit determination,Missing sub-issue,211,0.02
+Credit limit changed,Missing sub-issue,259,0.02
+Credit line increase/decrease,Missing sub-issue,152,0.01
+Credit monitoring or identity theft protection services,Billing dispute for services,813,0.06
+Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service,306,0.02
+Credit monitoring or identity theft protection services,Didn't receive services that were advertised,188,0.01
+Credit monitoring or identity theft protection services,Problem with product or service terms changing,170,0.01
+Credit monitoring or identity theft protection services,Received unwanted marketing or advertising,96,0.01
+Customer service / Customer relations,Missing sub-issue,307,0.02
+Delinquent account,Missing sub-issue,305,0.02
+Deposits and withdrawals,Missing sub-issue,1720,0.13
+Fees,Missing sub-issue,21,0.0
+Fees or interest,Problem with fees,23193,1.8
+Fees or interest,Charged too much interest,9501,0.74
+Fees or interest,Unexpected increase in interest rate,3531,0.27
+Forbearance / Workout plans,Missing sub-issue,33,0.0
+Fraud or scam,Missing sub-issue,39213,3.04
+Getting a credit card,Card opened without my consent or knowledge,15843,1.23
+Getting a credit card,Card opened as result of identity theft or fraud,12008,0.93
+Getting a credit card,Application denied,11863,0.92
+Getting a credit card,Sent card you never applied for,3584,0.28
+Getting a credit card,Delay in processing application,2016,0.16
+Getting a credit card,Problem getting a working replacement card,1533,0.12
+Getting a line of credit,Missing sub-issue,2861,0.22
+Getting a loan or lease,Fraudulent loan,3073,0.24
+Getting a loan or lease,Credit denial,2493,0.19
+Getting a loan or lease,Confusing or misleading advertising or marketing,1800,0.14
+Getting a loan or lease,Loan opened without my consent or knowledge,1567,0.12
+Getting a loan or lease,Changes in terms mid-deal or after closing,1186,0.09
+Getting a loan or lease,High-pressure sales tactics,624,0.05
+Getting a loan or lease,Problem with signing the paperwork,578,0.04
+Getting a loan or lease,Problem with additional add-on products or services purchased with the loan,438,0.03
+Getting a loan or lease,Problem with a trade-in,152,0.01
+Getting a loan or lease,Did not receive car title,71,0.01
+Getting a loan or lease,Confusing or misleading advertising,70,0.01
+Getting the loan,Missing sub-issue,4334,0.34
+Identity theft / Fraud / Embezzlement,Missing sub-issue,748,0.06
+Improper use of your report,Reporting company used your report improperly,3923,0.3
+Improper use of your report,Credit inquiries on your report that you don't recognize,2528,0.2
+Improper use of your report,Received unsolicited financial product or insurance offers after opting out,129,0.01
+Improper use of your report,Report provided to employer without your written authorization,111,0.01
+Incorrect exchange rate,Missing sub-issue,160,0.01
+Incorrect information on your report,Account status incorrect,31554,2.45
+Incorrect information on your report,Account information incorrect,10570,0.82
+Incorrect information on your report,Information belongs to someone else,7229,0.56
+Incorrect information on your report,Old information reappears or never goes away,1179,0.09
+Incorrect information on your report,Information is missing that should be on the report,1099,0.09
+Incorrect information on your report,Public record information inaccurate,571,0.04
+Incorrect information on your report,Personal information incorrect,515,0.04
+Incorrect information on your report,Incorrect information on your report,1,0.0
+Incorrect/missing disclosures or info,Missing sub-issue,14,0.0
+Issues with repayment,Missing sub-issue,236,0.02
+Late fee,Missing sub-issue,266,0.02
+Lender damaged or destroyed property,Missing sub-issue,2,0.0
+Lender damaged or destroyed vehicle,Missing sub-issue,2,0.0
+Lender repossessed or sold the vehicle,Missing sub-issue,8,0.0
+"Loan modification,collection,foreclosure",Missing sub-issue,4023,0.31
+Loan payment wasn't credited to your account,Missing sub-issue,739,0.06
+"Loan servicing, payments, escrow account",Missing sub-issue,4957,0.38
+Lost or stolen check,Missing sub-issue,427,0.03
+Lost or stolen money order,Missing sub-issue,740,0.06
+Lost or stolen refund,Missing sub-issue,11,0.0
+"Making/receiving payments, sending money",Missing sub-issue,639,0.05
+Managing an account,Deposits and withdrawals,71039,5.51
+Managing an account,Problem using a debit or ATM card,38479,2.99
+Managing an account,Funds not handled or disbursed as instructed,21540,1.67
+Managing an account,Banking errors,20485,1.59
+Managing an account,Problem accessing account,15693,1.22
+Managing an account,Problem making or receiving payments,11199,0.87
+Managing an account,Fee problem,8850,0.69
+Managing an account,Cashing a check,5965,0.46
+Managing an account,Deposits or withdrawals,1358,0.11
+Managing an account,Problem with renewal,389,0.03
+Managing an account,Problem with fees or penalties,349,0.03
+Managing an account,Missing sub-issue,5,0.0
+Managing the line of credit,Missing sub-issue,48,0.0
+Managing the loan or lease,Billing problem,13621,1.06
+Managing the loan or lease,Problem with fees charged,4552,0.35
+Managing the loan or lease,Problem with additional products or services purchased with the loan,3944,0.31
+Managing the loan or lease,Problem with the interest rate,3077,0.24
+Managing the loan or lease,Missing sub-issue,1844,0.14
+Managing the loan or lease,Loan sold or transferred to another company,1760,0.14
+"Managing, opening, or closing account",Missing sub-issue,111,0.01
+"Managing, opening, or closing your mobile wallet account",Missing sub-issue,10548,0.82
+Missing issue,Missing sub-issue,5,0.0
+Money was not available when promised,Missing sub-issue,10872,0.84
+Money was taken from your bank account on the wrong day or for the wrong amount,Missing sub-issue,583,0.05
+Opening an account,Unable to open an account,9406,0.73
+Opening an account,Didn't receive terms that were advertised,8632,0.67
+Opening an account,Account opened as a result of fraud,6673,0.52
+Opening an account,Account opened without my consent or knowledge,5083,0.39
+Opening an account,Confusing or missing disclosures,1499,0.12
+Other,Missing sub-issue,1226,0.1
+"Other features, terms, or problems",Other problem,19673,1.53
+"Other features, terms, or problems",Problem with rewards from credit card,8957,0.69
+"Other features, terms, or problems",Problem with customer service,4332,0.34
+"Other features, terms, or problems",Problem with balance transfer,2662,0.21
+"Other features, terms, or problems",Privacy issues,2466,0.19
+"Other features, terms, or problems",Add-on products and services,1188,0.09
+"Other features, terms, or problems",Credit card company forcing arbitration,448,0.03
+"Other features, terms, or problems",Problem with cash advances,446,0.03
+"Other features, terms, or problems",Problem with convenience check,182,0.01
+"Other features, terms, or problems",Missing sub-issue,1,0.0
+Other fee,Missing sub-issue,173,0.01
+Other service issues,Missing sub-issue,50,0.0
+Other service problem,Missing sub-issue,5049,0.39
+Other transaction issues,Missing sub-issue,134,0.01
+Other transaction problem,Missing sub-issue,67507,5.24
+"Overdraft, savings or rewards features",Missing sub-issue,4,0.0
+"Overdraft, savings, or rewards features",Missing sub-issue,181,0.01
+Overlimit fee,Missing sub-issue,9,0.0
+Payment to acct not credited,Missing sub-issue,53,0.0
+Payoff process,Missing sub-issue,168,0.01
+Privacy,Missing sub-issue,33,0.0
+Problem adding money,Missing sub-issue,942,0.07
+Problem caused by your funds being low,Overdrafts and overdraft fees,19353,1.5
+Problem caused by your funds being low,Non-sufficient funds and associated fees,4494,0.35
+Problem caused by your funds being low,Bounced checks or returned payments,1621,0.13
+Problem caused by your funds being low,Late or other fees,1477,0.11
+Problem getting a card or closing an account,"Trouble getting, activating, or registering a card",2721,0.21
+Problem getting a card or closing an account,Trouble closing card,1891,0.15
+Problem getting a card or closing an account,Trouble getting a working replacement card,1272,0.1
+Problem getting a card or closing an account,Don't want a card provided by your employer or the government,760,0.06
+Problem when making payments,Problem during payment process,23320,1.81
+Problem when making payments,Missing sub-issue,6970,0.54
+Problem when making payments,You never received your bill or did not know a payment was due,4432,0.34
+Problem with a company's investigation into an existing problem,Was not notified of investigation status or results,19897,1.54
+Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report,5034,0.39
+Problem with a company's investigation into an existing problem,Problem with personal statement of dispute,819,0.06
+Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,734,0.06
+Problem with a company's investigation into an existing problem,Investigation took more than 30 days,308,0.02
+Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results,4712,0.37
+Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report,2657,0.21
+Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days,2489,0.19
+Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute,470,0.04
+Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone,406,0.03
+Problem with a lender or other company charging your account,Transaction was not authorized,28997,2.25
+Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount,3998,0.31
+Problem with a lender or other company charging your account,Can't stop withdrawals from your account,2351,0.18
+Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer,6103,0.47
+Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card,3897,0.3
+Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card,190,0.01
+Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement,63340,4.91
+Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card,24223,1.88
+Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card,2572,0.2
+Problem with additional add-on products or services,Missing sub-issue,2818,0.22
+Problem with an overdraft,Overdraft charges,7,0.0
+Problem with an overdraft,"Was signed up for overdraft on card, but don't want to be",2,0.0
+Problem with cash advance,Missing sub-issue,270,0.02
+Problem with credit report or credit score,Incorrect information on your report,29,0.0
+Problem with credit report or credit score,Missing sub-issue,3,0.0
+Problem with credit report or credit score,Problem with a credit reporting company's investigation into an existing problem,3,0.0
+Problem with credit report or credit score,Credit monitoring or identity theft protection services,1,0.0
+Problem with credit report or credit score,Improper use of your report,1,0.0
+Problem with credit report or credit score,Problem with fraud alerts or security freezes,1,0.0
+Problem with customer service,Missing sub-issue,2328,0.18
+Problem with fraud alerts or security freezes,Missing sub-issue,643,0.05
+Problem with overdraft,Overdraft charges,145,0.01
+Problem with overdraft,"Was signed up for overdraft on card, but don't want to be",11,0.0
+Problem with the payoff process at the end of the loan,Missing sub-issue,4842,0.38
+Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off,6068,0.47
+Problems at the end of the loan or lease,Problem with paying off the loan,3454,0.27
+Problems at the end of the loan or lease,Problem while selling or giving up the vehicle,1243,0.1
+Problems at the end of the loan or lease,Problem related to refinancing,1111,0.09
+Problems at the end of the loan or lease,"Excess mileage, damage, or wear fees, or other problem after the lease is finished",886,0.07
+Problems at the end of the loan or lease,Termination fees or other problem when ending the lease early,755,0.06
+Problems at the end of the loan or lease,Problem when attempting to purchase vehicle at the end of the lease,471,0.04
+Problems at the end of the loan or lease,Problem extending the lease,157,0.01
+Problems caused by my funds being low,Missing sub-issue,804,0.06
+Problems receiving the advance,Missing sub-issue,125,0.01
+Problems when you are unable to pay,Missing sub-issue,853,0.07
+Property was damaged or destroyed property,Missing sub-issue,11,0.0
+Property was sold,Missing sub-issue,27,0.0
+Received a loan I didn't apply for,Missing sub-issue,64,0.0
+Received a loan you didn't apply for,Missing sub-issue,1342,0.1
+Repossession,Loan balance remaining after the vehicle is repossessed and sold,2698,0.21
+Repossession,Account reinstatement or redemption after repossession,1278,0.1
+Repossession,Notice to repossess,1149,0.09
+Repossession,Deficiency balance after repossession,1099,0.09
+Repossession,Voluntary repossession,1063,0.08
+Repossession,Lender trying to repossess or disable the vehicle,1042,0.08
+Repossession,Damage caused or loss of personal items in vehicle during the actual repossession,663,0.05
+Repossession,Company explaining amount owed,500,0.04
+Repossession,Company communicating payment assistance or payment extension options,423,0.03
+Rewards,Missing sub-issue,293,0.02
+Sale of account,Missing sub-issue,26,0.0
+Settlement process and costs,Missing sub-issue,560,0.04
+Shopping for a line of credit,Missing sub-issue,11,0.0
+Shopping for a loan or lease,Missing sub-issue,177,0.01
+Struggling to pay mortgage,Missing sub-issue,43759,3.39
+Struggling to pay mortgage,"Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure",5360,0.42
+Struggling to pay mortgage,Foreclosure,2963,0.23
+Struggling to pay mortgage,"Applying for or obtaining a modification, forbearance plan, short sale, or deed-in-lieu",2675,0.21
+Struggling to pay mortgage,"An existing modification, forbearance plan, short sale, or other loss mitigation relief",1842,0.14
+Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship,5345,0.41
+Struggling to pay your bill,Problem lowering your monthly payments,437,0.03
+Struggling to pay your bill,Filed for bankruptcy,221,0.02
+Struggling to pay your loan,Missing sub-issue,7027,0.55
+Struggling to pay your loan,Denied request to lower payments,4281,0.33
+Struggling to pay your loan,Loan balance remaining after the vehicle is repossessed and sold,2767,0.21
+Struggling to pay your loan,Lender trying to repossess or disable the vehicle,2714,0.21
+Struggling to pay your loan,Problem after you declared or threatened to declare bankruptcy,441,0.03
+Taking out the loan or lease,Missing sub-issue,527,0.04
+Transaction issue,Missing sub-issue,257,0.02
+Trouble accessing funds in your mobile or digital wallet,Missing sub-issue,4844,0.38
+Trouble during payment process,Missing sub-issue,73117,5.67
+Trouble during payment process,"Escrow, taxes, or insurance",8861,0.69
+Trouble during payment process,Trying to communicate with the company to fix an issue while managing or servicing your loan,7380,0.57
+Trouble during payment process,Payment process,5757,0.45
+Trouble during payment process,Loan sold or transferred to another company,1665,0.13
+Trouble during payment process,Fees charged,1477,0.11
+Trouble during payment process,Paying off the loan,1293,0.1
+Trouble during payment process,Private mortgage insurance (PMI),1193,0.09
+Trouble during payment process,Lien release,423,0.03
+Trouble during payment process,Interest rate,404,0.03
+Trouble using the card,Trouble using the card to spend money in a store or online,8019,0.62
+Trouble using the card,Trouble getting information about the card,1797,0.14
+Trouble using the card,Problem using the card to withdraw money from an ATM,1022,0.08
+Trouble using the card,Problem with direct deposit,837,0.06
+Trouble using the card,Trouble using the card to pay a bill,558,0.04
+Trouble using the card,Problem adding money,190,0.01
+Trouble using the card,Trouble using the card to send money to another person,133,0.01
+Trouble using the card,Problem with a check written from your prepaid card account,69,0.01
+Trouble using your card,Can't use card to make purchases,8956,0.69
+Trouble using your card,Credit card company won't increase or decrease your credit limit,4714,0.37
+Trouble using your card,Account sold or transferred to another company,230,0.02
+Unable to get your credit report or credit score,Other problem getting your report or credit score,564,0.04
+Unable to get your credit report or credit score,Problem getting your free annual credit report,33,0.0
+Unauthorized transactions or other transaction problem,Missing sub-issue,13223,1.03
+Unauthorized transactions/trans. issues,Missing sub-issue,200,0.02
+Unexpected fees,Missing sub-issue,110,0.01
+Unexpected or other fees,Missing sub-issue,6873,0.53
+Unsolicited issuance of credit card,Missing sub-issue,192,0.01
+Using a debit or ATM card,Missing sub-issue,521,0.04
+Vehicle was damaged or destroyed the vehicle,Missing sub-issue,171,0.01
+Vehicle was repossessed or sold the vehicle,Missing sub-issue,620,0.05
+"Was approved for a loan, but didn't receive money",Missing sub-issue,102,0.01
+"Was approved for a loan, but didn't receive the money",Missing sub-issue,470,0.04
+Wrong amount charged or received,Missing sub-issue,1608,0.12

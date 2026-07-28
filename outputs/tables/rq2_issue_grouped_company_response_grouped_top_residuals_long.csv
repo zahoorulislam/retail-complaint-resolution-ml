@@ -1,0 +1,131 @@
+issue_grouped,company_response_grouped,standardized_residual
+Problem with a purchase shown on your statement,Relief: monetary,104.391
+Problem with a company's investigation into an existing problem,Relief: monetary,101.052
+Trouble during payment process,Relief: monetary,-92.252
+Other transaction problem,Relief: monetary,-90.483
+Fees or interest,Relief: monetary,87.878
+Struggling to pay mortgage,Relief: monetary,-87.364
+Incorrect information on your report,Relief: monetary,62.298
+Getting a credit card,Relief: monetary,59.842
+Problem with a purchase shown on your statement,Closed with explanation,-50.431
+Problem with a company's investigation into an existing problem,Closed with explanation,-48.984
+Trouble during payment process,Closed with explanation,45.248
+Other transaction problem,Closed with explanation,44.592
+Struggling to pay mortgage,Closed with explanation,42.791
+Fees or interest,Closed with explanation,-42.578
+"Other features, terms, or problems",Relief: monetary,41.122
+Fraud or scam,Relief: monetary,-40.453
+Applying for a mortgage or refinancing an existing mortgage,Relief: monetary,-39.299
+Struggling to pay your loan,Relief: monetary,-37.635
+Other,Other closed outcome,37.377
+Managing the loan or lease,Relief: monetary,-35.341
+Charged fees or interest you didn't expect,Other / unclear,34.749
+Incorrect information on your report,Closed with explanation,-30.256
+"Advertising and marketing, including promotional offers",Relief: monetary,29.232
+Getting a credit card,Closed with explanation,-28.887
+Closing on a mortgage,Relief: monetary,-28.379
+Problem when making payments,Relief: monetary,26.964
+Charged fees or interest you didn't expect,Relief: monetary,-26.203
+Other,Relief: monetary,-24.065
+Struggling to pay your loan,Other / unclear,21.05
+"Other features, terms, or problems",Closed with explanation,-19.698
+Fraud or scam,Closed with explanation,19.36
+Applying for a mortgage or refinancing an existing mortgage,Closed with explanation,18.693
+Struggling to pay your loan,Closed with explanation,17.408
+Other,Other / unclear,17.309
+Managing the loan or lease,Closed with explanation,16.624
+Managing the loan or lease,Other closed outcome,14.431
+"Advertising and marketing, including promotional offers",Closed with explanation,-14.057
+Managing an account,Other / unclear,-13.951
+Closing on a mortgage,Closed with explanation,13.25
+Problem when making payments,Closed with explanation,-13.108
+Closing on a mortgage,Other / unclear,13.049
+Problems at the end of the loan or lease,Relief: monetary,-11.955
+Applying for a mortgage or refinancing an existing mortgage,Other / unclear,11.412
+Charged fees or interest you didn't expect,Closed with explanation,11.154
+Trouble using your card,Relief: monetary,-10.975
+Problem caused by your funds being low,Relief: monetary,10.296
+Other,Closed with explanation,10.184
+Managing an account,Relief: monetary,10.031
+Fraud or scam,Other / unclear,9.579
+Problem with a purchase shown on your statement,Other / unclear,-9.328
+Opening an account,Relief: monetary,9.237
+Problem with a lender or other company charging your account,Relief: monetary,8.186
+Managing an account,Other closed outcome,-7.776
+Managing the loan or lease,Other / unclear,7.357
+Closing an account,Other / unclear,-7.02
+Fees or interest,Administrative / in progress,6.844
+"Other features, terms, or problems",Other / unclear,-6.577
+Problem with a company's investigation into an existing problem,Other / unclear,-6.427
+Other transaction problem,Other / unclear,-6.367
+Fees or interest,Other / unclear,-6.359
+Problems at the end of the loan or lease,Other / unclear,6.21
+Opening an account,Other / unclear,-5.758
+Trouble during payment process,Other closed outcome,-5.607
+Problems at the end of the loan or lease,Closed with explanation,5.581
+Trouble using your card,Closed with explanation,5.501
+Getting a credit card,Other / unclear,-5.395
+Problem with a purchase shown on your statement,Other closed outcome,-5.282
+Closing on a mortgage,Administrative / in progress,5.002
+Closing your account,Other / unclear,-4.819
+Problem caused by your funds being low,Closed with explanation,-4.785
+Other transaction problem,Other closed outcome,-4.571
+Struggling to pay mortgage,Other closed outcome,-4.186
+Opening an account,Closed with explanation,-4.168
+Managing an account,Closed with explanation,-4.064
+Incorrect information on your report,Other closed outcome,-4.04
+"Advertising and marketing, including promotional offers",Other / unclear,-3.949
+Problem with a lender or other company charging your account,Other / unclear,-3.914
+Getting a credit card,Other closed outcome,-3.808
+Problem caused by your funds being low,Other / unclear,-3.792
+Problem with a lender or other company charging your account,Closed with explanation,-3.74
+Closing an account,Other closed outcome,-3.642
+"Other features, terms, or problems",Other closed outcome,-3.534
+Fraud or scam,Other closed outcome,-3.484
+Fees or interest,Other closed outcome,-3.349
+Problem with a lender or other company charging your account,Other closed outcome,-3.308
+Problem when making payments,Other closed outcome,-3.278
+"Advertising and marketing, including promotional offers",Administrative / in progress,3.26
+Opening an account,Other closed outcome,-3.112
+Problem caused by your funds being low,Other closed outcome,-2.888
+Problem with a company's investigation into an existing problem,Other closed outcome,-2.88
+Applying for a mortgage or refinancing an existing mortgage,Other closed outcome,-2.861
+Closing your account,Other closed outcome,-2.816
+Closing an account,Relief: monetary,2.519
+Struggling to pay your loan,Other closed outcome,-2.309
+Closing on a mortgage,Other closed outcome,-2.305
+"Advertising and marketing, including promotional offers",Other closed outcome,-2.248
+Problems at the end of the loan or lease,Other closed outcome,-2.093
+Closing your account,Relief: monetary,2.082
+Trouble using your card,Other closed outcome,-2.074
+Charged fees or interest you didn't expect,Other closed outcome,-2.04
+Trouble using your card,Other / unclear,-2.019
+Incorrect information on your report,Other / unclear,-1.9
+Trouble during payment process,Other / unclear,-1.632
+Managing an account,Administrative / in progress,-1.278
+Struggling to pay mortgage,Administrative / in progress,-0.983
+Getting a credit card,Administrative / in progress,-0.894
+Closing an account,Administrative / in progress,-0.855
+Applying for a mortgage or refinancing an existing mortgage,Administrative / in progress,0.816
+Closing an account,Closed with explanation,-0.814
+Problem with a lender or other company charging your account,Administrative / in progress,-0.777
+Problem when making payments,Administrative / in progress,-0.77
+Opening an account,Administrative / in progress,-0.731
+Closing your account,Closed with explanation,-0.725
+Struggling to pay mortgage,Other / unclear,-0.71
+Managing the loan or lease,Administrative / in progress,-0.701
+Other,Administrative / in progress,-0.701
+Problem caused by your funds being low,Administrative / in progress,-0.678
+Problem with a company's investigation into an existing problem,Administrative / in progress,-0.676
+Closing your account,Administrative / in progress,-0.661
+Trouble during payment process,Administrative / in progress,-0.557
+Struggling to pay your loan,Administrative / in progress,-0.542
+Problems at the end of the loan or lease,Administrative / in progress,-0.491
+Trouble using your card,Administrative / in progress,-0.487
+Charged fees or interest you didn't expect,Administrative / in progress,-0.479
+Fraud or scam,Administrative / in progress,0.404
+"Other features, terms, or problems",Administrative / in progress,0.375
+Problem with a purchase shown on your statement,Administrative / in progress,0.372
+Other transaction problem,Administrative / in progress,-0.142
+Problem when making payments,Other / unclear,0.14
+Incorrect information on your report,Administrative / in progress,0.106

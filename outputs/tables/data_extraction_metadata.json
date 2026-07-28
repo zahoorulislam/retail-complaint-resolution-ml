@@ -17,7 +17,7 @@
   "narrative_share": 0.5327615325357808,
   "minimum_date_received": "2017-01-01 00:00:00+00:00",
   "maximum_date_received": "2025-12-31 22:08:00+00:00",
-  "created_at": "2026-07-16T21:21:14",
+  "created_at": "2026-07-26T20:24:35",
   "leakage_note": "company_response_to_consumer should not be used as a predictor when predicting response outcome. received_to_sent_lag_days is a process variable and should not be used in intake-stage prediction unless available at the prediction point.",
   "github_note": "Do not upload the full raw or processed dataset to GitHub. Upload the notebook, small sample, metadata, summary tables, and figures."
 }

@@ -1,0 +1,7 @@
+metric,interpretation,business_use
+Accuracy,"Useful as a general measure, but misleading when most complaints are timely.",Do not use as the primary model-selection metric.
+Balanced accuracy,Gives equal weight to timely and non-timely classes.,Use to judge whether the model works across both classes.
+ROC-AUC,Measures ranking and separation ability across thresholds.,Use as the primary selection metric for risk-ranking models.
+Non-timely recall,Shows how many delayed-response risk cases are captured.,Important for early-warning and escalation use cases.
+Non-timely precision,Shows how many flagged risk cases are truly non-timely.,Important for managing analyst workload and false alerts.
+Average precision / PR-AUC,Useful for rare-class detection when one class is uncommon.,Use together with threshold analysis and classwise metrics.

@@ -1,0 +1,6 @@
+submitted_via,total_records,positive_records,positive_rate,positive_rate_percent,overall_rate_percent,rate_difference_vs_overall_pp
+Referral,115982,22958,0.19794450863064958,19.79,19.22,0.57
+Web,1057743,205316,0.1941076424046295,19.41,19.22,0.19
+Phone,90440,15669,0.1732529854046882,17.33,19.22,-1.89
+Postal mail,21424,3287,0.1534260642270351,15.34,19.22,-3.88
+Fax,3406,470,0.13799177921315325,13.8,19.22,-5.42

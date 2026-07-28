@@ -1,0 +1,12 @@
+field,total_records,missing_count,missing_percent,unique_values,top_value,top_value_count,top_value_percent,top_5_percent,hhi_concentration
+timely_response,1289027,0,0.0,2,Yes,1270902,98.59,100.0,0.9723
+tags,1289027,1069670,82.98,3,Missing,1069670,82.98,100.0,0.7003
+submitted_via,1289027,0,0.0,6,Web,1057743,82.06,100.0,0.6866
+company_response_to_consumer,1289027,61,0.0,6,Closed with explanation,1038396,80.56,99.99,0.6677
+product,1289027,0,0.0,14,Checking or savings account,333982,25.91,86.98,0.1669
+sub_product,1289027,7762,0.6,58,General-purpose credit card or charge card,326802,25.35,68.23,0.1323
+sub_issue,1289027,400657,31.08,165,Missing,400657,31.08,47.47,0.1093
+state,1289027,28399,2.2,63,CA,172756,13.4,43.47,0.054
+issue,1289027,5,0.0,141,Managing an account,195351,15.15,39.65,0.0515
+company,1289027,0,0.0,4617,JPMORGAN CHASE & CO.,92441,7.17,31.13,0.028
+zip_code,1289027,1,0.0,26002,XXXXX,41486,3.22,3.67,0.0012

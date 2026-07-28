@@ -1,0 +1,31 @@
+issue,total_records,positive_records,positive_rate,positive_rate_percent,overall_rate_percent,rate_difference_vs_overall_pp
+Problem with a company's investigation into an existing problem,26792,26757,0.9986936398925053,99.87,98.59,1.28
+"Advertising and marketing, including promotional offers",16331,16252,0.9951625742453003,99.52,98.59,0.93
+Closing your account,25617,25487,0.9949252449545224,99.49,98.59,0.9
+Fees or interest,36225,36027,0.9945341614906832,99.45,98.59,0.86
+"Other features, terms, or problems",40355,40131,0.9944492627927146,99.44,98.59,0.85
+Problem caused by your funds being low,26945,26786,0.9940990907403972,99.41,98.59,0.82
+Getting a credit card,46847,46552,0.9937029052020406,99.37,98.59,0.78
+Problem with a credit reporting company's investigation into an existing problem,10734,10664,0.9934786659213714,99.35,98.59,0.76
+Struggling to pay your bill,6003,5964,0.993503248375812,99.35,98.59,0.76
+Problem with a purchase shown on your statement,90135,89513,0.9930992400288456,99.31,98.59,0.72
+Other transaction problem,67507,67043,0.9931266387189477,99.31,98.59,0.72
+Trouble using your card,13900,13798,0.9926618705035971,99.27,98.59,0.68
+Incorrect information on your report,52718,52286,0.9918054554421639,99.18,98.59,0.59
+"Loan modification,collection,foreclosure",4023,3988,0.9913000248570718,99.13,98.59,0.54
+Opening an account,31293,31002,0.9907007957051097,99.07,98.59,0.48
+Struggling to pay mortgage,56599,56039,0.9901058322585204,99.01,98.59,0.42
+Closing an account,42856,42420,0.9898263953705432,98.98,98.59,0.39
+Managing an account,195351,193310,0.9895521394822653,98.96,98.59,0.37
+"Loan servicing, payments, escrow account",4957,4904,0.9893080492233206,98.93,98.59,0.34
+Problem with a lender or other company charging your account,35346,34943,0.9885984269790076,98.86,98.59,0.27
+Trouble during payment process,101570,100373,0.9882150241212957,98.82,98.59,0.23
+Improper use of your report,6691,6612,0.9881930952025109,98.82,98.59,0.23
+Credit monitoring or identity theft protection services,1573,1554,0.9879211697393515,98.79,98.59,0.2
+Billing disputes,1405,1388,0.9879003558718861,98.79,98.59,0.2
+Other,1226,1211,0.9877650897226754,98.78,98.59,0.19
+"Managing, opening, or closing your mobile wallet account",10548,10409,0.9868221463784603,98.68,98.59,0.09
+Problem when making payments,34722,34233,0.9859167098669431,98.59,98.59,0.0
+Problems at the end of the loan or lease,14145,13926,0.9845174973488865,98.45,98.59,-0.14
+Unauthorized transactions or other transaction problem,13223,12996,0.9828329426000151,98.28,98.59,-0.31
+Repossession,9915,9731,0.9814422592032275,98.14,98.59,-0.45

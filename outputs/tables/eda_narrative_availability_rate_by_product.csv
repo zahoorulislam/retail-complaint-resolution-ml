@@ -1,0 +1,12 @@
+product,total_records,positive_records,positive_rate,positive_rate_percent,overall_rate_percent,rate_difference_vs_overall_pp
+"Money transfer, virtual currency, or money service",164638,112193,0.6814526415529829,68.15,53.28,14.87
+"Payday loan, title loan, personal loan, or advance loan",24745,14513,0.5865023237017579,58.65,53.28,5.37
+Prepaid card,15540,9059,0.5829472329472329,58.29,53.28,5.01
+"Payday loan, title loan, or personal loan",30622,17226,0.5625367382927308,56.25,53.28,2.97
+Vehicle loan or lease,85430,47741,0.5588317921104998,55.88,53.28,2.6
+Credit card or prepaid card,206357,108683,0.5266746463652796,52.67,53.28,-0.61
+Consumer Loan,3543,1823,0.5145357042054756,51.45,53.28,-1.83
+Mortgage,221283,111405,0.5034503328317133,50.35,53.28,-2.93
+Checking or savings account,333982,168016,0.50306902767215,50.31,53.28,-2.97
+Credit card,194996,93023,0.4770508112986933,47.71,53.28,-5.57
+Bank account or service,6955,2569,0.3693745506829619,36.94,53.28,-16.34

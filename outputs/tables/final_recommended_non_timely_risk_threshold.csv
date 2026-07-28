@@ -1,0 +1,2 @@
+risk_threshold,flagged_records,flagged_percent,precision_non_timely,recall_non_timely,f1_non_timely,balanced_accuracy,selection_reason
+0.8,341,0.76,0.2111,0.1137,0.1478,0.5538,Highest non-timely F1-score among tested thresholds

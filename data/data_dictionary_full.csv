@@ -1,0 +1,26 @@
+field,simple_definition,source_or_engineered,role_in_study,modeling_note,present_in_final_df
+date_received,Parsed date when the CFPB received the complaint.,"Source field, parsed",Time control and trend variable.,"Can be transformed into year, month, or quarter.",True
+date_received_raw,Original unparsed Date received value from the raw CFPB file.,Audit field,Used to validate date parsing.,Not used for modeling.,True
+product,Financial product selected by the consumer.,Source field,Main predictor for RQ1 and product-scope filtering.,Used as categorical predictor after filtering to retail banking products.,True
+sub_product,More detailed product category.,Source field,Optional product-level predictor.,Use if coverage is sufficient; combine rare categories if needed.,True
+issue,Main complaint issue selected by the consumer.,Source field,Main predictor for RQ2.,Used as categorical predictor; may require grouping of rare issues.,True
+sub_issue,More detailed complaint issue.,Source field,Optional detailed issue predictor.,Use carefully because many sub-issues may be sparse.,True
+consumer_complaint_narrative,Consumer-written complaint narrative published when consent was provided and CFPB removed personal information.,Source field,Main text field for RQ3.,"Used for NLP features such as TF-IDF, text length, keywords, and topics.",True
+company_public_response,Optional public-facing company response to the complaint.,Source field,Post-response contextual field.,Do not use as intake-stage predictor because it may create data leakage.,True
+company,Company named in the complaint.,Source field,Company-level predictor/control for RQ4.,Use carefully; CFPB data does not include company size or market share.,True
+state,Consumer state associated with the complaint.,Source field,Geographic predictor/control for RQ4.,Interpret with population and market-size caveats.,True
+zip_code,Consumer ZIP code or partial ZIP code where available.,Source field,Optional geographic field.,Use only in aggregated form; avoid overfitting and privacy concerns.,True
+tags,"Special CFPB tags, such as older American or servicemember, where available.",Source field,Optional segmentation or fairness-review variable.,Use carefully because tags may indicate sensitive or vulnerable groups.,True
+submitted_via,"Channel used to submit the complaint, such as web, phone, referral, or mail.",Source field,Predictor/control variable.,Used to assess whether channel is associated with outcomes.,True
+date_sent_to_company,Parsed date when CFPB sent the complaint to the company.,"Source field, parsed",Process timing variable.,Use carefully; may create leakage if not available at prediction time.,True
+date_sent_to_company_raw,Original unparsed Date sent to company value from the raw CFPB file.,Audit field,Used to validate date parsing.,Not used for modeling.,True
+company_response_to_consumer,Company response category provided to the consumer.,Source field,Primary or secondary outcome variable for response-outcome analysis.,"Can be grouped into explanation, monetary relief, non-monetary relief, and other outcomes.",True
+timely_response,Indicates whether the company provided a timely response.,Source field,Main outcome variable for RQ1 and binary classification.,Original Yes/No version.,True
+complaint_id,Unique complaint identifier assigned by CFPB.,Source field,Record key.,Not used as a model predictor.,True
+year_received,Year extracted from date_received.,Engineered field,Time control and trend variable.,Can be used to control for year-level changes.,True
+month_received,Year-month period extracted from date_received.,Engineered field,Monthly trend variable.,Mainly used for EDA and trend analysis.,True
+quarter_received,Year-quarter period extracted from date_received.,Engineered field,Quarterly trend variable.,Mainly used for EDA and trend analysis.,True
+timely_response_binary,Numeric version of timely_response where Yes = 1 and No = 0.,Engineered field,Main binary target variable.,Used as the target for binary classification models.,True
+has_narrative,Indicates whether a published consumer complaint narrative is available.,Engineered field,Narrative availability indicator for RQ3.,Useful because narratives are only available when consumers consent.,True
+narrative_length,Character length of the consumer complaint narrative.,Engineered field,Simple text-based feature for RQ3.,Can be used with other NLP features.,True
+received_to_sent_lag_days,Number of days between CFPB receiving the complaint and sending it to the company.,Engineered field,Process timing analysis variable.,Use for process analysis only unless clearly available at the prediction point.,True

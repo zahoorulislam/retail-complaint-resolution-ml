@@ -1,0 +1,8 @@
+class,precision,recall,f1-score,support
+Closed with explanation,0.9194,0.5515,0.6895,36252.0
+In progress,0.0,0.0,0.0,1.0
+Other response,0.0151,0.7778,0.0296,99.0
+Relief provided,0.3628,0.7606,0.4913,8648.0
+accuracy,0.5922,0.5922,0.5922,0.5922
+macro avg,0.3243,0.5225,0.3026,45000.0
+weighted avg,0.8104,0.5922,0.6499,45000.0

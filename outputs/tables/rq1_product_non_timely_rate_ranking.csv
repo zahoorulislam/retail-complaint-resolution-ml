@@ -1,0 +1,15 @@
+product,total_records,timely_rate,non_timely_rate
+Payday loan,493,88.24,11.76
+Bank account or service,6955,92.54,7.46
+Money transfers,440,94.09,5.91
+Consumer Loan,3543,94.3,5.7
+Prepaid card,15540,94.71,5.29
+"Payday loan, title loan, or personal loan",30622,94.83,5.17
+"Payday loan, title loan, personal loan, or advance loan",24745,95.91,4.09
+Vehicle loan or lease,85430,98.15,1.85
+"Money transfer, virtual currency, or money service",164638,98.4,1.6
+Mortgage,221283,98.54,1.46
+Credit card or prepaid card,206357,98.82,1.18
+Checking or savings account,333982,99.0,1.0
+Credit card,194996,99.66,0.34
+Virtual currency,3,100.0,0.0

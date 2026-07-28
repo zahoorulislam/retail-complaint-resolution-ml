@@ -1,0 +1,28 @@
+field_1,field_2,rows_after_collapse,columns_after_collapse,chi_square,p_value,degrees_of_freedom,cramers_v,association_strength
+company,relief_response_binary,31,2,189581.8826,0.0,30,0.3835,Moderate
+sub_product,relief_response_binary,31,2,95742.508,0.0,30,0.2725,Weak
+sub_issue,relief_response_binary,31,2,94827.3913,0.0,30,0.2712,Weak
+product,relief_response_binary,12,2,94417.0836,0.0,11,0.2706,Weak
+issue,relief_response_binary,31,2,93906.8402,0.0,30,0.2699,Weak
+company,company_response_to_consumer,31,5,364542.9581,0.0,120,0.2659,Weak
+sub_issue,company_response_to_consumer,31,5,241802.8043,0.0,120,0.2165,Weak
+issue,company_response_to_consumer,31,5,238152.3503,0.0,120,0.2149,Weak
+product,company_response_to_consumer,12,5,140905.224,0.0,44,0.1653,Weak
+sub_product,company_response_to_consumer,31,5,136421.72,0.0,120,0.1626,Weak
+company,timely_response,31,2,20007.2207,0.0,30,0.1245,Weak
+sub_product,timely_response,31,2,13440.3745,0.0,30,0.102,Weak
+product,timely_response,12,2,11039.0175,0.0,11,0.0925,Very weak
+issue,timely_response,31,2,10069.8197,0.0,30,0.0883,Very weak
+sub_issue,timely_response,31,2,3999.3461,0.0,30,0.0555,Very weak
+state,relief_response_binary,31,2,3113.895,0.0,30,0.0489,Very weak
+has_narrative,company_response_to_consumer,2,5,2476.6199,0.0,4,0.0438,Very weak
+state,company_response_to_consumer,31,5,7920.2471,0.0,120,0.0389,Very weak
+submitted_via,company_response_to_consumer,6,5,4903.5319,0.0,20,0.0308,Very weak
+tags,relief_response_binary,4,2,965.6677,5.043540509486266e-209,3,0.0273,Very weak
+tags,company_response_to_consumer,4,5,2818.9714,0.0,12,0.0269,Very weak
+has_narrative,relief_response_binary,2,2,830.0725,1.5628515076889023e-182,1,0.0254,Very weak
+submitted_via,relief_response_binary,6,2,531.4736,1.280721405974979e-112,5,0.0202,Very weak
+state,timely_response,31,2,530.5093,6.541634868952815e-93,30,0.0197,Very weak
+submitted_via,timely_response,6,2,145.1216,1.4575176310331717e-29,5,0.0104,Very weak
+has_narrative,timely_response,2,2,31.2257,2.2969961279829934e-08,1,0.0048,Very weak
+tags,timely_response,4,2,1.9796,0.5766482512605446,3,0.0,Very weak

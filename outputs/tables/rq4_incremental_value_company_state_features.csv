@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,precision,recall,f1,roc_auc,average_precision,business_interpretation
+Difference: extended minus base,0.6824,,-0.0019,0.7007,0.5956,0.181,,Company/state features add predictive value.

@@ -1,2 +1,2 @@
-row_variable,column_variable,n_records,chi_square,degrees_of_freedom,p_value,cramers_v,p_value_interpretation,effect_size_interpretation
-state_grouped,timely_response,1289027,449.3427153606039,30,2.7260593726100262e-76,0.01867058155298739,Reject H0: statistically significant association.,Very weak effect size.
+row_variable,column_variable,n_records,chi_square,degrees_of_freedom,p_value,alpha,cramers_v,correction_used,min_expected_count,cells_expected_less_than_5,pct_cells_expected_less_than_5,expected_count_assumption,p_value_interpretation,effect_size_interpretation
+state_grouped,timely_response,1289027,449.3427153606039,30,2.7260593726100262e-76,0.05,0.01867058155298739,False,117.5358,0,0.0,Acceptable,Reject H0: statistically significant association.,Very weak effect size.

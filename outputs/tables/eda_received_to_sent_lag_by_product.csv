@@ -1,0 +1,12 @@
+product,total_records,mean_value,median_value,p75_value,p90_value
+Consumer Loan,3543,3.01,0.0,3.0,6.0
+"Payday loan, title loan, or personal loan",30622,2.8,0.0,1.0,11.0
+"Payday loan, title loan, personal loan, or advance loan",24744,1.98,0.0,0.0,5.0
+Mortgage,221281,1.92,0.0,0.0,5.0
+Prepaid card,15537,1.71,0.0,0.0,4.0
+Bank account or service,6955,1.69,0.0,2.0,5.0
+Credit card or prepaid card,206357,1.54,0.0,0.0,3.0
+Vehicle loan or lease,85428,1.43,0.0,0.0,2.0
+Checking or savings account,333978,1.15,0.0,0.0,2.0
+"Money transfer, virtual currency, or money service",164638,0.95,0.0,0.0,1.0
+Credit card,194994,0.87,0.0,0.0,1.0

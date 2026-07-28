@@ -1,7 +1,7 @@
 research_question,test,p_value,effect_size,decision,effect_interpretation
 RQ1,Chi-square: product vs timely response,0.0,0.092789,Reject H0: statistically significant association.,Very weak effect size.
 RQ2,Chi-square: issue group vs company response,0.0,0.187419,Reject H0: statistically significant association.,Weak effect size.
-RQ3,Model comparison: structured vs structured + narrative,,0.0557,Compare ROC-AUC/F1 improvement instead of p-value.,Positive difference suggests narrative features add predictive value.
+RQ3,Model comparison: structured vs structured + narrative,,0.0788,Compare ROC-AUC/F1 improvement instead of p-value.,Positive difference suggests narrative features add predictive value.
 RQ4A,Chi-square: company group vs timely response,0.0,0.124584,Reject H0: statistically significant association.,Weak effect size.
 RQ4B,Chi-square: state group vs timely response,0.0,0.018671,Reject H0: statistically significant association.,Very weak effect size.
-RQ4C,Model comparison: base vs company/state extended model,,0.1356,Compare ROC-AUC/F1 improvement instead of p-value.,Positive difference suggests company/state add predictive value.
+RQ4C,Model comparison: base vs company/state extended model,,0.181,Compare ROC-AUC/F1 improvement instead of p-value.,Positive difference suggests company/state add predictive value.

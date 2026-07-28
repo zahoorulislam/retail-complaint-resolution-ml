@@ -1,0 +1,4 @@
+finding_area,interpretation,business_meaning
+Target imbalance,"Most records are closed with explanation, while relief and other response categories are smaller.",Accuracy alone may overstate model quality for company-response modeling.
+Rare categories,In-progress and other-response categories may have too few records for stable prediction.,Consider merging rare categories or using a simpler relief-versus-no-relief target.
+Relief prediction,"Relief-provided predictions are useful for triage when recall is acceptable, but low precision may create false alerts.","Use for prioritization and analyst review, not automated outcome determination."

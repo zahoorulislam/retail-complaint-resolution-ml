@@ -1,0 +1,29 @@
+product,timely_response,standardized_residual
+"Payday loan, title loan, or personal loan",No,55.538
+Bank account or service,No,42.593
+Prepaid card,No,40.826
+Credit card,No,-39.739
+"Payday loan, title loan, personal loan, or advance loan",No,35.547
+Consumer Loan,No,21.561
+Checking or savings account,No,-19.57
+Payday loan,No,19.396
+Vehicle loan or lease,No,11.044
+Credit card or prepaid card,No,-8.718
+Money transfers,No,7.966
+"Payday loan, title loan, or personal loan",Yes,-6.632
+"Money transfer, virtual currency, or money service",No,6.568
+Bank account or service,Yes,-5.087
+Prepaid card,Yes,-4.876
+Credit card,Yes,4.746
+"Payday loan, title loan, personal loan, or advance loan",Yes,-4.245
+Consumer Loan,Yes,-2.575
+Checking or savings account,Yes,2.337
+Mortgage,No,2.322
+Payday loan,Yes,-2.316
+Vehicle loan or lease,Yes,-1.319
+Credit card or prepaid card,Yes,1.041
+Money transfers,Yes,-0.951
+"Money transfer, virtual currency, or money service",Yes,-0.784
+Mortgage,Yes,-0.277
+Virtual currency,No,-0.205
+Virtual currency,Yes,0.025

@@ -1,0 +1,5 @@
+model,accuracy,balanced_accuracy,f1,roc_auc,average_precision,business_interpretation
+Structured random forest,0.7884,0.8,0.8802,0.8748,0.9978,Strongest balanced risk-detection candidate when ROC-AUC and balanced accuracy are prioritized.
+Structured logistic regression,0.7333,0.7908,0.844,0.8506,0.9974,Strong and explainable structured model; useful benchmark for governance and interpretation.
+Structured + TF-IDF logistic regression,0.8112,0.7384,0.8947,0.8357,0.997,"Useful evidence that narratives add value, especially for overall accuracy and F1-score."
+Dummy baseline,0.9859,0.5,0.9929,0.5,0.9859,Reference model only; high accuracy is caused by the majority timely-response class.

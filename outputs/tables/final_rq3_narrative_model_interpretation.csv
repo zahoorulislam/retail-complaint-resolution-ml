@@ -1,0 +1,10 @@
+research_question,comparison,metric,structured_logistic,structured_plus_tfidf,difference
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,accuracy,0.7333,0.8112,0.0779
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,balanced_accuracy,0.7908,0.7384,-0.0524
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,f1_timely,0.844,0.8947,0.0507
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,recall_timely,0.7316,0.8133,0.0817
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,precision_non_timely,0.0432,0.0483,0.0051
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,recall_non_timely,0.8499,0.6635,-0.1864
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,f1_non_timely,0.0823,0.09,0.0077
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,roc_auc_non_timely_risk,0.8506,0.8357,-0.0149
+RQ3,Structured + TF-IDF logistic regression minus structured logistic regression,average_precision_non_timely_risk,0.0666,0.0627,-0.0039

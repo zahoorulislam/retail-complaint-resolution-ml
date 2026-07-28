@@ -1,0 +1,6 @@
+class,precision,recall,f1-score,support
+Non-timely,0.0518,0.812,0.0974,633.0
+Timely,0.9966,0.7881,0.8802,44367.0
+accuracy,0.7884,0.7884,0.7884,0.7884
+macro avg,0.5242,0.8,0.4888,45000.0
+weighted avg,0.9833,0.7884,0.8691,45000.0

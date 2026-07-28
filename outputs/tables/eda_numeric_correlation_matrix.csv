@@ -1,0 +1,8 @@
+field,year_received,timely_response_binary,has_narrative,narrative_length,received_to_sent_lag_days,received_to_sent_lag_days_clipped,relief_response_binary
+year_received,1.0,0.0275,0.1048,0.0041,-0.031,-0.0506,0.0047
+timely_response_binary,0.0275,1.0,-0.0049,-0.0078,-0.0365,-0.0352,0.0252
+has_narrative,0.1048,-0.0049,1.0,0.5172,-0.038,-0.0548,-0.0254
+narrative_length,0.0041,-0.0078,0.5172,1.0,-0.0134,-0.021,-0.0044
+received_to_sent_lag_days,-0.031,-0.0365,-0.038,-0.0134,1.0,0.7905,-0.0241
+received_to_sent_lag_days_clipped,-0.0506,-0.0352,-0.0548,-0.021,0.7905,1.0,-0.03
+relief_response_binary,0.0047,0.0252,-0.0254,-0.0044,-0.0241,-0.03,1.0

@@ -1,0 +1,6 @@
+submitted_via,total_records,mean_value,median_value,p75_value,p90_value
+Referral,115982,3.31,1.0,3.0,8.0
+Phone,90435,2.44,0.0,0.0,8.0
+Fax,3406,2.08,0.0,2.0,6.0
+Postal mail,21423,1.84,0.0,0.0,5.0
+Web,1057735,1.05,0.0,0.0,1.0

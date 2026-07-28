@@ -1,0 +1,6 @@
+parameter,value,purpose
+alpha,0.05,Threshold for statistical significance.
+chi_square_correction,False,Yates correction is not used because most tests are not simple 2 x 2 tables.
+effect_size,Cramer's V,Assesses practical strength of categorical association.
+expected_count_rule,Expected counts generally >= 5,Checks reliability of chi-square approximation.
+model_comparison_metric,"ROC-AUC, PR-AUC, F1, precision, recall",Evaluates predictive usefulness beyond statistical testing.

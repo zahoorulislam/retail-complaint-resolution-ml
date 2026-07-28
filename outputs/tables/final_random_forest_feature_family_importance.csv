@@ -1,0 +1,9 @@
+feature_family,total_importance,feature_count,top_feature,importance_percent
+Company group,0.5394,51,company grouped Other,53.94
+Product / sub-product,0.197,56,sub product General-purpose credit card or charge card,19.7
+Issue / sub-issue,0.1289,183,sub issue Unknown,12.89
+Time period,0.0649,9,year received 2017,6.49
+Geography / state,0.0334,51,state grouped CA,3.34
+Narrative availability / length,0.0205,2,narrative length,2.05
+Submission channel,0.008,6,submitted via Web,0.8
+Customer tags,0.0079,4,tags Unknown,0.79
